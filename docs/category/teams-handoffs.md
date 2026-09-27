@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-190 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+193 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -74,6 +74,7 @@
 - [Executive Assistant](https://x.ai/bot/sf813cbd3aadad1cfda46) <sup>official</sup> — Delivers a morning briefing, plus an automatic catch-up summary whenever you join a new room. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Facta](https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR) — Grades claims from other bots as solid, shaky, overstated, or hold for a human. <sub>by [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [origin](https://x.com/JaimeBubblehead/status/2098141022320533714)</sub>
 - [FaStart CEO Bot](https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt) — One executive voice over your bot crew: a single decision queue, no question asked twice. <sub>by [Enes](https://x.com/enesteve_) (@enesteve_) · [origin](https://x.com/enesteve_/status/2103208562159735031)</sub>
+- [First-Week Coach](https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67) — Seven days of ten-minute lessons that turn a new user into a confident one. <sub>by [Michael](https://x.com/MichaelGannotti) (@MichaelGannotti) · [origin](https://x.com/MichaelGannotti/status/2103927818216411541)</sub>
 - [firstlight](https://x.ai/bot/WcEvLjD12fIJCW7xjbuea) — Onboards new Grok Bot users by doing small real tasks for first memory, first routine, and first automation. <sub>by [P-Jay](https://x.com/PjBohica) (@PjBohica) · [origin](https://x.com/PjBohica/status/2102119295417278762)</sub>
 - [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) — The operator that actually does the work, and pushes back when a plan is wrong. <sub>by [Uzi](https://x.com/UziObi) · [origin](https://x.com/UziObi/status/2093401597048975758)</sub>
 - [Fleet Brain](https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9) — Keeps a shared knowledge base and audits a multi-bot fleet for overlap. <sub>by [Francisco](https://x.com/FranciscoKemeny) (@FranciscoKemeny)</sub>
@@ -89,6 +90,7 @@
 - [Grok Boot](https://x.ai/bot/EK086K-pdFSZiwJsMvqIq) — Portuguese chief of staff that coordinates other bots and estimates deadlines. <sub>by [Phillipe](https://x.com/SianJoao65515) (@SianJoao65515) · [origin](https://x.com/SianJoao65515/status/2100714432808575150)</sub>
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — Audits and tunes the Grok bots you already have. <sub>by [Amina](https://x.com/GuleidAmina) (@GuleidAmina) · [origin](https://x.com/GuleidAmina/status/2093404361972122011)</sub>
 - [Grok Bot Knower](https://x.ai/bot/v13QjVZ83GcaitG_3j4su) — Answers what Grok Bot can actually do, checked rather than remembered. <sub>by [Noah](https://x.com/ngundotra) (@ngundotra) · [origin](https://x.com/ngundotra/status/2094085203685785840)</sub>
+- [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) — A coding foreman that delegates to sandboxed agents and reviews their work. <sub>by [ali](https://x.com/Mahmoudnia95) (@Mahmoudnia95) · [origin](https://x.com/Mahmoudnia95/status/2103931914918801592)</sub>
 - [GrokBot Optimizer](https://x.ai/bot/b7m5siCKd6baaWkPihOGa) — Audits your bot fleet against written rules and flags overlap. <sub>by [Robert](https://x.com/rjdhardesty) (@rjdhardesty) · [origin](https://x.com/rjdhardesty/status/2095764915919458768)</sub>
 - [GrokBot Summary](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) — A single coordinator that routes work to a small, deliberately lean bot bench. <sub>by [Joseph](https://x.com/BTC_Yogi) · aka *Chief of Staff* · [origin](https://x.com/BTC_Yogi/status/2094947816028381534)</sub>
 - [Grottle](https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L) — Turns weekly Grok Bot usage percent and reset time into an easier fuel gauge. <sub>by [BCORN](https://x.com/BCornTexas) · [origin](https://x.com/BCornTexas/status/2099580443943227590)</sub>
@@ -104,6 +106,7 @@
 - [House Cleaner](https://x.ai/bot/GD3ihBmx3ZbfEH0GzNqOT) — One-click fat-fleet refresh that explains token burn and writes thin memory on disk. <sub>by [sza](https://x.com/aba_taba) (@aba_taba) · [origin](https://x.com/aba_taba/status/2102516788688719939)</sub>
 - [Inbox Manager](https://x.ai/bot/s4f048c7b7da9e010c2c3) <sup>official</sup> — Triages the inbox into categories, surfaces urgent and blocked threads, and drafts replies. Every send waits for you. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Internal Communications Manager](https://x.ai/bot/s066a9145d936e74d0c80) <sup>official</sup> — Draft clear, on-voice copy from your real context, matched to each audience and channel. Review-only so it never sends on its own. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [IT Department Lead](https://x.ai/bot/28cjt6-FRq2D69vUX5F9L) — Staffs a bench of IT sub-bots across helpdesk, systems, network and security. <sub>by [DCOL](https://x.com/braytron) (@braytron) · [origin](https://x.com/braytron/status/2103994716685791345)</sub>
 - [Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7) — Daily handful of early-stage jobs the big boards miss. <sub>by [Ben](https://x.com/deysourav7091) (@deysourav7091) · [origin](https://x.com/deysourav7091/status/2095719866691133940)</sub>
 - [Kerf](https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ) — An engagement PM that slices sold work into tickets and drives it. <sub>by [Oscar](https://x.com/theoscarvibes) (@theoscarvibes) · [origin](https://x.com/theoscarvibes/status/2093543065055056124)</sub>
 - [Kilo](https://x.ai/bot/KaC99w7qlJ0QTtrKwxqFm) — Trims heavyweight Grok Bot setups by measuring context bloat, rebuilding offenders after approval, and naming weekly candidates. <sub>by [Terry](https://x.com/Tchap248) (@Tchap248) · [origin](https://x.com/Tchap248/status/2102471859413348698)</sub>

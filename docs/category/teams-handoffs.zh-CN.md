@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-190 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+193 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -74,6 +74,7 @@
 - [Executive Assistant](https://x.ai/bot/sf813cbd3aadad1cfda46) <sup>官方</sup> — 不用泡在群里也不掉线：每早一份简报，进新群自动补一份前情摘要。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Facta](https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR) — 给其他机器人说的话打分，标成扎实、含糊、夸大或留给人看。 <sub>作者 [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [出处](https://x.com/JaimeBubblehead/status/2098141022320533714)</sub>
 - [FaStart CEO Bot](https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt) — 用一个决策队列统领整组 bot，同一问题不问第二遍。 <sub>作者 [Enes](https://x.com/enesteve_) (@enesteve_) · [出处](https://x.com/enesteve_/status/2103208562159735031)</sub>
+- [First-Week Coach](https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67) — 七天每天十分钟，带新用户养成审批与连接器习惯。 <sub>作者 [Michael](https://x.com/MichaelGannotti) (@MichaelGannotti) · [出处](https://x.com/MichaelGannotti/status/2103927818216411541)</sub>
 - [firstlight](https://x.ai/bot/WcEvLjD12fIJCW7xjbuea) — 用动手任务给 Grok Bot 新手做上手引导，完成第一次记忆、例行与自动化。 <sub>作者 [P-Jay](https://x.com/PjBohica) (@PjBohica) · [出处](https://x.com/PjBohica/status/2102119295417278762)</sub>
 - [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) — 真正动手的执行手，计划不对会顶回去。 <sub>作者 [Uzi](https://x.com/UziObi) · [出处](https://x.com/UziObi/status/2093401597048975758)</sub>
 - [Fleet Brain](https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9) — 维护共享知识库，并检查多 Bot 舰队有没有重叠。 <sub>作者 [Francisco](https://x.com/FranciscoKemeny) (@FranciscoKemeny)</sub>
@@ -89,6 +90,7 @@
 - [Grok Boot](https://x.ai/bot/EK086K-pdFSZiwJsMvqIq) — 葡语幕僚长，协调其它机器人并估算工期。 <sub>作者 [Phillipe](https://x.com/SianJoao65515) (@SianJoao65515) · [出处](https://x.com/SianJoao65515/status/2100714432808575150)</sub>
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — 审计并调校你已经有的 Grok Bot。 <sub>作者 [Amina](https://x.com/GuleidAmina) (@GuleidAmina) · [出处](https://x.com/GuleidAmina/status/2093404361972122011)</sub>
 - [Grok Bot Knower](https://x.ai/bot/v13QjVZ83GcaitG_3j4su) — 回答 Grok Bot 究竟能做什么——现查现证，不靠记忆。 <sub>作者 [Noah](https://x.com/ngundotra) (@ngundotra) · [出处](https://x.com/ngundotra/status/2094085203685785840)</sub>
+- [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) — 编码工头，把任务分给沙箱代理并先审 diff 与测试。 <sub>作者 [ali](https://x.com/Mahmoudnia95) (@Mahmoudnia95) · [出处](https://x.com/Mahmoudnia95/status/2103931914918801592)</sub>
 - [GrokBot Optimizer](https://x.ai/bot/b7m5siCKd6baaWkPihOGa) — 对照你写的规则审计整队 bot，标出重叠和跑偏。 <sub>作者 [Robert](https://x.com/rjdhardesty) (@rjdhardesty) · [出处](https://x.com/rjdhardesty/status/2095764915919458768)</sub>
 - [GrokBot Summary](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) — 一个总协调，把活分给一小张精简的 Bot 工作台。 <sub>作者 [Joseph](https://x.com/BTC_Yogi) · 社区旧称 *Chief of Staff* · [出处](https://x.com/BTC_Yogi/status/2094947816028381534)</sub>
 - [Grottle](https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L) — 把每周 Grok Bot 用量百分比和重置时间，收成更好读的油表。 <sub>作者 [BCORN](https://x.com/BCornTexas) · [出处](https://x.com/BCornTexas/status/2099580443943227590)</sub>
@@ -104,6 +106,7 @@
 - [House Cleaner](https://x.ai/bot/GD3ihBmx3ZbfEH0GzNqOT) — 一键刷新臃肿机器人舰队，先讲清 token 消耗，再把瘦记忆落到磁盘。 <sub>作者 [sza](https://x.com/aba_taba) (@aba_taba) · [出处](https://x.com/aba_taba/status/2102516788688719939)</sub>
 - [Inbox Manager](https://x.ai/bot/s4f048c7b7da9e010c2c3) <sup>官方</sup> — 让邮箱重新可用：分好类、挑出紧急和被卡住的，回复和清理都只给草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Internal Communications Manager](https://x.ai/bot/s066a9145d936e74d0c80) <sup>官方</sup> — 按你的真实语境和各渠道口吻写内部通告，只出草稿，绝不自己发。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [IT Department Lead](https://x.ai/bot/28cjt6-FRq2D69vUX5F9L) — 统筹 IT 子机器人席位，覆盖帮助台、系统、网络与安全。 <sub>作者 [DCOL](https://x.com/braytron) (@braytron) · [出处](https://x.com/braytron/status/2103994716685791345)</sub>
 - [Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7) — 每天送来几条大板子上看不到的早期岗位。 <sub>作者 [Ben](https://x.com/deysourav7091) (@deysourav7091) · [出处](https://x.com/deysourav7091/status/2095719866691133940)</sub>
 - [Kerf](https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ) — 交付项目经理，把已卖出的活切成工单并往前推。 <sub>作者 [Oscar](https://x.com/theoscarvibes) (@theoscarvibes) · [出处](https://x.com/theoscarvibes/status/2093543065055056124)</sub>
 - [Kilo](https://x.ai/bot/KaC99w7qlJ0QTtrKwxqFm) — 衡量各机器人对话上下文体积，批准后精简臃肿者，并每周点名下一轮瘦身候选。 <sub>作者 [Terry](https://x.com/Tchap248) (@Tchap248) · [出处](https://x.com/Tchap248/status/2102471859413348698)</sub>

@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-153 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+155 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -57,6 +57,7 @@
 - [Fantasy Football Agent Manager](https://x.ai/bot/vjLDDwWJYW6S8SxSRxSy7) — Front-door GM for a multi-league fantasy football shop. Fans work to specialist desks, restamps boards on a clock, and never submits a lineup, trade, or. <sub>by [Eric](https://x.com/androiydai) (@androiydai)</sub>
 - [Fenrir](https://x.ai/bot/FReKiR82_-lF359lhshpR) — Runs a paper-trading tournament on NSE or NASDAQ. <sub>by [Shantanu](https://x.com/shantanugoel) (@shantanugoel) · aka *Fenrir (Paper Trading)* · [origin](https://x.com/shantanugoel/status/2093399035529085059)</sub>
 - [FF GROK](https://x.ai/bot/tLkBkT_BKHPMlhlYIEXON) — Fantasy football co-manager: daily digests, waiver and start-sit advice, and trade help for Sleeper and similar leagues — half-PPR, Superflex/2QB, and. <sub>by [Dr](https://x.com/AnthonyBozzo) (@AnthonyBozzo)</sub>
+- [Finance](https://x.ai/bot/-QmsSGUOmddnC9ZAm7zdR) — Read-only money coach that watches spending, bills, and subscriptions and builds an HTML dashboard. <sub>by [Brad](https://x.com/bradshannon) · [origin](https://x.com/bradshannon/status/2104043108325556445)</sub>
 - [Finance Bro](https://x.ai/bot/ZEPrrhLn7FhWMu3sk-i20) — Quiet Apple Wallet spend tracker with a daily morning check-in and practical tips from your real purchases. First chat walks timezone, currency, and. <sub>by [Maail](https://x.com/maail)</sub>
 - [Fixer](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) — Hand it the admin thing you keep putting off and it gets it nearly solved. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · aka *Fixer (Liam)* · [origin](https://x.com/liam_fallen/status/2093383129780109562)</sub>
 - [Flat hunter](https://x.ai/bot/amNEjElPIlHuan3BCbOT2) — London rental hunter: multi-portal shortlists with a modern-bathroom hard gate, then confirm-gated agent chase packs to book viewings inside your free. <sub>by [Ash](https://x.com/0xashrk) (@0xashrk)</sub>
@@ -87,6 +88,7 @@
 - [LLC formation](https://x.ai/bot/jjZi3um8a6oczowN3ydyE) — Form a US LLC or C-Corp via Whop: collect details, checkout, track docs. <sub>by [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott)</sub>
 - [Lot Boss](https://x.ai/bot/4Du3nwqKk5SfnYfX_pGs5) — Two-lane used desk. Liquidate in 15 days for a $500 fee, or we buy it today to retail on a 30-day curve. Same tape. Asks before it changes a live price. <sub>by [George](https://x.com/carsandcanvas) (@carsandcanvas)</sub>
 - [MacBuild](https://x.ai/bot/8sA76Cs0vZMy9ROtq8Rn2) — Covers travel, hobbies, DIY trails, health, and personal finance. <sub>by [Shawn](https://x.com/shawnmckee) (@shawnmckee)</sub>
+- [Market Sentiment Bot](https://x.ai/bot/dpEIOmZE65XCVEnPJUp_-) — Grades US risk assets one to ten, with a card for the market and each ticker. <sub>by [itachi](https://x.com/Itachidata) (@Itachidata) · [origin](https://x.com/Itachidata/status/2103974697834598748)</sub>
 - [Max](https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s) — Scoreboard that tracks Kalshi versus Polly bots and keeps the betting contest honest. <sub>by [Jodi](https://x.com/WorkWithJodi) · [origin](https://x.com/WorkWithJodi/status/2101112881928659112)</sub>
 - [Milybot](https://x.ai/bot/vcOZX9RVPatQMVCinCVY_) — Looks up Australian company records and helps you wire up Milypay. <sub>by [sal](https://x.com/1Milysec) (@1Milysec) · [origin](https://x.com/1Milysec/status/2093806488586502490)</sub>
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) — Looks for legal ways to make money. First run installs agentself and a wallet, then hunts opportunities. <sub>by [Michael](https://x.com/mbhound) · [origin](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>

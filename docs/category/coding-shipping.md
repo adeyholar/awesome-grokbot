@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-178 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+186 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -13,16 +13,21 @@
 - [Agent Smith](https://x.ai/bot/JcFj23aaufNWkuiiJTX0j) — A janitor for multi-bot workspaces that stops cruft piling up. <sub>by [Chip](https://x.com/chiplay) · [origin](https://x.com/chiplay/status/2093502053037293650)</sub>
 - [AI Boy](https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p) — Start and supervise Claude Code or Codex coding runs from inside Grok Bot. <sub>by [David](https://x.com/infdaze) · [origin](https://x.com/infdaze/status/2100801822428479674)</sub>
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) — Keeps every AI coding tool on your machines up to date. <sub>by [Alan](https://x.com/gheeunit) · [origin](https://x.com/gheeunit/status/2093427364973695253)</sub>
+- [AI Security Advisor](https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS) — Defensive hardening advice for AI apps: injection, tool abuse, leakage. <sub>by [zeus](https://x.com/zeuss_000) (@zeuss_000) · [origin](https://x.com/zeuss_000/status/2103984574061842850)</sub>
 - [Alchemist](https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj) — Experiments its way to a method for undocumented problems. <sub>by [Aman](https://x.com/2onism) · [origin](https://x.com/2onism/status/2093723713279803515)</sub>
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) — Describe an app in one sentence and get a running build back. <sub>by [Wayne](https://x.com/waynesutton) · [origin](https://x.com/waynesutton/status/2093835122231722366)</sub>
+- [Ask Avery](https://x.ai/bot/zLVAUrY3p1C7PIx0aMoeR) — Ask-the-expert orchestrator for engineering teams: Consultant or Reviewer. <sub>by Andreas (@community)</sub>
 - [Astra Afterburner](https://x.ai/bot/EEQXiBDbM6YJG1eedy8d4) — Points a stalled coding agent's research queue at your idle second plan. <sub>by [Drew](https://x.com/SacredFolio) (@SacredFolio) · [origin](https://x.com/SacredFolio/status/2100726625423728900)</sub>
+- [Automation Bot](https://x.ai/bot/zb80V9MKJ5MqPy5Woyqdx) — Scans codebase, writes local tests behind one on-demand runner. <sub>by Ezra (@community)</sub>
 - [Baut](https://x.ai/bot/NuFI0dF9FgvO8FfMPHKzx) — A copilot for shipping Grok.me games and making cash-honest product calls. <sub>by [𝕏](https://x.com/XAmandaMoore) (@XAmandaMoore)</sub>
 - [Beta Adoption Watcher](https://x.ai/bot/sfcf5d046a2784045938d) <sup>official</sup> — See who's actually trying the new feature. Monitors usage and surfaces which customers are in, so the team can follow up. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [BeTree](https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w) — Turns a plan spread across several bots into one live graph. <sub>by [Nicolas](https://x.com/NicoChauvin74) · [origin](https://x.com/NicoChauvin74/status/2093778235054031136)</sub>
 - [Blockchain Data Expert](https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx) — Answers on-chain questions by querying The Graph's subgraphs directly. <sub>by [Derek](https://x.com/data_nexus) (@data_nexus) · [origin](https://x.com/data_nexus/status/2094265024227192946)</sub>
+- [Bot Builder](https://x.ai/bot/PbZjCYArwV393be1eCQRW) — Paste-ready one-bot or crew operator specs (alt share). <sub>by Cody (@community)</sub>
 - [Bot designer](https://x.ai/bot/DUfaLelLJRtsDDAdJAcud) — Designs focused Grok Bots with one clear job and tight boundaries. <sub>by [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott)</sub>
 - [BTWIUseArch](https://x.ai/bot/ByvuU-9qFjsCd-NSKk2j9) — Arch Linux desktop/server helper. Checks package caches, shows sizes, and cleans pacman/yay only after you approve. <sub>by [Prakash](https://x.com/None) (@None)</sub>
 - [Bug Reproduction](https://x.ai/bot/s2d62197e15bd11a1bd63) <sup>official</sup> — Picks up the thread, clicks the same path in staging, captures the failure, and files a repro pack engineers can trust. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Build With Clarity](https://x.ai/bot/ZhjX4KoYZ76tyA8w4K3m-) — Patient building coach for non-coders using Cursor/Claude Code. <sub>by Rayan (@community)</sub>
 - [BuildFeed: Startups](https://x.ai/bot/7tob1iILCQ-5aELPbHSPn) — A guide to what founders, investors, and operators on YouTube actually say about starting, funding, selling, and staffing a company. Names who holds. <sub>by [Jake](https://x.com/buildfeedtech) (@buildfeedtech)</sub>
 - [Call FAQ Miner](https://x.ai/bot/s297976f738dc390d23df) <sup>official</sup> — Keep enablement current from real calls. Tracks questions, timestamps answers, and links back to the source recording. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [CarmackBot](https://x.ai/bot/B5UMQzelNds6Iy2nuFrka) — A first-principles game-engine and firmware specialist for small hobby games. Ships the smallest stack that runs. <sub>by Marcus · [origin](https://github.com/doanbactam/awesome-grok-bots)</sub>
@@ -30,6 +35,7 @@
 - [Chep](https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1) — Finds the lowest all-in US price for a product with shipping and coupons counted. <sub>by [Joel](https://x.com/MortMatters) · [origin](https://x.com/MortMatters/status/2100784159924924604)</sub>
 - [Chief of Staff](https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4) — Small-business chief of staff that routes work across specialist bots for GTM, editorial, and engineering while keeping connector lanes clean. <sub>by [EdibleAnus](https://x.com/TheEdibleAnus) · [origin](https://x.com/TheEdibleAnus/status/2100872166199660876)</sub>
 - [Claude Code](https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n) — A dedicated coding agent that runs all software work through the Claude Code CLI. <sub>by [Daniel](https://x.com/DanielZambrini) (@DanielZambrini)</sub>
+- [Claude Code](https://x.ai/bot/21qraGWAc4RJ3ra04boUK) — Adds the real Claude Code CLI to your Grok Bot team on Opus 5.5. <sub>by IndependentDocX (@community)</sub>
 - [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) — Routes coding asks through Claude Code on your Mac for one GitHub repo via Remote Control setup. <sub>by [Seth](https://x.com/SethBuildsAI) (@SethBuildsAI) · [origin](https://x.com/SethBuildsAI/status/2102740205983711715)</sub>
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) — Hands frontend and architecture jobs to the Claude Code CLI, then opens the PR. <sub>by [Farzad](https://x.com/farzyness) (@farzyness) · [origin](https://x.com/farzyness/status/2094240859243913669)</sub>
 - [Cloud Agent Orchestrator](https://x.ai/bot/s20b2c65ebeebb7362fa7) <sup>official</sup> — Keep many cloud agent runs moving without babysitting each one. Kicks off runs, monitors, chases what's stuck, and summarizes the report. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -71,6 +77,7 @@
 - [Game Builder](https://x.ai/bot/iaOrz78m_w7I90kusc5ia) — Ships small playable games and mini-loops you can open offline, with win/lose and optional points, not pitch decks. <sub>by [Eric](https://x.com/EricBuess) · [origin](https://x.com/EricBuess/status/2100918623145488729)</sub>
 - [GameDev](https://x.ai/bot/ZHNsPcOU8ej_E7VNElxD0) — On-call HTML game fixer that ships small player-requested changes live. <sub>[origin](https://x.com/StreamTeem/status/2100742508925845971)</sub>
 - [Gardener](https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp) — Pulls provable dead code in tiny behaviour-preserving pull requests. <sub>by [Tyler](https://x.com/tylerklose) · [origin](https://x.com/tylerklose/status/2093483701480866210)</sub>
+- [GitHub PR Desk](https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic) — One weekday digest of every PR, issue and comment across your repos. <sub>by [Michael](https://x.com/MichaelGannotti) (@MichaelGannotti) · [origin](https://x.com/MichaelGannotti/status/2103929935337595076)</sub>
 - [GPT Astra Oracle](https://x.ai/bot/_yTNK1xhcbUko1rM2AWAv) — Plan and review packets for a Cursor cloud agent, from a second model. <sub>by [Nathan](https://x.com/nathanromano) (@nathanromano) · [origin](https://x.com/nathanromano/status/2099999284686979169)</sub>
 - [Grimoire](https://x.ai/bot/luPJeAxuAjhqO97wU3wm0) — A 50-skill coding wizard with a 20-member advisory council. <sub>by [Nick](https://x.com/NickADobos) (@NickADobos) · aka *Grimoire's Tome & The Grim Council* · [origin](https://x.com/NickADobos/status/2093400318063284581)</sub>
 - [Grip](https://x.ai/bot/GyfhMCn4kdJUmS8gm2BMA) — Coaches a hobby robot arm through teach, replay and fine-tuning. <sub>by [Clayton](https://x.com/MooneyMillions) (@MooneyMillions) · [origin](https://x.com/MooneyMillions/status/2100002988995891653)</sub>
@@ -92,6 +99,7 @@
 - [Hopper](https://x.ai/bot/_zMsp35NS2zl-Kp1uIegB) — Funnel.io to BigQuery onboard operator that clones paid-search and paid-social style pipelines. <sub>by [Zach](https://x.com/deaguiarza) · [origin](https://x.com/deaguiarza)</sub>
 - [Idle Tees Developer](https://x.ai/bot/V5HwDeI_hTignxq9wLAnK) — Gameplay/systems developer for an idle/incremental game. Implements features, refactors, and bugfixes across helpers, shuttle, fusion, progression, and. <sub>by [Kas](https://x.com/MonsieurKas) (@MonsieurKas)</sub>
 - [Image Gen Bot](https://x.ai/bot/phPQtGzCZOynABubl0pwx) — An outer-loop assistant for stills and clips. It gathers brand and references, writes a Grok Imagine prompt, generates the image or video, cuts the. <sub>by [Matt](https://x.com/mattyp) (@mattyp)</sub>
+- [iMessage bot](https://x.ai/bot/_e4a8viXo8YiLjdUv4fqH) — Reads and sends iMessages on a connected Mac. <sub>by Evan (@community)</sub>
 - [Interaction Designer](https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1) — Designs the flow and every screen state before the visuals. <sub>by [UCDOps](https://x.com/ucdco) (@ucdco) · [origin](https://x.com/ucdco/status/2096525660311208204)</sub>
 - [Job Search](https://x.ai/bot/uzOaAuIWYVjVAlujdOOPx) — Weekday scout for senior remote AI / GenAI engineering roles. Posts short ranked digests (title, company, remote, pay signal, link, fit) and hands. <sub>by [Mehdi](https://x.com/mehdizare) (@mehdizare)</sub>
 - [Korean Public API](https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ) — Suggests Korean government open-data APIs for your build. <sub>by [Moon](https://x.com/reallygood83) (@reallygood83) · [origin](https://x.com/reallygood83/status/2096586211909664899)</sub>

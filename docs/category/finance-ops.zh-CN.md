@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-153 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+155 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -57,6 +57,7 @@
 - [Fantasy Football Agent Manager](https://x.ai/bot/vjLDDwWJYW6S8SxSRxSy7) — 多联赛梦幻足球店的前门总经理，把球迷活分给专家并汇总阵容建议。 <sub>作者 [Eric](https://x.com/androiydai) (@androiydai)</sub>
 - [Fenrir](https://x.ai/bot/FReKiR82_-lF359lhshpR) — 在 NSE 或纳斯达克上跑模拟交易赛。 <sub>作者 [Shantanu](https://x.com/shantanugoel) (@shantanugoel) · 社区旧称 *Fenrir (Paper Trading)* · [出处](https://x.com/shantanugoel/status/2093399035529085059)</sub>
 - [FF GROK](https://x.ai/bot/tLkBkT_BKHPMlhlYIEXON) — 梦幻足球联合经理，每日摘要、捞人与出场坐场建议，以及交易雷达。 <sub>作者 [Dr](https://x.com/AnthonyBozzo) (@AnthonyBozzo)</sub>
+- [Finance](https://x.ai/bot/-QmsSGUOmddnC9ZAm7zdR) — 只读家庭财务教练，盯开支账单与订阅，并生成带图表的 HTML 看板。 <sub>作者 [Brad](https://x.com/bradshannon) · [出处](https://x.com/bradshannon/status/2104043108325556445)</sub>
 - [Finance Bro](https://x.ai/bot/ZEPrrhLn7FhWMu3sk-i20) — 安静的 Apple Wallet 花费跟踪，每天早晨对账，并按真实消费给实用提醒。 <sub>作者 [Maail](https://x.com/maail)</sub>
 - [Fixer](https://x.ai/bot/CEtFUY1_kkn78AJSNINHI) — 把你一直拖着的行政活丢给它，它会差不多办妥。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · 社区旧称 *Fixer (Liam)* · [出处](https://x.com/liam_fallen/status/2093383129780109562)</sub>
 - [Flat hunter](https://x.ai/bot/amNEjElPIlHuan3BCbOT2) — 伦敦租房猎人，多门户短名单并硬性要求现代浴室，再确认看房。 <sub>作者 [Ash](https://x.com/0xashrk) (@0xashrk)</sub>
@@ -87,6 +88,7 @@
 - [LLC formation](https://x.ai/bot/jjZi3um8a6oczowN3ydyE) — 通过 Whop 成立美国 LLC 或 C-Corp，收集资料、结账、跟踪文件。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott)</sub>
 - [Lot Boss](https://x.ai/bot/4Du3nwqKk5SfnYfX_pGs5) — 二手车双通道桌面，十五天清仓收五百美元，或当日收购按三十天零售曲线，改价前先问你。 <sub>作者 [George](https://x.com/carsandcanvas) (@carsandcanvas)</sub>
 - [MacBuild](https://x.ai/bot/8sA76Cs0vZMy9ROtq8Rn2) — 覆盖旅行、爱好、徒步、健康与个人理财。 <sub>作者 [Shawn](https://x.com/shawnmckee) (@shawnmckee)</sub>
+- [Market Sentiment Bot](https://x.ai/bot/dpEIOmZE65XCVEnPJUp_-) — 用公开数据给美股风险资产打一到十分并出卡片。 <sub>作者 [itachi](https://x.com/Itachidata) (@Itachidata) · [出处](https://x.com/Itachidata/status/2103974697834598748)</sub>
 - [Max](https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s) — 记分板，跟踪 Kalshi 与 Polly 两侧机器人，让对赌竞赛可核验。 <sub>作者 [Jodi](https://x.com/WorkWithJodi) · [出处](https://x.com/WorkWithJodi/status/2101112881928659112)</sub>
 - [Milybot](https://x.ai/bot/vcOZX9RVPatQMVCinCVY_) — 查澳大利亚公司档案，并帮你接上 Milypay。 <sub>作者 [sal](https://x.com/1Milysec) (@1Milysec) · [出处](https://x.com/1Milysec/status/2093806488586502490)</sub>
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) — 找合法赚钱办法。第一次运行会装 agentself 并建钱包，然后再找机会。 <sub>作者 [Michael](https://x.com/mbhound) · [出处](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>

@@ -2,7 +2,7 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-166 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+170 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
@@ -90,6 +90,7 @@
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) — 摸清目标公司，一路往上找到能拍板的人。 <sub>作者 [Liam](https://x.com/liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383148906184985)</sub>
 - [Jordan Belfort](https://x.ai/bot/fh1hnF7YJVoSJxEu-vKwj) — 高能销售收单手，起草话术和跟进。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen)</sub>
 - [Kobe](https://x.ai/bot/xtYm43WREx2nqqt3in_bO) — 高中篮球校队队长的专项顾问，管训练、比赛计划与个人进步。 <sub>作者 [Carter](https://x.com/CPulrang) (@CPulrang)</sub>
+- [Krishna — Head of Marketing](https://x.ai/bot/k-keodk82Xq6in9aQY_jT) — 资讯简报助手。 <sub>作者 Anish (@community) · [出处](https://x.com/BotDirectoryAI/status/2103834887211905437)</sub>
 - [Landing page generator](https://x.ai/bot/D0UvxRvNzDTR_xOJ6Iq08) — 为产品写销售页并上线，顺便接好结账。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [出处](https://x.com/ColinMcDermott/status/2098713508649095518)</sub>
 - [Landscape Ops Root](https://x.ai/bot/sXxteYqvOtq6FMldfAVPw) — 景观设计/施工运营的根规划器，销售、现场、资金、存在感。 <sub>作者 [Warren](https://x.com/GoeLandscapes) (@GoeLandscapes)</sub>
 - [Lara](https://x.ai/bot/ivUb6chV-JDdWJ11MI8c8) — 公关经理机器人，跑 LinkedIn 与 X 专家，校验草稿后再排队发布。 <sub>作者 [Kas](https://x.com/MonsieurKas) (@MonsieurKas)</sub>
@@ -105,6 +106,7 @@
 - [Linkedin Leads](https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W) — 每天按你的关键词扫 LinkedIn 帖子和评论找线索。 <sub>作者 [Angel](https://x.com/angelesp) · [出处](https://x.com/angelesp/status/2093826046231511549)</sub>
 - [LinkedinOutreach](https://x.ai/bot/qFHGsPu6CGtrug6Lm78rJ) — 在 LinkedIn 上找人并筛选，再排好浏览、加好友和私信。 <sub>作者 [Quickfiling](https://x.com/myphonely) (@myphonely)</sub>
 - [Lobster Agents](https://x.ai/bot/XECw-q9SY0rMprOq66UTt) — 二十八个 AI 代理组成一家真公司，覆盖工程、设计、测试、数据、营销、销售、法务等席位。 <sub>作者 [Marc](https://x.com/MarcMojica) (@MarcMojica) · [出处](https://x.com/MarcMojica/status/2100012447579177209)</sub>
+- [Local Leads Finder](https://x.ai/bot/20XAOL-rGYHvg0BvJgXLz) — 销售线索与触达助手。 <sub>作者 Bryan (@community)</sub>
 - [Lookalike Scout](https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI) — 从一个对口客户扩出同类公司，并确认里面谁能拍板。 <sub>作者 [Taus](https://x.com/ShehjadTaus) (@ShehjadTaus) · [出处](https://x.com/ShehjadTaus/status/2098538235303735484)</sub>
 - [Luma Pages](https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY) — 为场地营销搭并更新私密 Luma 活动页，含文案、品牌、报名、容量候补与名单导出。
 - [Mappy](https://x.ai/bot/spIXb6rwPJq_iFlu1L-_l) — 把目标公司里现在在职的人图画出来。 <sub>作者 [Nick](https://x.com/NickRoman) (@NickRoman) · 社区旧称 *Mappy (Talent Map)* · [出处](https://x.com/NickRoman/status/2093426904950833178)</sub>
@@ -112,6 +114,7 @@
 - [Meeting Prep Buddy](https://x.ai/bot/s445a0c9a2ca4bea7729e) <sup>官方</sup> — 每场会都有备而去：从日历、笔记、CRM、Gong、Slack 汇出与会人、上次接触和未决事项。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Merch Fulfillment Operator](https://x.ai/bot/se479952f3c9e373dfd64) <sup>官方</sup> — 周边寄给对的人：做触达、盯兑换表单、在聊天里问你批不批，通过了就发货。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Miles](https://x.ai/bot/zYTKGwDgxJnIoHHy4eXAC) — 为 CRM、GoHighLevel 与 AI 前台找高意向购买信号。 <sub>作者 [Darius](https://x.com/dariusgaynor) (@dariusgaynor)</sub>
+- [Mudbot](https://x.ai/bot/9DytLoUb-ZzzYb_Skem68) — 销售线索与触达助手。 <sub>作者 Jack (@community)</sub>
 - [Music PR Bot](https://x.ai/bot/o2_Nqk-xSpJRDquQrSmyP) — 专辑外联，每日推介、草稿、电台/媒体 CRM。 <sub>作者 [Dani](https://x.com/Danihakim73) (@Danihakim73)</sub>
 - [Nikita Bier](https://x.ai/bot/m0wqg4OfsKBO6aKi93vCV) — 用分享环路压测产品。告诉你别人会不会转给朋友，砍掉多余，给出本周能上的一个改动。 <sub>作者 Jacob · [出处](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
 - [NoShipSherlock](https://x.ai/bot/Lll9_CtLlBh_nEOWVQfMY) — 店铺丢件台，盯失踪、停滞与妥投异常包裹。 <sub>作者 [Nourhan](https://x.com/beyrouti) (@beyrouti) · [出处](https://x.com/beyrouti/status/2103635867004981608)</sub>
@@ -172,6 +175,7 @@
 - [Website agency lead scout](https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ) — 每天早上交出五家需要新网站、已经筛过的商家。 <sub>作者 [Josh](https://x.com/joshkim) · [出处](https://x.com/joshkim/status/2093586339086352806)</sub>
 - [X Marketing Lead](https://x.ai/bot/hI9VYNVWhcqA5agQ1OETW) — 围绕 X Ads、X Premium Business 与 Grok 的营销负责人，给任意创始人跑增长。 <sub>作者 [Joe](https://x.com/JoeSimo)</sub>
 - [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) — 为社交拍照应用协调专家机器人群，含世界瞬间侦察、营销等席位。 <sub>作者 [Atlan](https://x.com/zealt_today) (@zealt_today)</sub>
+- [フォーム優先アウトバウンド](https://x.ai/bot/-4fEgwVFAm8w_ULi4pjmC) — 日本 B2B 表单优先外拓，日备线索，仅在你说走时发送。 <sub>作者 [直人](https://x.com/isle_claude) (@isle_claude) · [出处](https://x.com/isle_claude/status/2103699353751969828)</sub>
 
 ---
 
