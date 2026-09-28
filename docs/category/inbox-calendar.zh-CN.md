@@ -2,7 +2,7 @@
 
 *分拣邮件、起草回复、守住日历、把工作日节奏跑起来。*
 
-207 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](inbox-calendar.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh)
+219 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](inbox-calendar.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh)
 
 ---
 
@@ -12,12 +12,14 @@
 - [Alfred](https://x.ai/bot/7KeRruqggKKBCx3MPcJel) — 说法语的私人管家，管邮件日历与行政，回复短而克制，未经你同意不发送。 <sub>作者 [Steve](https://x.com/StevoM1982) (@StevoM1982)</sub>
 - [Alfred](https://x.ai/bot/moKscJ7PToJw_PVQWvkf_) — 嘴欠的英式幕僚长，盯邮箱与网盘，做每日简报并协调队友机器人。 <sub>作者 [Michael](https://x.com/mmmllcadv3) (@mmmllcadv3) · [出处](https://x.com/mmmllcadv3/status/2101753040415969422)</sub>
 - [Asana Task Master](https://x.ai/bot/S2LodAIjlLw0mB30vN3Gl) — 读 Gmail 与 Outlook，把需行动的邮件变成 Asana 任务。 <sub>作者 [Wayne](https://x.com/wikiwayne) (@wikiwayne) · [出处](https://x.com/wikiwayne/status/2103637882757849123)</sub>
+- [Backpack](https://x.ai/bot/-soz2Si8sWlLlb8hTeIX2) — 把学校与活动邮件变成日历、提醒和一周安排。 <sub>作者 [Rohan](https://x.com/RohanBhanotAI) (@RohanBhanotAI) · [出处](https://x.com/RohanBhanotAI/status/2104332764434592081)</sub>
 - [BOOKIE](https://x.ai/bot/cu9T08lvtRNOfk_Nexys1) — 服务商家的预约搭档，把咨询与日历上下文收成短咨询草稿，避免双重预约。 <sub>作者 [Bud](https://x.com/BudJohnson) (@BudJohnson)</sub>
 - [bookworm](https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH) — 用创始人语气起草并发送阅读应用的内测邀请。 <sub>作者 [Navya](https://x.com/NavyaM89482) (@NavyaM89482) · [出处](https://x.com/NavyaM89482/status/2093524788761248166)</sub>
 - [Boost](https://x.ai/bot/Ka18PTTKUNtDDPg0HpYva) — 读公司邮箱，把真要干的事写进 Asana，不动你的发件箱。 <sub>作者 [Wayne](https://x.com/wikiwayne) (@wikiwayne) · 社区旧称 *Inbox to Asana* · [出处](https://x.com/wikiwayne/status/2095991720060014888)</sub>
 - [Bot inbox](https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl) — 一行消化所有有新动静的 Bot 和群聊。 <sub>作者 [Wayne](https://x.com/waynesutton) · [出处](https://x.com/waynesutton/status/2093835123498340611)</sub>
 - [Brief Lead](https://x.ai/bot/Lx6r1FAxSjB26NWABBp3G) — 从日历、邮件与团队聊天做出优先级切片，含事项、来源、为何重要、下一步与待决，并把营收行交给销售。 <sub>作者 [Yuvraj](https://x.com/Uv_i) (@Uv_i)</sub>
 - [Business Budget](https://x.ai/bot/rNlGaJjKi3viDjsBQRfL_) — 通过专家队友跑你工作日的委派机器人，邮件、日历、研究各就各位。 <sub>作者 [Joshua](https://x.com/GirodJoshu94497) (@GirodJoshu94497)</sub>
+- [Calendar Gatekeeper](https://x.ai/bot/ZPAhO3D3_1kuqX08fszYm) — 日历门卫，提议专注时段但不搅乱整天。 <sub>作者 Anthony</sub>
 - [Calendar Manager](https://x.ai/bot/VIWAQ6LqFOoqR72jD3OVO) — 你的 Google 日历桌，按需简报、排期、回复邀请，并检查个人与家庭共享日历冲突。 <sub>作者 [Nick](https://x.com/Tinman346)</sub>
 - [Call Follow-Ups](https://x.ai/bot/estQ8HWdKqhheDNmOGjcy) — 把每次录音通话收成你口吻的跟进邮件、下一步备注与 CRM 更新，含团队资格字段。
 - [CampusOps](https://x.ai/bot/vluD5Z1bUux-onnEk1Alg) — 把教学大纲收成能跟着走的周计划。 <sub>作者 [Michael](https://x.com/klytron_dev) (@klytron_dev) · [出处](https://x.com/klytron_dev/status/2096332349306781934)</sub>
@@ -54,6 +56,7 @@
 - [Chop Bot](https://x.ai/bot/3ITYjIFCSujYyq6rp5VAq) — 把收件箱、日历与 X 回复砍成一份日简报，并预备仅草稿的回复。 <sub>作者 [Calix](https://x.com/CaliLumberJack) · [出处](https://x.com/CaliLumberJack/status/2104082348547649547)</sub>
 - [Chuck](https://x.ai/bot/CqQQXo05k79ukSLCubxfj) — 批量退订推销邮件，让收件箱多留私人信和正事。 <sub>作者 [Veetharag](https://x.com/veetharag) · [出处](https://x.com/veetharag/status/2102739508089553336)</sub>
 - [Client Board Ops](https://x.ai/bot/dCnuQGIkcRywkol7dlBpr) — 工作日客户看板自动化，早间把 Trello 同步到任务表，并邮件发状态。 <sub>作者 [Gil](https://x.com/MrGonzo1024) (@MrGonzo1024)</sub>
+- [COI Autopilot](https://x.ai/bot/_g9LeHhlCZnm5pCH9JTAH) — 自动催讨保险凭证，少在邮件迷雾里空转。 <sub>作者 Bryce</sub>
 - [Commitments](https://x.ai/bot/rFShmowW_3x_qeXQQB-sn) — 抓住你在 Slack、Notion 和邮件里随口答应的事，并在 Notion 里盯到真正做完。 <sub>作者 [Sam](https://x.com/samlambert) (@Sam Lambert) · [出处](https://x.com/samlambert/status/2099584402045210992)</sub>
 - [Communications Desk](https://x.ai/bot/N-Kgs41b2Lf9vVCkgsTHp) — 教育者与运营者的多收件箱通信桌，分流广告与实时运营，盯 CRM 与社区里的真人请求，只起草不擅自发。 <sub>作者 [Mitch](https://x.com/mitchanelson) (@mitchanelson)</sub>
 - [Content Calendar](https://x.ai/bot/B_WCQAMMbhkNU2r3r4YNO) — 只管跨渠道发帖日历，排期、多日弧线、冲突，一次只盯一条。 <sub>作者 [ladybarrelmaker](https://x.com/ladybarrelmaker) · [出处](https://x.com/ladybarrelmaker/status/2102764678791495692)</sub>
@@ -64,9 +67,11 @@
 - [Creator Desk](https://x.ai/bot/dM43J1T44OmcRdAsNHsBf) — 服务原创作者的 X 工作台，策划撰写并安排帖子、短视频与值得回的评论。 <sub>作者 [Stephen](https://x.com/MadeItHappenX) · [出处](https://x.com/MadeItHappenX/status/2104034337771417720)</sub>
 - [CreditGrok](https://x.ai/bot/u2wcsBjv2IBil5fBv37cZ) — 带你走完 AnnualCreditReport.com 免费三局征信报告流程，处理邮箱与手机验证码，并保存 PDF。 <sub>作者 [Jered](https://x.com/jeredtaylor) (@Jered Taylor) · [出处](https://x.com/jeredtaylor/status/2102268858392555527)</sub>
 - [CS BOT](https://x.ai/bot/q7dwPN9SUAIhXUWLhjHN9) — 向中小企业销售 AI 网站聊天机器人的参谋长，走向市场计划、演示组件与跟进。 <sub>作者 [Billy](https://x.com/The_MLM_Hub) (@The_MLM_Hub)</sub>
+- [Customer Service](https://x.ai/bot/zC_-D00Dam5jmHf0t62l_) — 客服桌面，按你的政策语气起草回复。 <sub>[出处](https://x.com/degen4lyfe_/status/2104325538496291020)</sub>
 - [Daili](https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X) — 整合日历天气重要邮件和连接器的晨报，并按你指定的日期生成每周展望。 <sub>作者 [ℙ𝕒𝕦𝕝](https://x.com/McNeely) (@Paul L. McNeely) · [出处](https://x.com/McNeely/status/2101165259750773240)</sub>
 - [DataBye](https://x.ai/bot/-M2E0mNqSbuPgYBEtU-Oa) — 西班牙语 GDPR 助手，连接 Gmail 或 Outlook，在西班牙代发正式的数据删除请求。 <sub>作者 [686f6c61](https://x.com/686f6c61) · [出处](https://x.com/686f6c61)</sub>
 - [Deep Value Season](https://x.ai/bot/E9fQj_z8gnmjS6bYcfK8D) — 对日历邀请给出裁决、异步更新和礼貌婉拒。 <sub>作者 [Anon](https://x.com/GuntherD45) (@GuntherD45)</sub>
+- [Delta-X](https://x.ai/bot/zReFhsDYUwyt8YM93ahNL) — 从邮件收据找出忘记的订阅，取消你点名的项，并按睡眠安排一周。 <sub>作者 [Courtney](https://x.com/peoniesdragon) · [出处](https://x.com/peoniesdragon/status/2104150894933925898)</sub>
 - [Designer Assistant](https://x.ai/bot/mDbMcGECO8ASZKUdm9nd5) — 空间、派对、活动和婚礼的设计助手，帮你找单品、定造型、采购并起草邮件。 <sub>作者 [Amber](https://x.com/amberdawn1786) (@amberdawn1786)</sub>
 - [Dewey](https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5) — 盯着 Gmail，只把真正需要你的邮件拎出来。 <sub>作者 [William](https://x.com/Vixlio) · [出处](https://x.com/Vixlio/status/2093843651856081165)</sub>
 - [Dining Watch Playbook](https://x.ai/bot/lmfboo7tzRNqv8-1Xi6NW) — 你睡着时的网络研讨会与线上会议夜班出席者，转发纪要与行动项。 <sub>作者 [kp](https://x.com/azygosvagus) (@azygosvagus)</sub>
@@ -74,6 +79,7 @@
 - [Dispatch](https://x.ai/bot/YkmZEZYBk-BqylyQbM3kq) — 每晚扫邮件、Slack、LinkedIn 和 X 私信，把漏掉的通话补上。 <sub>作者 [Filippo](https://x.com/FilippoFonseca) · [出处](https://x.com/FilippoFonseca/status/2093402774704914915)</sub>
 - [Dispatch](https://x.ai/bot/6zJ1yU4dDfAVYFJcy0687) — 工作日清 Gmail，只起草回复从不发出。 <sub>作者 [Steve](https://x.com/seoulscurry) (@seoulscurry)</sub>
 - [Dmarc Specialist](https://x.ai/bot/pEUC21J4T7tQ3ORZx8w05) — 审 DMARC 汇总报告，把 SPF、DKIM、DMARC 策略从 none 往强制推。 <sub>作者 [Brett](https://x.com/brettev) (@brettev) · [出处](https://x.com/brettev/status/2102604923301204417)</sub>
+- [Doctor](https://x.ai/bot/vPj8mlryYRn2ZwC5w5-bV) — 就诊助手，准备问题清单，不做诊断。 <sub>作者 Vincenzo</sub>
 - [Done](https://x.ai/bot/GsaAJ6kySI1O1sM7kiMiK) — 把日常杂事从比较预订确认做到写入日历，并返回一行凭证。 <sub>作者 [Paulo](https://x.com/paulovitorjp) (@Paulo Pereira) · [出处](https://x.com/paulovitorjp/status/2101142832304066836)</sub>
 - [Donna](https://x.ai/bot/jN7NxcuvHwX2Lxciay28Y) — 西装革履式锋利私人助理，日历、邮件、预订，并把杂务挡在你门外。 <sub>作者 [Mike](https://x.com/MikePattyn)</sub>
 - [E-mail Organizer](https://x.ai/bot/PUn74RYv_r3pcSvNkeQbd) — 荷兰语 Gmail 管家，按供应商贴标签、清噪声，并把发票收到 Payments。 <sub>作者 [Lein](https://x.com/leingoedbloed) (@Leendert Goedbloed) · [出处](https://x.com/leingoedbloed/status/2099569404115624094)</sub>
@@ -89,8 +95,11 @@
 - [Executive Assistant](https://x.ai/bot/_DnP777DCicZpaTtm9_h5) — 高管 EA 参谋，会议室、面试准备、领导层外联、Slack 频道盘点与表历核对。
 - [Family Coordinator](https://x.ai/bot/LhK_PAR3MJ7m9QL6vZFt-) — 盯个人 Gmail 里的家庭邮件，按孩子贴标签，并把活动写入家庭 Google 日历。 <sub>作者 [Scott](https://x.com/Scott)</sub>
 - [Family HQ](https://x.ai/bot/OCW3-oxETUt82FN_BlwoN) — 家庭前门，你只跟一个人说，日历、学校与家务再分给专家机器人。 <sub>作者 [Robert](https://x.com/AlsakerUSMC)</sub>
+- [Fare Watch](https://x.ai/bot/8ATt-4n2lYW3D7Ky9TYyu) — 盯着已订行程从收件箱里找更便宜机票住宿或更好日期。 <sub>作者 [Austin](https://x.com/ahoop) · [出处](https://x.com/ahoop/status/2104449084660629618)</sub>
 - [Feedback Triage](https://x.ai/bot/GMWdsAx2e40XGT9wCYo4Y) — 把邮件里的支持与产品反馈分成缺陷、功能与路线图草稿，每张工单与客户回复都经收件箱门批准。 <sub>作者 [Patrick](https://x.com/psoreilly) (@psoreilly)</sub>
 - [Fleet Factory](https://x.ai/bot/BAYUUoTHAtiILmNu1jM3y) — 工作日收工，过一遍收件箱、日历与进行中事项。 <sub>作者 [Drew](https://x.com/SacredFolio) (@SacredFolio) · [出处](https://x.com/SacredFolio/status/2099992953834156454)</sub>
+- [Follow-Up Nudge](https://x.ai/bot/ylBNvuYu7IDolbSmmKHUU) — 工作日早晨按日历出会议一页纸，含与会者与准备问题。 <sub>作者 [Mike](https://x.com/DoonerDesigns_) (@DoonerDesigns_) · 社区旧称 *Meeting Prep* · [出处](https://x.com/DoonerDesigns_/status/2104008674658459670)</sub>
+- [Follow-Up Nudge](https://x.ai/bot/ON6ooxyj2fUPWXPmuAi3x) — 催促卡住的跟进，让未闭环事项再碰一次。 <sub>作者 Mike</sub>
 - [Founder Chief of Staff](https://x.ai/bot/nB2LrfTaw07kYIuE32UZk) — 跑多事业运营的创始人幕僚长，早间跨日历与收件箱出简报。 <sub>作者 [Mike](https://x.com/mikemakar) (@mikemakar)</sub>
 - [Fractional Inbox Triage](https://x.ai/bot/6bxvMG6iPzU7Pok2iWjp9) — 分流忙碌创始人或 CISO 收件箱，起草礼貌拒供应商、标出总监级与私人线、摘要待你处理。 <sub>作者 [#CarbeneAI](https://x.com/CarbeneAI) (@CarbeneAI)</sub>
 - [Gamel](https://x.ai/bot/z5UAhMwtF2ReWHMZP7Fsb) — 收件箱清理机器人，退订营销邮件，保留收据与交易，并归档噪音。 <sub>作者 [Anthony](https://x.com/FELIXCATanzaro) (@FELIXCATanzaro)</sub>
@@ -151,7 +160,6 @@
 - [Master Chief](https://x.ai/bot/F8vp6AGwCX3DYuTJ_aahF) — 收件箱分流、按你语气起草回复，并给工作日早间简报。 <sub>作者 [Peter](https://x.com/psinke) (@psinke) · [出处](https://x.com/psinke/status/2103929339263770887)</sub>
 - [Medical Aid](https://x.ai/bot/rB9CBpOPXvWgmkcFr4DjN) — 跟踪医疗计划发票、理赔、汇款以及医生与药房单边，避免漏报。 <sub>作者 [Shane](https://x.com/DurbsSb53374) (@DurbsSb53374)</sub>
 - [Meeting prep](https://x.ai/bot/Hd3GphmPZ4aHWyFiBSmu5) — 按日历和已接上下文写短而能拿着打电话的会前简报。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
-- [Meeting Prep](https://x.ai/bot/ylBNvuYu7IDolbSmmKHUU) — 工作日早晨按日历出会议一页纸，含与会者与准备问题。 <sub>作者 [Mike](https://x.com/DoonerDesigns_) (@DoonerDesigns_) · [出处](https://x.com/DoonerDesigns_/status/2104008674658459670)</sub>
 - [Meeting Recap Deck](https://x.ai/bot/YklttiPpAHweKbOLV1TSF) — 把会议笔记收成你幻灯模板里的复盘页，只用你粘贴或上传的内容，不编造引语。
 - [Merott](https://x.ai/bot/X-9RP5FXSXCys6KnzMaHQ) — 邮件与营销活动台，管序列发送。 <sub>作者 [Kody](https://x.com/Kodytduncan) (@Kodytduncan)</sub>
 - [Mike](https://x.ai/bot/6FCbyQZKiwmuPiMqTmurR) — 读学校与个人邮件，标出要事并先问再动手。 <sub>作者 [Fernando](https://x.com/fernandoplaz) (@fernandoplaz) · [出处](https://x.com/fernandoplaz/status/2101320848598606151)</sub>
@@ -168,6 +176,7 @@
 - [Paver Repair](https://x.ai/bot/cKY3xCws0b73-O6pUEkDF) — 用邮件谈铺路砖维修、清洗、填沙与密封报价，跟踪承包商回复与比价。 <sub>作者 [Justin](https://x.com/DevildogDMD77) (@DevildogDMD77)</sub>
 - [Personal Finance Assistant](https://x.ai/bot/QUfBYJFLQCG_iqldjcI_z) — 个人理财助手，给 EveryDollar 开支分类，需要时查亚马逊订单与 Gmail 收据，并辅导可自由支配开销。 <sub>作者 [Alex](https://x.com/MiguelAlexCantu) (@MiguelAlexCantu)</sub>
 - [Polo](https://x.ai/bot/R-i5_wHeR_cBinyLVyvWh) — 盯收件箱里那些你已有邮件或文件就能答的问题，留下短草稿并在发送前问你。 <sub>作者 [Soleio](https://x.com/soleio)</sub>
+- [Porter](https://x.ai/bot/sy364bgoJN8Rb5vZo4Abo) — 把投递与收件笔记归入 Obsidian，补前门与 frontmatter。 <sub>作者 John (@community)</sub>
 - [Portfolio CEO Ops](https://x.ai/bot/C8zLE_qeEWxbMCGqB4JGN) — 多公司创始人的组合 CEO 桌，读 WhatsApp 公司列表里的客户请求，建客户群并跑运营。 <sub>作者 [Hector](https://x.com/IronmanCrypto) (@IronmanCrypto)</sub>
 - [Prime](https://x.ai/bot/7a8zayr1duE5o39tS2-h6) — 多机器人运营台的 CEO，把短租、市场研究、家务、Gmail 与梦幻体育分给专家，只上交成品。 <sub>作者 [🦊](https://x.com/pfd_zero) (@pfd_zero)</sub>
 - [Product Support Inbox Assistant](https://x.ai/bot/Rw8d83KAzTYQWBAtAscin) — 帮你查找并起草产品问题答复，未经你同意绝不发邮件。
@@ -180,15 +189,18 @@
 - [Recruiter Email Finder](https://x.ai/bot/lbf-biMZO02RdXeOBks_-) — 找出目标公司真正负责招人的人，并给出可发的邮箱。 <sub>作者 [Fiona](https://x.com/fwhittington_24) (@fwhittington_24) · [出处](https://x.com/fwhittington_24/status/2098810811514851568)</sub>
 - [Recruiting Coordinator](https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq) — 排面试环、给面试官准备材料并催卡住的环节，可从日历或名单，不擅自给候选人发信。
 - [Remind Bot](https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW) — 接住那些永远写不进日历的小提醒。 <sub>作者 [Damon](https://x.com/damonchen) · [出处](https://x.com/damonchen/status/2093559687354671335)</sub>
+- [Rep Coach](https://x.ai/bot/wJRcag7l4xPBW4Hc_mA0_) — 销售或表达复盘教练，反馈可复用。 <sub>作者 Joseph</sub>
 - [Rocky](https://x.ai/bot/DvWwLsNgDoi2uF3_5TTFf) — 按口味找本地即将开演的演出，并写入日历。 <sub>作者 [Alec](https://x.com/astrohoff) (@astrohoff) · [出处](https://x.com/astrohoff/status/2100007410756644948)</sub>
 - [Sad SpHam](https://x.ai/bot/ODVzBFxSrO4LoXPHlgc9e) — 每次注册发独立邮箱别名，并标出偏离该站隐私说明的来信。 <sub>作者 [AdventureNLearn](https://x.com/AdventureNLearn) · [出处](https://x.com/AdventureNLearn)</sub>
 - [School Assistant](https://x.ai/bot/fxl9ns6n4DV6_8xbkP1Oa) — 工作日发一封邮件，汇总成绩、待办和真正逾期的作业。 <sub>作者 [Kerry](https://x.com/kerrychalpin) (@kerrychalpin) · [出处](https://x.com/kerrychalpin/status/2100727742882869601)</sub>
 - [School Email Filter (Starter)](https://x.ai/bot/jozHHEPHEUpKODDZbN7kr) — 给忙父母的轻量学校邮件过滤器，标出像学校事务的消息并压噪音。 <sub>作者 [Jon](https://x.com/CLAWTaxGroup) (@CLAWTaxGroup)</sub>
+- [School Notice Action Pack](https://x.ai/bot/HEdOiXo7_KCr1XJIGj8sW) — 把学校通知变成行动、表格与日历占位。 <sub>作者 [Alex](https://x.com/AlexFCHF) · [出处](https://x.com/AlexFCHF/status/2104372318470328744)</sub>
 - [School Ops](https://x.ai/bot/DlHv5bM529QdYfJCHB7LK) — 给上班父母的早间学校摘要，分流学校邮件与日历，登录后查课堂应用，只上浮表格与日程变化。 <sub>作者 [Piers](https://x.com/prollinson) (@prollinson)</sub>
 - [Schoolbag](https://x.ai/bot/32Lf0iXCnPDE5n5eZp3he) — 盯学校邮件和日历，列出待签表格、许可条与郊游等截止事项。 <sub>作者 [Seth](https://x.com/SethBuildsAI) · [出处](https://x.com/SethBuildsAI/status/2101272638639202349)</sub>
 - [Seamore](https://x.ai/bot/8WjAjMTjfyF6wfzx-5Si3) — 旅行代理，按真实日历与偏好找行程，先查空位再猎好价，未经你同意不订票。 <sub>作者 [Tweekerr](https://x.com/TheTweekerr) (@TheTweekerr)</sub>
 - [Ship Note](https://x.ai/bot/xMCiRCmOCYLeRzW8nS6EL) — 把一次发布收成更新日志条目和一封邮件。 <sub>作者 [Sol](https://x.com/sol_wright7) (@sol_wright7) · [出处](https://x.com/sol_wright7/status/2093809370958098813)</sub>
 - [ShipmentBot](https://x.ai/bot/CKrMjeHvLlUY4Ut2FNkoj) — 跟踪海运提单，早间以异常优先发状态摘要，含在途天数、滞期与航线选择。 <sub>作者 [Ahmed](https://x.com/ayeteas) (@ayeteas)</sub>
+- [Signup Alias Guard](https://x.ai/bot/76smC7H9kKKxDcMfq19hY) — 邮件与收件箱助手。 <sub>作者 AdventureNLearn (@community)</sub>
 - [Small-Business Chief of Staff](https://x.ai/bot/krKc-KoCIrGQREMvzef6f) — 给业主经营者的动手幕僚长，扫预订、盯贷款人邮件，并推动日常运营。 <sub>作者 [clarke](https://x.com/StosichClarke) (@StosichClarke)</sub>
 - [Social Media](https://x.ai/bot/Xp5k82r21UvTani1ndv-b) — 跨社交网络排期发帖，并在一个收件箱里回复评论、私信和评价。 <sub>作者 [Eclincher by Tal](https://x.com/eclincher) (@eclincher) · [出处](https://x.com/eclincher/status/2097462985090547884)</sub>
 - [Space x Launch Bot](https://x.ai/bot/l7bhF020vKEQ-Gh7lTWSJ) — 端到端跟踪 SpaceX 发射，含即将日程、倒计时窗口、取消与回收。 <sub>作者 [WasAcop](https://x.com/WasAcop)</sub>

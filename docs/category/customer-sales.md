@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-170 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+177 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -13,6 +13,7 @@
 - [Adventure Photography Bot](https://x.ai/bot/-0bgFr7-a5pUPscGVqAe3) — Sponsorship outreach ops for Ama Dablam climbs and partners. <sub>by [Kai](https://x.com/kaiphotojawn) (@kaiphotojawn)</sub>
 - [AE deal bot](https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe) — Grades your open opportunities against MEDDPICC and names the next move to make. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2094802082750673227)</sub>
 - [Ag bot](https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh) — Finds and ranks real growers and suppliers near you for any ingredient. <sub>by [Blaze](https://x.com/BlazeDrinkwine) · [origin](https://x.com/BlazeDrinkwine/status/2100778715823149078)</sub>
+- [Agent Master](https://x.ai/bot/SuVx773sE53S1GfSmamKb) — Agent master that keeps multi-bot jobs owned and sequenced. <sub>by [John](https://x.com/JohnWalker) · [origin](https://x.com/JohnWalker/status/2104367259053441470)</sub>
 - [AI Search Visibility](https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X) — Checks whether AI assistants and Google recommend you, and who they name instead. Starts from a handful of questions your buyers actually ask.
 - [Apple Search Ads Review](https://x.ai/bot/gadc3bVOsg9iIwmzAGRve) — Reviews your Apple Search Ads spend against your cost per install target. Drafts the keyword, bid, and budget changes, and never touches your account.
 - [Big Tony](https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm) — Your enforcer against AI customer service. Big Tony handles cancellations that weren't honored, ghost charges, retention traps, fraud cleanup, and.
@@ -53,6 +54,7 @@
 - [deck-guy](https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH) — Builds the post-call slide deck straight out of the transcript. <sub>by [Pavan](https://x.com/pavravi) (@pavravi) · [origin](https://x.com/pavravi/status/2095194505876316378)</sub>
 - [dial bot](https://x.ai/bot/NJXi2SWEuhNxjOjspMMPi) — Places a real phone call for you and returns a written wrap-up after. <sub>by [Matt](https://x.com/mattyp) (@mattyp) · [origin](https://x.com/mattyp/status/2098156079620542639)</sub>
 - [dial bot](https://x.ai/bot/tIas6udS9kSXpcAz6LFd1) — Places outbound Bland AI phone calls and reports back with a written wrap-up.
+- [Domain Name Broker](https://x.ai/bot/--xvPdrEZEoqwnAn_moWw) — Finds leftover domains you never launched and drafts a clean first-touch email. <sub>by [Christopher](https://x.com/Chris_Vandaele)</sub>
 - [Draft Seller](https://x.ai/bot/4B2bBEXQ-c4c3JT8eMvyh) — Seller desk for marketplace listings, messages, and fulfillment. <sub>by [Dode](https://x.com/dode)</sub>
 - [Echo](https://x.ai/bot/ph5mcXqVy2p176Br7BJYi) — Builds the deck after a customer call, from what was actually said. <sub>by [Krista](https://x.com/kristaletz) · [origin](https://x.com/kristaletz/status/2093494509682217308)</sub>
 - [Enablement Fulfillment Specialist](https://x.ai/bot/s0dfd5486dc759d409d69) <sup>official</sup> — Answer "send me the recordings" without digging. Finds Zoom assets, builds one-pagers, uploads to Drive, and drafts the reply with links. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -84,6 +86,8 @@
 - [Icebreaker](https://x.ai/bot/62_FP-LQ4OOq4uTevKlUP) — A job-hunt wingman for AI trust-and-safety roles. <sub>by [Amber](https://x.com/amberdawn1786) (@amberdawn1786) · [origin](https://x.com/amberdawn1786/status/2093722772396536068)</sub>
 - [ICP Map Coach](https://x.ai/bot/yrm2MJ2nInUhoneTBSwJF) — Sizes TAM, narrows to lookalike ICP accounts, and fills buying committees. <sub>by [Taus](https://x.com/ShehjadTaus) (@ShehjadTaus) · [origin](https://x.com/ShehjadTaus/status/2098538235303735484)</sub>
 - [InsightfulPipe: Live Ads, SEO & Shopify Analyst](https://x.ai/bot/vYIAB3Z6V8gEERewymcw1) — Senior marketer for ads, SEO, social, and Shopify powered by live InsightfulPipe data. <sub>by [Support](https://x.com/insightfulpipe) (@insightfulpipe) · [origin](https://x.com/insightfulpipe)</sub>
+- [Instagram Iris](https://x.ai/bot/bc_XHf6W4m2dwI9qGDiYU) — Qualifies Instagram creators against your ICP then drafts a hook and DM. <sub>by [Frank](https://x.com/FrankFindsOut) · [origin](https://x.com/FrankFindsOut/status/2104476341865460019)</sub>
+- [Intake Desk](https://x.ai/bot/in_PtzvudSXOJ178cNxv0) — Intake desk that ranks pasted requests into one running queue. <sub>by [aaron](https://x.com/AMFoxtrot) (@AMFoxtrot) · [origin](https://x.com/AMFoxtrot/status/2104305631477858363)</sub>
 - [IOIQ Lite · Site Care](https://x.ai/bot/nGlUg9-CHIYUocr8NUC8m) — Lightweight keyless site care scorecard for small business sites. <sub>by [Sam](https://x.com/sam_builds_ai) (@sam_builds_ai)</sub>
 - [Jarvis Coordinator](https://x.ai/bot/vGBwBEELW79gSF340zJpb) — German coordinator bot with specialist partners for news, office, sales, systems, and a security auditor under tight approvals. <sub>by [Harald](https://x.com/HBud69) · [origin](https://x.com/HBud69/status/2101966920404566208)</sub>
 - [Job Application Pilot](https://x.ai/bot/HhL4o6s2LGOOse8YimJz3) — Helps people who just lost a role move fast on applications: fit checks, tailored answers, and a tracked apply pipeline so forms do not eat the whole day. <sub>by [Oggi](https://x.com/otgondavaa0) · [origin](https://x.com/otgondavaa0/status/2100029723686629710)</sub>
@@ -131,6 +135,7 @@
 - [Pipeline Pulse](https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev) — Scans your full pipeline for movement, stale next steps, forecast risk, and CRM gaps. Shows what changed across the book and drafts the updates needed.
 - [Plant Field OS](https://x.ai/bot/rAdegh2szovJbQjFsdxYa) — A field-sales day for industrial reps covering plan, installed base, and audit. <sub>[origin](https://x.com/Quantumcowgirl1/status/2101348217610756139)</sub>
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) — Drops your to-dos and a draft follow-up after every meeting. <sub>by [Priya](https://x.com/itspriyaptl) · [origin](https://x.com/itspriyaptl/status/2093389586864988661)</sub>
+- [Price Drop Hawk](https://x.ai/bot/R8lqHbIMtEDvv67kZg8l0) — Watches public prices and pings when a drop looks real. <sub>by Joseph</sub>
 - [Prospecting Plan Builder](https://x.ai/bot/s8b59eb62f90871ac5c36) <sup>official</sup> — Build the week's book of work. Seeds contacts, enriches email/mobile, and writes a ready-to-work tracker so outbound starts from a list. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Prospecting Sheet Builder](https://x.ai/bot/3Peagz3nzagjBRFhjrENd) — Wakes you up to a fresh sheet of qualified B2B accounts. <sub>by [Sultanov](https://x.com/thekuchh) (@thekuchh) · [origin](https://x.com/thekuchh/status/2093742276564459867)</sub>
 - [Pulse](https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj) — Talks you through Windows gaming-laptop faults with risk-ranked fixes and a hard stop before invasive steps. <sub>by [AdamDesigns](https://x.com/ZestStream) (@ZestStream) · [origin](https://x.com/ZestStream/status/2102067819462713408)</sub>
@@ -152,6 +157,8 @@
 - [Sales Outbound](https://x.ai/bot/s8ff03023f140bab479f7) <sup>official</sup> — Researches accounts overnight, scores contacts on intent, drafts email and LinkedIn in your voice, and leaves it for review. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Scout](https://x.ai/bot/Axr06_abjVj29IjBhJrQ_) — Finds accounts already using the product that are ready for more: self-serve upgrades and sales PQLs. Learns from won and lost deals, scores usage plus. <sub>by [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
 - [SE call bot](https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE) — Live backup for solutions engineers during customer calls. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2094066260376166500)</sub>
+- [shadow chief](https://x.ai/bot/sNh9WUT_7BY83jm1w3GJh) — Shadow chief that preps decisions before you walk into the room. <sub>by Robert</sub>
+- [Shop Compare](https://x.ai/bot/7EGBWWDrvgujhdOLCIrNi) — Comparison shopping research across public listings before you buy. <sub>by Luke</sub>
 - [Shop Processes](https://x.ai/bot/TkoRVSXsTCUnx4427FKnw) — Standing ops desk for a food plant / co-pack / seasoning-blend shop: sales orders through ingredient buys, forecast-driven make/buy, packing checks, and. <sub>by [Vince](https://x.com/VinceWilliams21) (@VinceWilliams21) · [origin](https://x.com/VinceWilliams21/status/2100013315321933905)</sub>
 - [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) — Operator desk for a ShopFloor-style Etsy digital shop: drafts listings, customer replies, and file specs. Seller uploads only — no outreach, no fake. <sub>by [Dex](https://x.com/Dex_01_) (@Dex_01_)</sub>
 - [skippy](https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx) — A San Francisco street-cleaning assistant. Paste a Maps pin, address, or intersection and it tells you the next posted sweep on that curb. Uses public.

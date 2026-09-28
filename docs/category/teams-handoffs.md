@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-193 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+195 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -87,9 +87,11 @@
 - [Gatekeeper](https://x.ai/bot/T5FSfM91XA6gMgh2rX56K) — Shows you what you would have to drop before you say yes to something new. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383132137279825)</sub>
 - [Gonzalo's SMB manager](https://x.ai/bot/G0GVoN9xUbXFucwWz539v) — Wins back customers and fills tomorrow, with the owner approving each step. <sub>by [Josh](https://x.com/joshkim) (@joshkim) · [origin](https://x.com/joshkim/status/2093579852955975761)</sub>
 - [Grant General Manager](https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_) — A general manager for a trades company that stands up the back office. <sub>by [Jon](https://x.com/HouseHackerJon) · [origin](https://x.com/HouseHackerJon/status/2093435306255220830)</sub>
+- [GRIDSTORM Squad Mate](https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4) — Co-op arcade squad mate for Geometry Wars style play with your bots. <sub>by [Matthew](https://x.com/TheMattyFG) (@TheMattyFG) · [origin](https://x.com/TheMattyFG/status/2104267198407536878)</sub>
 - [Grok Boot](https://x.ai/bot/EK086K-pdFSZiwJsMvqIq) — Portuguese chief of staff that coordinates other bots and estimates deadlines. <sub>by [Phillipe](https://x.com/SianJoao65515) (@SianJoao65515) · [origin](https://x.com/SianJoao65515/status/2100714432808575150)</sub>
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — Audits and tunes the Grok bots you already have. <sub>by [Amina](https://x.com/GuleidAmina) (@GuleidAmina) · [origin](https://x.com/GuleidAmina/status/2093404361972122011)</sub>
 - [Grok Bot Knower](https://x.ai/bot/v13QjVZ83GcaitG_3j4su) — Answers what Grok Bot can actually do, checked rather than remembered. <sub>by [Noah](https://x.com/ngundotra) (@ngundotra) · [origin](https://x.com/ngundotra/status/2094085203685785840)</sub>
+- [Grok Bot Specialist](https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz) — Grok Bot specialist that helps you design and debug other bots. <sub>by [Yutaka](https://x.com/_inady_) (@_inady_) · [origin](https://x.com/_inady_/status/2104229561429053938)</sub>
 - [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) — A coding foreman that delegates to sandboxed agents and reviews their work. <sub>by [ali](https://x.com/Mahmoudnia95) (@Mahmoudnia95) · [origin](https://x.com/Mahmoudnia95/status/2103931914918801592)</sub>
 - [GrokBot Optimizer](https://x.ai/bot/b7m5siCKd6baaWkPihOGa) — Audits your bot fleet against written rules and flags overlap. <sub>by [Robert](https://x.com/rjdhardesty) (@rjdhardesty) · [origin](https://x.com/rjdhardesty/status/2095764915919458768)</sub>
 - [GrokBot Summary](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) — A single coordinator that routes work to a small, deliberately lean bot bench. <sub>by [Joseph](https://x.com/BTC_Yogi) · aka *Chief of Staff* · [origin](https://x.com/BTC_Yogi/status/2094947816028381534)</sub>
@@ -127,7 +129,6 @@
 - [Master](https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx) — A lean orchestrator that routes every task to the right specialist and never works. <sub>by [Farzad](https://x.com/farzyness) · [origin](https://x.com/farzyness/status/2093384064363377099)</sub>
 - [Memento](https://x.ai/bot/_xZZE41svJdcq2w6ZWJan) — Lasting recall for Grok Bot, backed by an external memory store. <sub>by [Mahesh](https://x.com/MaheshtheDev) · [origin](https://x.com/MaheshtheDev/status/2094947237373890593)</sub>
 - [Mercury](https://x.ai/bot/lk1yHfim5Ayra0Q0QlN3L) — A standing tech lead that holds the system picture and delegates the coding out. <sub>by [Mujeeb](https://x.com/chiefjeeb) (@chiefjeeb) · [origin](https://x.com/chiefjeeb/status/2094223658151502326)</sub>
-- [Meta Grok](https://x.ai/bot/HAhgshU4r50gS81LCcpmk) — A weekday roundup of the five Grok bots people are actually talking about. <sub>by [Frank](https://x.com/FrankFindsOut) (@FrankFindsOut) · [origin](https://x.com/FrankFindsOut/status/2095092686906884164)</sub>
 - [Nomad](https://x.ai/bot/mbC-ZTmcOFq3sKUHfxf-3) — Keeps a running register of your agents so the stack is never locked in. <sub>by [Pedro](https://x.com/PedroAnibarro) (@PedroAnibarro) · [origin](https://x.com/PedroAnibarro/status/2095095116142666116)</sub>
 - [Norm](https://x.ai/bot/afzAN696RpFOIs-9uRTHo) — Normalizes names and skills across your Grok Bots with a locked map first; soft skill suggestions only, never invents bots. <sub>by [Code](https://x.com/CodeSolutionsIL) (@CodeSolutionsIL) · [origin](https://x.com/CodeSolutionsIL/status/2102556845571252276)</sub>
 - [Onboarding Manager](https://x.ai/bot/s9c881536413c0bbfa776) <sup>official</sup> — Builds the checklist, pulls the right docs, answers day-one questions, and routes anything else to whoever can answer. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -187,6 +188,7 @@
 - [Usage Watch](https://x.ai/bot/Q6-oQnCZVNLOwdzEw5i-j) — Tracks Grok Bot and Cursor spend against a daily ceiling and names expensive habits. <sub>by [Neessam](https://x.com/compileinstyle) (@compileinstyle) · [origin](https://x.com/compileinstyle/status/2098106082681888931)</sub>
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — Routes big coding jobs to your CLI subscriptions, not Grok credits. <sub>by [Jordan](https://x.com/JordanHall_dev) (@JordanHall_dev) · [origin](https://x.com/JordanHall_dev/status/2094562218889080932)</sub>
 - [Vet](https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT) — Audits a bot before you let it near your account. <sub>by [Gaurang](https://x.com/GaurangKaria) (@GaurangKaria) · [origin](https://x.com/GaurangKaria/status/2093779467554419008)</sub>
+- [Vitamin Vera](https://x.ai/bot/HAhgshU4r50gS81LCcpmk) — A weekday roundup of the five Grok bots people are actually talking about. <sub>by [Frank](https://x.com/FrankFindsOut) (@FrankFindsOut) · aka *Meta Grok* · [origin](https://x.com/FrankFindsOut/status/2095092686906884164)</sub>
 - [Voice of Customer](https://x.ai/bot/Nw1K3kkPk8N6eNTPed8gR) — Runs paid user interviews and public social listening for a growth team: who to ask, CRM exclusion audits, approval-gated outreach, X/Reddit themes,. <sub>by [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
 - [Wainwright Manager](https://x.ai/bot/TqyhVfSrAYZ-xQSrD_x1A) — Works as the hiring desk for a fleet of assistants: you pick the role you need from a single list, and it reads the specification over for problems before…. <sub>by [Ryan](https://x.com/itsryanlenk) (@itsryanlenk) · [origin](https://x.com/itsryanlenk/status/2100335862399553579)</sub>
 - [Walt](https://x.ai/bot/BsTA9W4uysdokbBQiriuQ) — An executive producer that QCs another filmmaker bot until the cut is done. <sub>by [FatDon](https://x.com/FatDon420) (@FatDon420) · [origin](https://x.com/FatDon420/status/2093481701930410183)</sub>

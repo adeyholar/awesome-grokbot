@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-193 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+195 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -87,9 +87,11 @@
 - [Gatekeeper](https://x.ai/bot/T5FSfM91XA6gMgh2rX56K) — 在你答应新事先，摊开你得放下什么。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383132137279825)</sub>
 - [Gonzalo's SMB manager](https://x.ai/bot/G0GVoN9xUbXFucwWz539v) — 把客户赢回来、把明天排满，每一步都要老板点头。 <sub>作者 [Josh](https://x.com/joshkim) (@joshkim) · [出处](https://x.com/joshkim/status/2093579852955975761)</sub>
 - [Grant General Manager](https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_) — 工匠公司的总经理，把后台从零搭起来。 <sub>作者 [Jon](https://x.com/HouseHackerJon) · [出处](https://x.com/HouseHackerJon/status/2093435306255220830)</sub>
+- [GRIDSTORM Squad Mate](https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4) — 几何战争风格街机队友，可与你的机器人同场。 <sub>作者 [Matthew](https://x.com/TheMattyFG) (@TheMattyFG) · [出处](https://x.com/TheMattyFG/status/2104267198407536878)</sub>
 - [Grok Boot](https://x.ai/bot/EK086K-pdFSZiwJsMvqIq) — 葡语幕僚长，协调其它机器人并估算工期。 <sub>作者 [Phillipe](https://x.com/SianJoao65515) (@SianJoao65515) · [出处](https://x.com/SianJoao65515/status/2100714432808575150)</sub>
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) — 审计并调校你已经有的 Grok Bot。 <sub>作者 [Amina](https://x.com/GuleidAmina) (@GuleidAmina) · [出处](https://x.com/GuleidAmina/status/2093404361972122011)</sub>
 - [Grok Bot Knower](https://x.ai/bot/v13QjVZ83GcaitG_3j4su) — 回答 Grok Bot 究竟能做什么——现查现证，不靠记忆。 <sub>作者 [Noah](https://x.com/ngundotra) (@ngundotra) · [出处](https://x.com/ngundotra/status/2094085203685785840)</sub>
+- [Grok Bot Specialist](https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz) — Grok Bot 专家，帮你设计与调试其它机器人。 <sub>作者 [Yutaka](https://x.com/_inady_) (@_inady_) · [出处](https://x.com/_inady_/status/2104229561429053938)</sub>
 - [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) — 编码工头，把任务分给沙箱代理并先审 diff 与测试。 <sub>作者 [ali](https://x.com/Mahmoudnia95) (@Mahmoudnia95) · [出处](https://x.com/Mahmoudnia95/status/2103931914918801592)</sub>
 - [GrokBot Optimizer](https://x.ai/bot/b7m5siCKd6baaWkPihOGa) — 对照你写的规则审计整队 bot，标出重叠和跑偏。 <sub>作者 [Robert](https://x.com/rjdhardesty) (@rjdhardesty) · [出处](https://x.com/rjdhardesty/status/2095764915919458768)</sub>
 - [GrokBot Summary](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) — 一个总协调，把活分给一小张精简的 Bot 工作台。 <sub>作者 [Joseph](https://x.com/BTC_Yogi) · 社区旧称 *Chief of Staff* · [出处](https://x.com/BTC_Yogi/status/2094947816028381534)</sub>
@@ -127,7 +129,6 @@
 - [Master](https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx) — 精简调度员，把每件事派给对的专长，自己从不动手。 <sub>作者 [Farzad](https://x.com/farzyness) · [出处](https://x.com/farzyness/status/2093384064363377099)</sub>
 - [Memento](https://x.ai/bot/_xZZE41svJdcq2w6ZWJan) — 给 Grok Bot 加持久记忆，存在外部记忆库里。 <sub>作者 [Mahesh](https://x.com/MaheshtheDev) · [出处](https://x.com/MaheshtheDev/status/2094947237373890593)</sub>
 - [Mercury](https://x.ai/bot/lk1yHfim5Ayra0Q0QlN3L) — 常驻技术主管：握住系统全局，把具体编码派出去。 <sub>作者 [Mujeeb](https://x.com/chiefjeeb) (@chiefjeeb) · [出处](https://x.com/chiefjeeb/status/2094223658151502326)</sub>
-- [Meta Grok](https://x.ai/bot/HAhgshU4r50gS81LCcpmk) — 工作日汇总人们真正在聊的五个 Grok Bot。 <sub>作者 [Frank](https://x.com/FrankFindsOut) (@FrankFindsOut) · [出处](https://x.com/FrankFindsOut/status/2095092686906884164)</sub>
 - [Nomad](https://x.ai/bot/mbC-ZTmcOFq3sKUHfxf-3) — 持续登记你手上的智能体，避免整套栈被锁死在最初那套工具上。 <sub>作者 [Pedro](https://x.com/PedroAnibarro) (@PedroAnibarro) · [出处](https://x.com/PedroAnibarro/status/2095095116142666116)</sub>
 - [Norm](https://x.ai/bot/afzAN696RpFOIs-9uRTHo) — 先锁定命名对照再统一各机器人名字与技能，只软建议技能，从不自创机器人。 <sub>作者 [Code](https://x.com/CodeSolutionsIL) (@CodeSolutionsIL) · [出处](https://x.com/CodeSolutionsIL/status/2102556845571252276)</sub>
 - [Onboarding Manager](https://x.ai/bot/s9c881536413c0bbfa776) <sup>官方</sup> — 新人拿到的是路径不是一堆链接：列清单、配文档、答第一天的问题，答不了的转给能答的人。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -187,6 +188,7 @@
 - [Usage Watch](https://x.ai/bot/Q6-oQnCZVNLOwdzEw5i-j) — 盯 Grok Bot 与 Cursor 花费对照日上限，点名烧钱习惯。 <sub>作者 [Neessam](https://x.com/compileinstyle) (@compileinstyle) · [出处](https://x.com/compileinstyle/status/2098106082681888931)</sub>
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — 把重编码活路由到你的 CLI 订阅上，别烧 Grok 额度。 <sub>作者 [Jordan](https://x.com/JordanHall_dev) (@JordanHall_dev) · [出处](https://x.com/JordanHall_dev/status/2094562218889080932)</sub>
 - [Vet](https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT) — 在你让一个 Bot 靠近账号前先审计它。 <sub>作者 [Gaurang](https://x.com/GaurangKaria) (@GaurangKaria) · [出处](https://x.com/GaurangKaria/status/2093779467554419008)</sub>
+- [Vitamin Vera](https://x.ai/bot/HAhgshU4r50gS81LCcpmk) — 工作日汇总人们真正在聊的五个 Grok Bot。 <sub>作者 [Frank](https://x.com/FrankFindsOut) (@FrankFindsOut) · 社区旧称 *Meta Grok* · [出处](https://x.com/FrankFindsOut/status/2095092686906884164)</sub>
 - [Voice of Customer](https://x.ai/bot/Nw1K3kkPk8N6eNTPed8gR) — 为增长团队跑付费访谈与公开社媒倾听，圈人、排除 CRM、审批外联并出周报。 <sub>作者 [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
 - [Wainwright Manager](https://x.ai/bot/TqyhVfSrAYZ-xQSrD_x1A) — 唯一职责，引导用户加入 Wainwright，并编排他们的 Grok Bot 舰队，做到顺畅的首次运行。首次醒来时，用招聘口吻介绍……。 <sub>作者 [Ryan](https://x.com/itsryanlenk) (@itsryanlenk) · [出处](https://x.com/itsryanlenk/status/2100335862399553579)</sub>
 - [Walt](https://x.ai/bot/BsTA9W4uysdokbBQiriuQ) — 执行制片，盯着另一个拍片 Bot 质检到成片。 <sub>作者 [FatDon](https://x.com/FatDon420) (@FatDon420) · [出处](https://x.com/FatDon420/status/2093481701930410183)</sub>
