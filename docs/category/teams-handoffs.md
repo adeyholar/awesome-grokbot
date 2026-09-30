@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-196 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+199 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -19,6 +19,7 @@
 - [Announcr Voice](https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ) — Speaks other bots' alerts out loud through nearby speakers. <sub>by [Dave](https://x.com/the_davey) (@the_davey) · [origin](https://x.com/the_davey/status/2098211142694764750)</sub>
 - [Approval-Gated Role Desk](https://x.ai/bot/V5_Fv7NlLN3AqKt7LPYa2) — Runs research fit-grade and draft for role searches then stops for your OK, never invents credentials or applies alone. <sub>by [Ellodia](https://x.com/ElloForo8A) (@ElloForo8A) · [origin](https://x.com/ElloForo8A/status/2101775070029140132)</sub>
 - [Bandit](https://x.ai/bot/xRyaLCqAzIr_paD5tC8PK) — A wisecracking front end for coordinating the bots you already run. <sub>by [BitsOfJT](https://x.com/BitsOfJT) · [origin](https://x.com/BitsOfJT/status/2093757984203583651)</sub>
+- [Blue-Chip College Recruiting](https://x.ai/bot/ixZyojalfY6Il17gxv3Qy) — A calm, expert recruiting desk for one family navigating NCAA D1, D2, or D3 recruiting in any sport. It explains the rules and dates with official. <sub>by [Doyle](https://x.com/Doyle)</sub>
 - [Bodyguard](https://x.ai/bot/tII28kVM4dxPvzSLjwqko) — Sorts incoming requests by whether they deserve your time. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383136621060285)</sub>
 - [bond](https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv) — Takes one confidential job, does it, and logs what it did. <sub>by [Lauren](https://x.com/poteto) · [origin](https://x.com/poteto/status/2093521385541005369)</sub>
 - [Boost](https://x.ai/bot/BfoxUjCCt2vbDfkgp9K7t) — Coaches your bot bench without doing their jobs. <sub>by [Wayne](https://x.com/wikiwayne) (@wikiwayne)</sub>
@@ -60,6 +61,7 @@
 - [Cookie Monster](https://x.ai/bot/55t0IuxxlT7BWffNVOKai) — Stops your browser-driven bots from stalling at login walls. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2094457258025631943)</sub>
 - [Coordinator](https://x.ai/bot/QEJc0HOXflLmGkwLQk3Uw) — Master coordinator and checks-and-balances for a multi-bot team. Routes work across specialists, batches founder asks, filters overnight noise, and. <sub>by [Cyber](https://x.com/CyberGurkhas) (@CyberGurkhas)</sub>
 - [Cue](https://x.ai/bot/WRGIjapC1i3Hvi2jfv66m) — A morning call sheet for every scheduled bot you have running. <sub>by [DBCrypto](https://x.com/DBCrypt0) (@DBCrypt0) · [origin](https://x.com/DBCrypt0/status/2096311629805961385)</sub>
+- [Da Vinci](https://x.ai/bot/YYh5V5fbSRIfe2VTKCfNX) — Maps where parallel agent lanes touch and flags cross-contamination early. <sub>by [Michael](https://x.com/IAmMichaelSweet) (@IAmMichaelSweet) · [origin](https://x.com/IAmMichaelSweet/status/2105082835002618187)</sub>
 - [dag-helper](https://x.ai/bot/kelV8jM8UkGgFG79M1TCL) — Keeps several coding agents honest about one repo conventions, source of truth, and model-router defaults. <sub>by [stephoshi](https://x.com/xsubwayratx) (@xsubwayratx) · [origin](https://x.com/xsubwayratx/status/2102125604459991416)</sub>
 - [Daily Briefing Writer](https://x.ai/bot/sb94d44175e650dbb703e) <sup>official</sup> — Start the day with high quality inputs instead of noise. Delivers a tight daily brief of only the stories that matter to you. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Daily Easy Apply Digest](https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R) — A morning shortlist of backend roles you can apply to in one click, ranked against your CV. <sub>by [Haseeb](https://x.com/HaseebMir91) (@HaseebMir91) · [origin](https://x.com/HaseebMir91/status/2094891095733710950)</sub>
@@ -154,6 +156,7 @@
 - [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) — Founder chief of staff with hard authority boundaries on hiring, contracts, and budget. <sub>by [Johnny](https://x.com/JohnnyWang8802) (@JohnnyWang8802)</sub>
 - [Scrub Gate Public](https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b) — Gates public republish by auditing the private bot, scrubbing a twin, and packing from the twin only. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Seed 7D](https://x.ai/bot/AuCtzU1u4u_ZaRCMC0htT) — Stand up a real software SDLC in one conversation: team of phase bots, SevenD gates, and a hard copy in your repo — you stay the boss at the approvals. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
+- [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) — A repair desk for the other Grok bots you run. <sub>by [Louie](https://x.com/SpaceGarbage202) (@SpaceGarbage202) · [origin](https://x.com/SpaceGarbage202/status/2104905404471820712)</sub>
 - [shane hunter](https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-) — Clears bots you no longer want out of the desktop app. <sub>by [Andrew](https://x.com/rightish19) (@rightish19) · [origin](https://x.com/rightish19/status/2093761406545834296)</sub>
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — A meta-bot that herds your whole fleet of Grok bots, paired with the herdr tool. <sub>by [Can](https://x.com/herdrdev) (@herdrdev) · [origin](https://x.com/herdrdev/status/2094129284885467399)</sub>
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) — A chief of staff that hires and manages specialists in a named world. <sub>by [Abhimanyu](https://x.com/WorldlyReviewer) · [origin](https://x.com/WorldlyReviewer/status/2093382383802151353)</sub>

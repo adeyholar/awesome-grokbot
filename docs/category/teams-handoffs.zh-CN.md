@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-196 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+199 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -19,6 +19,7 @@
 - [Announcr Voice](https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ) — 把其它机器人的提醒念出来，从旁边音箱播给你听。 <sub>作者 [Dave](https://x.com/the_davey) (@the_davey) · [出处](https://x.com/the_davey/status/2098211142694764750)</sub>
 - [Approval-Gated Role Desk](https://x.ai/bot/V5_Fv7NlLN3AqKt7LPYa2) — 岗位搜索流水线，研究匹配度与草稿后停住等你确认，不编造履历也不擅自投递。 <sub>作者 [Ellodia](https://x.com/ElloForo8A) (@ElloForo8A) · [出处](https://x.com/ElloForo8A/status/2101775070029140132)</sub>
 - [Bandit](https://x.ai/bot/xRyaLCqAzIr_paD5tC8PK) — 嘴贫的前台，帮你调度已经在跑的 Bot。 <sub>作者 [BitsOfJT](https://x.com/BitsOfJT) · [出处](https://x.com/BitsOfJT/status/2093757984203583651)</sub>
+- [Blue-Chip College Recruiting](https://x.ai/bot/ixZyojalfY6Il17gxv3Qy) — 帮一个家庭冷静走完 NCAA D1 到 D3 招生日程与规则。 <sub>作者 [Doyle](https://x.com/Doyle)</sub>
 - [Bodyguard](https://x.ai/bot/tII28kVM4dxPvzSLjwqko) — 按值不值得你花时间，把进来的请求分拣开。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383136621060285)</sub>
 - [bond](https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv) — 接一件机密的活，干完，再记下自己做了什么。 <sub>作者 [Lauren](https://x.com/poteto) · [出处](https://x.com/poteto/status/2093521385541005369)</sub>
 - [Boost](https://x.ai/bot/BfoxUjCCt2vbDfkgp9K7t) — 只教练你那一排 Bot，不替它们干活。 <sub>作者 [Wayne](https://x.com/wikiwayne) (@wikiwayne)</sub>
@@ -60,6 +61,7 @@
 - [Cookie Monster](https://x.ai/bot/55t0IuxxlT7BWffNVOKai) — 别让你那些跑浏览器的 Bot，卡死在登录墙前面。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2094457258025631943)</sub>
 - [Coordinator](https://x.ai/bot/QEJc0HOXflLmGkwLQk3Uw) — 多 bot 团队总协调，路由任务并做制衡检查。 <sub>作者 [Cyber](https://x.com/CyberGurkhas) (@CyberGurkhas)</sub>
 - [Cue](https://x.ai/bot/WRGIjapC1i3Hvi2jfv66m) — 每天早上汇总你所有定时 Bot 今天要干什么。 <sub>作者 [DBCrypto](https://x.com/DBCrypt0) (@DBCrypt0) · [出处](https://x.com/DBCrypt0/status/2096311629805961385)</sub>
+- [Da Vinci](https://x.ai/bot/YYh5V5fbSRIfe2VTKCfNX) — 标出并行机器人车道的交叉点，早发现串味污染。 <sub>作者 [Michael](https://x.com/IAmMichaelSweet) (@IAmMichaelSweet) · [出处](https://x.com/IAmMichaelSweet/status/2105082835002618187)</sub>
 - [dag-helper](https://x.ai/bot/kelV8jM8UkGgFG79M1TCL) — 让多个编码代理守住同一仓库的约定、真相层与模型路由默认值，减少悄然漂移。 <sub>作者 [stephoshi](https://x.com/xsubwayratx) (@xsubwayratx) · [出处](https://x.com/xsubwayratx/status/2102125604459991416)</sub>
 - [Daily Briefing Writer](https://x.ai/bot/sb94d44175e650dbb703e) <sup>官方</sup> — 开工先看高质量输入而不是噪音：每天一份只含与你相关的简报。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Daily Easy Apply Digest](https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R) — 每天早上给你一份一键可投的后端岗位短名单，并按简历匹配排序。 <sub>作者 [Haseeb](https://x.com/HaseebMir91) (@HaseebMir91) · [出处](https://x.com/HaseebMir91/status/2094891095733710950)</sub>
@@ -154,6 +156,7 @@
 - [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) — 创始人幕僚长，招聘、合同和预算有硬权限边界。 <sub>作者 [Johnny](https://x.com/JohnnyWang8802) (@JohnnyWang8802)</sub>
 - [Scrub Gate Public](https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b) — 公开再发布前先审计私有 Bot，清洗双胞胎再只从双胞胎打包。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Seed 7D](https://x.ai/bot/AuCtzU1u4u_ZaRCMC0htT) — 一场对话搭起完整软件研发流水线，按阶段雇 bot 分工。 <sub>作者 [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
+- [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) — 修理你手头其它 Grok 机器人的维修台。 <sub>作者 [Louie](https://x.com/SpaceGarbage202) (@SpaceGarbage202) · [出处](https://x.com/SpaceGarbage202/status/2104905404471820712)</sub>
 - [shane hunter](https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-) — 把你不想要的 Bot 从桌面应用里清掉。 <sub>作者 [Andrew](https://x.com/rightish19) (@rightish19) · [出处](https://x.com/rightish19/status/2093761406545834296)</sub>
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — 元 Bot：牧管你整支 Grok Bot 舰队，搭配 herdr 工具使用。 <sub>作者 [Can](https://x.com/herdrdev) (@herdrdev) · [出处](https://x.com/herdrdev/status/2094129284885467399)</sub>
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) — 参谋长，在一个有名字的世界里招专长、管专长。 <sub>作者 [Abhimanyu](https://x.com/WorldlyReviewer) · [出处](https://x.com/WorldlyReviewer/status/2093382383802151353)</sub>

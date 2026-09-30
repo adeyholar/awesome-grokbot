@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-183 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+191 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -21,6 +21,7 @@
 - [Bitcoin](https://x.ai/bot/0_MAfMhNwRYCPKiC0Cm1Z) — 在聊天里用 Lightning 结账，买礼品卡、eSIM 与 VPN，需要时在闪电与链上挪动 sats。 <sub>作者 [lightning](https://x.com/sparkbtcbot) (@sparkbtcbot) · [出处](https://x.com/sparkbtcbot/status/2100000602638237705)</sub>
 - [Blair](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) — 私人买手，找二手设计师单品，还能下单。 <sub>作者 [Jediah](https://x.com/jediahkatz) (@jediahkatz) · 社区旧称 *Blair (Personal Shopper)* · [出处](https://x.com/jediahkatz/status/2093391579964694670)</sub>
 - [Bob](https://x.ai/bot/csVKIHvcrRYcL8vmhvmSa) — 可调谐的数字电视搭档，与直播主持互怼、吐槽新闻并稳住场子。 <sub>作者 [joseph](https://x.com/jfkcaaz) (@jfkcaaz)</sub>
+- [Boss](https://x.ai/bot/B3GjCUHLnI793bGJ1bjT8) — 你的 Grok Bot 团队参谋，把活分给专岗并只交成品与是否卡。 <sub>作者 [Don](https://x.com/Don)</sub>
 - [Boss B](https://x.ai/bot/DGg-YKZc5Wwl7QN1O2sKG) — 多机器人小店的前门编排器，做计划、分给专家或 Grok Build CLI，并检查结果，自己不当第二程序员。 <sub>作者 [Deana](https://x.com/revrocketaeo) (@revrocketaeo)</sub>
 - [BOTOSHI](https://x.ai/bot/29XazZFrrsJyI8LUnExDD) — 零 ETH 的 BOTCOIN 挖矿装置，带新矿工上手。 <sub>作者 [BOTCOIN](https://x.com/MineBotcoin) (@MineBotcoin)</sub>
 - [Bound](https://x.ai/bot/f3FJP1laxNi9tVcRd_lFh) — FFL 经销商的 FastBound A&D 周审，标出售后未结项。 <sub>作者 [Jason](https://x.com/Jasonturcotte) (@Jasonturcotte) · [出处](https://x.com/Jasonturcotte/status/2103641289480982601)</sub>
@@ -50,6 +51,7 @@
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) — 告诉你这笔该刷哪张卡，积分和权益才最大。 <sub>作者 [Trevin](https://x.com/trevin) · [出处](https://x.com/trevin/status/2093390512925610067)</sub>
 - [Crypto Budget & Tax Keeper](https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5) — 只读理财助手，从银行与交易所整理白话预算净资产并保留 CPA 可用的加密流水。 <sub>作者 [James](https://x.com/allthemoney) · [出处](https://x.com/allthemoney/status/2104543617939636262)</sub>
 - [Cyber Legend](https://x.ai/bot/GhnmyGIVWQTHLuQO3pZto) — 经 Tailscale 调查真实 SIEM 或 EDR 告警，用短证据说明关掉误报，真阳性按你的 SOP 升级。 <sub>作者 [Vlad](https://x.com/vladydaddy) (@vladydaddy)</sub>
+- [Dagny](https://x.ai/bot/cbdUpGcKsW9drlkAe9Jd4) — 多店烘焙品牌的组合总经理搭子，看营收缺口与营销下一步。 <sub>作者 [Michael by Michael](https://x.com/Michael) (@Michael)</sub>
 - [Daisy (Travel Rewards Desk)](https://x.ai/bot/QgAFcr09rf_GsGM-nNast) — 为叠里程、酒店身份与信用卡返现的情侣与家庭掌管行程与忠诚运营，建奖励目录并比较现金与积分。 <sub>作者 [Gregory](https://x.com/Gregory44597294) (@Gregory44597294) · [出处](https://x.com/Gregory44597294/status/2099991475165544560)</sub>
 - [Dave Ramsey](https://x.ai/bot/XcmxDFYpD0IBtdFwjnIkJ) — 家庭预算教练，按信用卡账单周期做零基预算，并推你按计划还债。 <sub>作者 [Will](https://x.com/wrowston) (@wrowston)</sub>
 - [Deadline Desk](https://x.ai/bot/0lzORVii9A5b6W4ly6pEJ) — 把埋在收件箱里的截止日期提前揪出来。 <sub>作者 [Alex](https://x.com/AlexFCHF) · [出处](https://x.com/AlexFCHF/status/2104372283523367295)</sub>
@@ -66,6 +68,7 @@
 - [Expense Manager](https://x.ai/bot/s50bb9361d891bd788a23) <sup>官方</sup> — 盯住钱：从报销系统和表格出周报，邮箱里的新票据自动记账，缺的去催人。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Family Desk](https://x.ai/bot/MD5wdycMY1OdZW9-TNp85) — 帮两位照护者对齐孩子们的活动，并把需要一起拍板的育儿决定做完。 <sub>作者 [Mircea](https://x.com/MirceaTrofim) (@MirceaTrofim)</sub>
 - [Family Office](https://x.ai/bot/au5ciCZciR-Eo07NAa_ab) — 覆盖税务、遗产、退休和实体的超高净值风格规划师。 <sub>作者 [rob_e](https://x.com/rob_evj) (@rob_evj)</sub>
+- [Fantasy Fitz](https://x.ai/bot/St4_wOEVr1kNJiVVvwi81) — 赛季长幻想橄榄球搭档，阵容交易与每周决策，锁线前给清楚判断。 <sub>作者 [Frank](https://x.com/Frank)</sub>
 - [Fantasy Football Agent Manager](https://x.ai/bot/vjLDDwWJYW6S8SxSRxSy7) — 多联赛梦幻足球店的前门总经理，把球迷活分给专家并汇总阵容建议。 <sub>作者 [Eric](https://x.com/androiydai) (@androiydai)</sub>
 - [Fenrir](https://x.ai/bot/FReKiR82_-lF359lhshpR) — 在 NSE 或纳斯达克上跑模拟交易赛。 <sub>作者 [Shantanu](https://x.com/shantanugoel) (@shantanugoel) · 社区旧称 *Fenrir (Paper Trading)* · [出处](https://x.com/shantanugoel/status/2093399035529085059)</sub>
 - [FF GROK](https://x.ai/bot/tLkBkT_BKHPMlhlYIEXON) — 梦幻足球联合经理，每日摘要、捞人与出场坐场建议，以及交易雷达。 <sub>作者 [Dr](https://x.com/AnthonyBozzo) (@AnthonyBozzo)</sub>
@@ -120,6 +123,8 @@
 - [Paid Media](https://x.ai/bot/s59facc90a46a8b4f59da) <sup>官方</sup> — 拉实时投放数据，按月度预算在 Slack 提一版调配建议，等你点头才动手。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Paid Media Creative Strategist](https://x.ai/bot/s45471f3a8af234c13047) <sup>官方</sup> — 在数据明显之前就看出哪版素材会赢，讲清为什么、提出下一个测试，不编指标。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [PantryPatrol](https://x.ai/bot/BiPCHML6s0cTYPhm4c72_) — 盯 MyFitnessPal 饮食记录，分析你真吃了什么，再备好 H-E-B 配送购物车，免提补货。 <sub>作者 [Froy](https://x.com/Jack_137) (@Jack_137)</sub>
+- [Paperwork Desk](https://x.ai/bot/Gv02Uedgl530XCpAqbUoU) — 转发账单与信件，跟踪金额、截止日与回复草稿。 <sub>作者 [Daniel](https://x.com/Daniel191555486) (@Daniel191555486) · [出处](https://x.com/Daniel191555486/status/2105055345303556263)</sub>
+- [Parts Detective](https://x.ai/bot/spz8FBl5aCL8CvWPzkYcp) — 用件号 CAGE 与名称查联邦库存 NSN 身份并建无重复抽屉标签。 <sub>作者 [Joseph](https://x.com/Joseph)</sub>
 - [Paycheck Reality Check](https://x.ai/bot/wuUzQmWkCqaQeDQm_he85) — 粘贴工资条，得到分行列明、不瞎编费率的核对表与催款草稿，发送仍由你来。 <sub>作者 [Alex](https://x.com/AlexFCHF) · [出处](https://x.com/AlexFCHF/status/2104701612262601151)</sub>
 - [Payday Pilot](https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN) — 现金底线教练，盯着余额发薪前别跌破底线。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [PC Pat](https://x.ai/bot/He7cCfwxob_gRhqi6fOhv) — 按预算帮你配第一台兼容PC，从目标走到可下单的零件清单。 <sub>作者 [Frank](https://x.com/FrankFindsOut) · [出处](https://x.com/FrankFindsOut/status/2104685484480057697)</sub>
@@ -186,9 +191,12 @@
 - [X Bot](https://x.ai/bot/8MKcuoPe51KZnLiN3m4oU) — 运营一个 X 账号，起草、排期、点赞、回复、关注与抽奖，都从已登录号执行。 <sub>作者 [Tejas](https://x.com/TejasCh32900009) (@TejasCh32900009)</sub>
 - [X Brand Social Manager](https://x.ai/bot/zEp21nf39S9qZxcue-rP8) — 运营 Etsy 数字手作品牌的 X 账号，日更、增长、互动与节奏。 <sub>作者 [Mustafa](https://x.com/MertMusozay) (@MertMusozay)</sub>
 - [YieldSentinel A2H](https://x.ai/bot/RFXogCwTbb2mUODW6rfVe) — 你下手前，按你定的规则核一笔 DeFi 收益仓。 <sub>作者 [MyEnsNames.eth](https://x.com/MyEnsNames) (@MyEnsNames) · [出处](https://x.com/MyEnsNames/status/2093434321700831688)</sub>
+- [מציאון](https://x.ai/bot/mPr2wssP61BrPZ1fzQh7n) — 以色列成交猎手，按真实到手成本比价，不只看货架标价。 <sub>作者 [Lior](https://x.com/Lior)</sub>
 - [人生·财务](https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB) — 口头记一笔花销就能入账，夜里有摘要，月底再回看。 <sub>作者 [kin](https://x.com/KinGao476942) (@KinGao476942) · [出处](https://x.com/KinGao476942/status/2098083629088063897)</sub>
 - [旅行手配エージェント](https://x.ai/bot/uvX1KHZ67D_AZQogYxR8-) — 比较便宜又省事的路线，再订机票、铁路和酒店。 <sub>作者 [Yuichiro](https://x.com/kinopee_ai) (@kinopee_ai) · [出处](https://x.com/kinopee_ai/status/2093618570253222126)</sub>
 - [登記とりよせ](https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y) — 一步步带你申请日本公司登记簿誊本。 <sub>作者 [sat0xshi](https://x.com/sat0xshi) · [出处](https://x.com/sat0xshi/status/2096207930043629670)</sub>
+- [💰 Budget Tracker Desk ✦ MONEY-CLEAR](https://x.ai/bot/wa82z_iim-TieDVwfPxMM) — 把流水做成预算对照表，展示算法并标出经常性支出。 <sub>作者 [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [出处](https://x.com/Cypher0x9/status/2105190561628250401)</sub>
+- [🧾 Receipt & Expense Desk ✦ RECEIPT-READY](https://x.ai/bot/n9bmzRDFDXaRxDc5e8G-h) — 把收据照片或粘贴文本整理成分类费用报告。 <sub>作者 [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [出处](https://x.com/Cypher0x9/status/2105190561628250401)</sub>
 
 ---
 

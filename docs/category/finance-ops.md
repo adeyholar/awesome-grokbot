@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-183 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+191 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -21,6 +21,7 @@
 - [Bitcoin](https://x.ai/bot/0_MAfMhNwRYCPKiC0Cm1Z) — Settle money in chat over Lightning — buy gift cards, eSIMs, and VPNs, and move sats between Lightning and on-chain when you need to. <sub>by [lightning](https://x.com/sparkbtcbot) (@sparkbtcbot) · [origin](https://x.com/sparkbtcbot/status/2100000602638237705)</sub>
 - [Blair](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) — A personal shopper that hunts down secondhand designer pieces and can buy them. <sub>by [Jediah](https://x.com/jediahkatz) (@jediahkatz) · aka *Blair (Personal Shopper)* · [origin](https://x.com/jediahkatz/status/2093391579964694670)</sub>
 - [Bob](https://x.ai/bot/csVKIHvcrRYcL8vmhvmSa) — A digital TV co-host you can tune — trades barbs with live hosts, roasts the news, and stays lively without getting creepy. Built for shows that want a. <sub>by [joseph](https://x.com/jfkcaaz) (@jfkcaaz)</sub>
+- [Boss](https://x.ai/bot/B3GjCUHLnI793bGJ1bjT8) — A chief of staff for your Grok Bot team. It routes work to one-job specialist bots and hands you only finished work and yes/no cards. <sub>by [Don](https://x.com/Don)</sub>
 - [Boss B](https://x.ai/bot/DGg-YKZc5Wwl7QN1O2sKG) — Front-door orchestrator for a multi-bot shop: plans, routes to specialists or Grok Build CLI, and inspects results — without becoming a second coder or. <sub>by [Deana](https://x.com/revrocketaeo) (@revrocketaeo)</sub>
 - [BOTOSHI](https://x.ai/bot/29XazZFrrsJyI8LUnExDD) — Zero ETH BOTCOIN mining rig onboarding miner. <sub>by [BOTCOIN](https://x.com/MineBotcoin) (@MineBotcoin)</sub>
 - [Bound](https://x.ai/bot/f3FJP1laxNi9tVcRd_lFh) — Weekly FastBound A&D auditor for FFL dealers. Flags disposed Sale items with a blank TTSN when the dispose-to contact has no FFL — API-only, read-only. <sub>by [Jason](https://x.com/Jasonturcotte) (@Jasonturcotte) · [origin](https://x.com/Jasonturcotte/status/2103641289480982601)</sub>
@@ -50,6 +51,7 @@
 - [Credit Card Max](https://x.ai/bot/D831qeIZ5QrobdVh-X79U) — Tells you which card to use for a purchase to maximise points and perks. <sub>by [Trevin](https://x.com/trevin) · [origin](https://x.com/trevin/status/2093390512925610067)</sub>
 - [Crypto Budget & Tax Keeper](https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5) — Read-only money desk that builds a plain-English budget and net worth plus a CPA-ready crypto trail. <sub>by [James](https://x.com/allthemoney) · [origin](https://x.com/allthemoney/status/2104543617939636262)</sub>
 - [Cyber Legend](https://x.ai/bot/GhnmyGIVWQTHLuQO3pZto) — Investigates real SIEM/EDR detections over Tailscale — closes false positives with short evidence notes and escalates true positives per your SOPs. <sub>by [Vlad](https://x.com/vladydaddy) (@vladydaddy)</sub>
+- [Dagny](https://x.ai/bot/cbdUpGcKsW9drlkAe9Jd4) — Portfolio GM sidekick for multi-unit bakery and dessert brands. Forward-looking ops partner for revenue, gaps, marketing plays, and clear next steps ,. <sub>by [Michael by Michael](https://x.com/Michael) (@Michael)</sub>
 - [Daisy (Travel Rewards Desk)](https://x.ai/bot/QgAFcr09rf_GsGM-nNast) — Owns trip planning and loyalty ops for couples and households who stack miles, hotel status, and card credits. Builds a rewards catalog, compares cash. <sub>by [Gregory](https://x.com/Gregory44597294) (@Gregory44597294) · [origin](https://x.com/Gregory44597294/status/2099991475165544560)</sub>
 - [Dave Ramsey](https://x.ai/bot/XcmxDFYpD0IBtdFwjnIkJ) — A household budgeting coach that builds a zero-based budget for each credit card statement cycle from your take-home income and keeps you on track. It. <sub>by [Will](https://x.com/wrowston) (@wrowston)</sub>
 - [Deadline Desk](https://x.ai/bot/0lzORVii9A5b6W4ly6pEJ) — Surfaces the deadlines buried in your inbox before they slip. <sub>by [Alex](https://x.com/AlexFCHF) · [origin](https://x.com/AlexFCHF/status/2104372283523367295)</sub>
@@ -66,6 +68,7 @@
 - [Expense Manager](https://x.ai/bot/s50bb9361d891bd788a23) <sup>official</sup> — Builds the weekly summary from your expense tool and sheets, logs receipts arriving by email, and chases missing ones. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Family Desk](https://x.ai/bot/MD5wdycMY1OdZW9-TNp85) — Helps two caregivers keep kids’ activities straight and finish parenting decisions that need a shared yes - school, screens, sports, health, and money. <sub>by [Mircea](https://x.com/MirceaTrofim) (@MirceaTrofim)</sub>
 - [Family Office](https://x.ai/bot/au5ciCZciR-Eo07NAa_ab) — UHNW-style planner for tax, estate, retirement, and entities. <sub>by [rob_e](https://x.com/rob_evj) (@rob_evj)</sub>
+- [Fantasy Fitz](https://x.ai/bot/St4_wOEVr1kNJiVVvwi81) — Your season long fantasy football partner for lineups, trades, and weekly decisions. Bring the roster; get clear calls before lock. <sub>by [Frank](https://x.com/Frank)</sub>
 - [Fantasy Football Agent Manager](https://x.ai/bot/vjLDDwWJYW6S8SxSRxSy7) — Front-door GM for a multi-league fantasy football shop. Fans work to specialist desks, restamps boards on a clock, and never submits a lineup, trade, or. <sub>by [Eric](https://x.com/androiydai) (@androiydai)</sub>
 - [Fenrir](https://x.ai/bot/FReKiR82_-lF359lhshpR) — Runs a paper-trading tournament on NSE or NASDAQ. <sub>by [Shantanu](https://x.com/shantanugoel) (@shantanugoel) · aka *Fenrir (Paper Trading)* · [origin](https://x.com/shantanugoel/status/2093399035529085059)</sub>
 - [FF GROK](https://x.ai/bot/tLkBkT_BKHPMlhlYIEXON) — Fantasy football co-manager: daily digests, waiver and start-sit advice, and trade help for Sleeper and similar leagues — half-PPR, Superflex/2QB, and. <sub>by [Dr](https://x.com/AnthonyBozzo) (@AnthonyBozzo)</sub>
@@ -120,6 +123,8 @@
 - [Paid Media](https://x.ai/bot/s59facc90a46a8b4f59da) <sup>official</sup> — Pulls live channel and campaign data, Slacks a recommended reallocation against your monthly budget, and holds for your approval before making adjustments. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Paid Media Creative Strategist](https://x.ai/bot/s45471f3a8af234c13047) <sup>official</sup> — Spot early creative winners before they're obvious. Writes a sharp why-it-works hypothesis and proposes the next test. No invented metrics. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [PantryPatrol](https://x.ai/bot/BiPCHML6s0cTYPhm4c72_) — Monitors MyFitnessPal food logs, analyzes what you actually eat, then builds a ready H-E-B grocery delivery cart—hands-free restock. Future state:. <sub>by [Froy](https://x.com/Jack_137) (@Jack_137)</sub>
+- [Paperwork Desk](https://x.ai/bot/Gv02Uedgl530XCpAqbUoU) — Forward your bills and letters; it tracks amounts, deadlines and replies. <sub>by [Daniel](https://x.com/Daniel191555486) (@Daniel191555486) · [origin](https://x.com/Daniel191555486/status/2105055345303556263)</sub>
+- [Parts Detective](https://x.ai/bot/spz8FBl5aCL8CvWPzkYcp) — Looks up federal stock / NSN identities from part numbers, CAGE, and nomenclature with cross-references , and builds duplicate-free drawer/bin. <sub>by [Joseph](https://x.com/Joseph)</sub>
 - [Paycheck Reality Check](https://x.ai/bot/wuUzQmWkCqaQeDQm_he85) — Turns a pasted pay stub into line findings, a no-invented-rates worksheet, and a demand draft. You send everything yourself. <sub>by [Alex](https://x.com/AlexFCHF) · [origin](https://x.com/AlexFCHF/status/2104701612262601151)</sub>
 - [Payday Pilot](https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN) — Cash floor coach that keeps checking your balance stays above a floor until payday. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [PC Pat](https://x.ai/bot/He7cCfwxob_gRhqi6fOhv) — Helps you build a first PC within budget with compatible parts. Walks you from goals to a buy list you can trust. <sub>by [Frank](https://x.com/FrankFindsOut) · [origin](https://x.com/FrankFindsOut/status/2104685484480057697)</sub>
@@ -186,9 +191,12 @@
 - [X Bot](https://x.ai/bot/8MKcuoPe51KZnLiN3m4oU) — Runs an X profile: drafts, scheduling, likes, replies, follows, and contest entries from the signed-in account. <sub>by [Tejas](https://x.com/TejasCh32900009) (@TejasCh32900009)</sub>
 - [X Brand Social Manager](https://x.ai/bot/zEp21nf39S9qZxcue-rP8) — Runs an Etsy digital craft brand’s X account: daily posts, growth, engagement, and profile polish. <sub>by [Mustafa](https://x.com/MertMusozay) (@MertMusozay)</sub>
 - [YieldSentinel A2H](https://x.ai/bot/RFXogCwTbb2mUODW6rfVe) — Checks one DeFi yield position against rules you set before you commit. <sub>by [MyEnsNames.eth](https://x.com/MyEnsNames) (@MyEnsNames) · [origin](https://x.com/MyEnsNames/status/2093434321700831688)</sub>
+- [מציאון](https://x.ai/bot/mPr2wssP61BrPZ1fzQh7n) — צייד עסקאות ישראלי , מוצא את העסקה המשתלמת ביותר לפי עלות סופית אמיתית (מחיר + משלוח + מע״מ/מכס + אחריות), לא לפי המחיר על המדף. <sub>by [Lior](https://x.com/Lior)</sub>
 - [人生·财务](https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB) — Logs spending by voice, with a nightly summary and a monthly look back. <sub>by [kin](https://x.com/KinGao476942) (@KinGao476942) · [origin](https://x.com/KinGao476942/status/2098083629088063897)</sub>
 - [旅行手配エージェント](https://x.ai/bot/uvX1KHZ67D_AZQogYxR8-) — Compares cheap and easy routes, then books flights, rail and hotels. <sub>by [Yuichiro](https://x.com/kinopee_ai) (@kinopee_ai) · [origin](https://x.com/kinopee_ai/status/2093618570253222126)</sub>
 - [登記とりよせ](https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y) — Walks you through ordering a Japanese company registry certificate. <sub>by [sat0xshi](https://x.com/sat0xshi) · [origin](https://x.com/sat0xshi/status/2096207930043629670)</sub>
+- [💰 Budget Tracker Desk ✦ MONEY-CLEAR](https://x.ai/bot/wa82z_iim-TieDVwfPxMM) — Turns a transaction list into budget-vs-actual with math shown and recurring flags. <sub>by [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [origin](https://x.com/Cypher0x9/status/2105190561628250401)</sub>
+- [🧾 Receipt & Expense Desk ✦ RECEIPT-READY](https://x.ai/bot/n9bmzRDFDXaRxDc5e8G-h) — Turns receipt photos or pasted text into a categorized expense report. <sub>by [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [origin](https://x.com/Cypher0x9/status/2105190561628250401)</sub>
 
 ---
 

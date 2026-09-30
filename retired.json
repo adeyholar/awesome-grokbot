@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-09-19",
+  "checked": "2026-09-30",
   "entries": [
     {
       "slug": "bot-creator",
@@ -173,6 +173,37 @@
       ],
       "first_seen": "2026-09-17",
       "checked": "2026-09-19",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "coach-tony",
+      "name": "Coach Tony",
+      "author": {
+        "name": "Joe",
+        "handle": "community"
+      },
+      "summary": "Food coach: logs calories, remembers meals, fills cart",
+      "summary_zh": "饮食与热量记录助手",
+      "official_summary": "Food coach that logs calories, remembers your usual meals, checks in at breakfast/lunch/dinner, and when you order starts filling the cart from your...",
+      "import": "https://x.ai/bot/Pknbt_cEfYERLSW-JH7Z0",
+      "bot_id": "Pknbt_cEfYERLSW-JH7Z0",
+      "category": "personal-admin",
+      "tags": [
+        "life"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-27",
+      "checked": "2026-09-30",
       "link_status": 404,
       "license": "CC0-1.0"
     }
