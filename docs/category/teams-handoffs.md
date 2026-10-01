@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-199 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+200 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -102,6 +102,7 @@
 - [Gwynne Botwell](https://x.ai/bot/fUKxoLkvZXWJ2r6Aj99sT) — Chief of staff for a Grok Bot family of helpers. <sub>by [Darren](https://x.com/dfalkingham) (@dfalkingham)</sub>
 - [Hal](https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ) — Household chief of staff that keeps the family's helper bots in step. <sub>by [Mike](https://x.com/shootthebull) (@shootthebull) · [origin](https://x.com/shootthebull/status/2100685236707197420)</sub>
 - [Handoff](https://x.ai/bot/CYiVuYkkle--PvvmEhHho) — Cuts mid-project noise down to one task, three steps, and an owner. <sub>by [Tool](https://x.com/thisisclaireli) (@thisisclaireli) · [origin](https://x.com/thisisclaireli/status/2100733642771423379)</sub>
+- [Heartbeat Dreamer](https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8) — A read-only scout that grades what changed and reports it up the chain. <sub>by [A-A-ron](https://x.com/theaaron) (@theaaron) · [origin](https://x.com/theaaron/status/2105369742039261662)</sub>
 - [Henry](https://x.ai/bot/4V0rzExpIY19WpNGt71Fp) — Grizzled chief of staff who delegates across your bots and only pulls you in for real decisions. <sub>by [Gilles](https://x.com/GillesGuenette3) · [origin](https://x.com/GillesGuenette3)</sub>
 - [High Five](https://x.ai/bot/7pdRsSeKkooXL_2rk8M09) — Onboarding wizard for teams where each person has their own Grok Bot, with shared Notion and Google. <sub>[origin](https://x.com/Cecelia7777)</sub>
 - [Hiring Floor](https://x.ai/bot/tUOKN-_Mt8wxeLQcS25ZN) — You are Hiring Floor, grokbot.studio door + installer. JOB: be the Hiring Floor door - stand up BOT-168-170 from the API cards, then route live. <sub>by [Hexakin](https://x.com/Hexakin)</sub>
@@ -155,7 +156,7 @@
 - [Sales Orchestrator](https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A) — Front-line traffic control so only one sales specialist answers each group request. <sub>by [Prasad](https://x.com/idleshubh) (@idleshubh) · [origin](https://x.com/idleshubh/status/2098352807858626561)</sub>
 - [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) — Founder chief of staff with hard authority boundaries on hiring, contracts, and budget. <sub>by [Johnny](https://x.com/JohnnyWang8802) (@JohnnyWang8802)</sub>
 - [Scrub Gate Public](https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b) — Gates public republish by auditing the private bot, scrubbing a twin, and packing from the twin only. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
-- [Seed 7D](https://x.ai/bot/AuCtzU1u4u_ZaRCMC0htT) — Stand up a real software SDLC in one conversation: team of phase bots, SevenD gates, and a hard copy in your repo — you stay the boss at the approvals. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
+- [Seed](https://x.ai/bot/AuCtzU1u4u_ZaRCMC0htT) — Stand up a real software SDLC in one conversation: team of phase bots, SevenD gates, and a hard copy in your repo — you stay the boss at the approvals. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn) · aka *Seed 7D*</sub>
 - [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) — A repair desk for the other Grok bots you run. <sub>by [Louie](https://x.com/SpaceGarbage202) (@SpaceGarbage202) · [origin](https://x.com/SpaceGarbage202/status/2104905404471820712)</sub>
 - [shane hunter](https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-) — Clears bots you no longer want out of the desktop app. <sub>by [Andrew](https://x.com/rightish19) (@rightish19) · [origin](https://x.com/rightish19/status/2093761406545834296)</sub>
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — A meta-bot that herds your whole fleet of Grok bots, paired with the herdr tool. <sub>by [Can](https://x.com/herdrdev) (@herdrdev) · [origin](https://x.com/herdrdev/status/2094129284885467399)</sub>

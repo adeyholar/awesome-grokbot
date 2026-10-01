@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-199 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+200 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -102,6 +102,7 @@
 - [Gwynne Botwell](https://x.ai/bot/fUKxoLkvZXWJ2r6Aj99sT) — 一大家子 Grok Bot 帮手的幕僚长。 <sub>作者 [Darren](https://x.com/dfalkingham) (@dfalkingham)</sub>
 - [Hal](https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ) — 家庭幕僚长，把家里各路帮手机器人协调到一起。 <sub>作者 [Mike](https://x.com/shootthebull) (@shootthebull) · [出处](https://x.com/shootthebull/status/2100685236707197420)</sub>
 - [Handoff](https://x.ai/bot/CYiVuYkkle--PvvmEhHho) — 把项目中途的噪音收成一件最紧要的事、三步动作和负责人。 <sub>作者 [Tool](https://x.com/thisisclaireli) (@thisisclaireli) · [出处](https://x.com/thisisclaireli/status/2100733642771423379)</sub>
+- [Heartbeat Dreamer](https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8) — 只读侦察，给变化打分并向上汇报。 <sub>作者 [A-A-ron](https://x.com/theaaron) (@theaaron) · [出处](https://x.com/theaaron/status/2105369742039261662)</sub>
 - [Henry](https://x.ai/bot/4V0rzExpIY19WpNGt71Fp) — 老练首席参谋，把杂事派给其它机器人，只在关键决策时喊你。 <sub>作者 [Gilles](https://x.com/GillesGuenette3) · [出处](https://x.com/GillesGuenette3)</sub>
 - [High Five](https://x.ai/bot/7pdRsSeKkooXL_2rk8M09) — 给每人一台 Grok Bot 的小团队做入职向导，打通共享 Notion 与 Google。 <sub>[出处](https://x.com/Cecelia7777)</sub>
 - [Hiring Floor](https://x.ai/bot/tUOKN-_Mt8wxeLQcS25ZN) — grokbot.studio 的招聘现场入口，拉起相关席位并路由实时招聘事务。 <sub>作者 [Hexakin](https://x.com/Hexakin)</sub>
@@ -155,7 +156,7 @@
 - [Sales Orchestrator](https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A) — 在销售机器人群里挡第一线，只放一个专家接每条请求。 <sub>作者 [Prasad](https://x.com/idleshubh) (@idleshubh) · [出处](https://x.com/idleshubh/status/2098352807858626561)</sub>
 - [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) — 创始人幕僚长，招聘、合同和预算有硬权限边界。 <sub>作者 [Johnny](https://x.com/JohnnyWang8802) (@JohnnyWang8802)</sub>
 - [Scrub Gate Public](https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b) — 公开再发布前先审计私有 Bot，清洗双胞胎再只从双胞胎打包。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
-- [Seed 7D](https://x.ai/bot/AuCtzU1u4u_ZaRCMC0htT) — 一场对话搭起完整软件研发流水线，按阶段雇 bot 分工。 <sub>作者 [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
+- [Seed](https://x.ai/bot/AuCtzU1u4u_ZaRCMC0htT) — 一场对话搭起完整软件研发流水线，按阶段雇 bot 分工。 <sub>作者 [Ash](https://x.com/ashvinn) (@ashvinn) · 社区旧称 *Seed 7D*</sub>
 - [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) — 修理你手头其它 Grok 机器人的维修台。 <sub>作者 [Louie](https://x.com/SpaceGarbage202) (@SpaceGarbage202) · [出处](https://x.com/SpaceGarbage202/status/2104905404471820712)</sub>
 - [shane hunter](https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-) — 把你不想要的 Bot 从桌面应用里清掉。 <sub>作者 [Andrew](https://x.com/rightish19) (@rightish19) · [出处](https://x.com/rightish19/status/2093761406545834296)</sub>
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) — 元 Bot：牧管你整支 Grok Bot 舰队，搭配 herdr 工具使用。 <sub>作者 [Can](https://x.com/herdrdev) (@herdrdev) · [出处](https://x.com/herdrdev/status/2094129284885467399)</sub>
