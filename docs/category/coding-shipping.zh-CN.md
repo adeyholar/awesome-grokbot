@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-249 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+262 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -47,6 +47,7 @@
 - [Cloud Agent Orchestrator](https://x.ai/bot/s20b2c65ebeebb7362fa7) <sup>官方</sup> — 同时跑一堆云端 agent 不用盯：起任务、看状态、推卡住的，最后汇总报告。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Cloudflare](https://x.ai/bot/8PJjDLzjuEt3xfhKrtQKy) — 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 <sub>作者 [Justin](https://x.com/JS_Zao) (@JS_Zao)</sub>
 - [Cloudflare GitHub Site Bot](https://x.ai/bot/wuX9f9WZMmY8e1EQ_eB8A) — 新建或迁移站点到GitHub与Cloudflare Workers，从零账号走到SSH部署钥与上线。 <sub>作者 [Roman](https://x.com/xPrivateUser) (@Private User) · [出处](https://x.com/xPrivateUser/status/2104705179098689620)</sub>
+- [Code Bot Marty](https://x.ai/bot/OFxQlvVIgUAnxN5hfCb9e) — 编码结对助手 Marty，帮你推进实现与排查。 <sub>作者 [Trimmer](https://x.com/Trimmer10117) (@Trimmer10117) · [出处](https://x.com/Trimmer10117/status/2105752998391718167)</sub>
 - [Code Red](https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD) — 只停你自己的系统，先演练再确认的紧急急停开关。 <sub>作者 [Knock](https://x.com/SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2094970870871585096)</sub>
 - [Code Team Spawn](https://x.ai/bot/NuOSHSdCZPVkM78K0HkB3) — 平时闲着，你要编码团队时才面试并拉起一支隐藏的五人小队。 <sub>作者 [Bryan](https://x.com/bryanofearth) (@bryanofearth)</sub>
 - [Code Team Spawn](https://x.ai/bot/_G3maEq_3-ijcQJ1Efr4X) — 更新版拉队，面试后立一个 Conductor，再加一支隐藏的五人编码小队。 <sub>作者 [Bryan](https://x.com/bryanofearth) (@bryanofearth)</sub>
@@ -105,6 +106,7 @@
 - [Ghost](https://x.ai/bot/yejon8cHpxlKsx_joM1rf) — 可靠性工程公司的参谋。 <sub>作者 [Rob](https://x.com/RomeoOscarBrovo) (@RomeoOscarBrovo)</sub>
 - [GitHub PR Desk](https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic) — 工作日汇总各仓库 PR、议题与评论并按需排序。 <sub>作者 [Michael](https://x.com/MichaelGannotti) (@MichaelGannotti) · [出处](https://x.com/MichaelGannotti/status/2103929935337595076)</sub>
 - [GitHub Steward](https://x.ai/bot/Qeze7XyZGZUdnkOmcupIv) — 从聊天替你管GitHub，建工作看板、理清文件夹并推进议题与PR。 <sub>作者 [Arthur](https://x.com/ambientstudio24) (@ambientstudio24)</sub>
+- [GitHub Trending Scout](https://x.ai/bot/EklFc0zYAqzkxcALynMj2) — 每天读 GitHub 趋势页，只挑真正贴合你工作的少数仓库做成简报并说明理由。 <sub>作者 [Husein](https://x.com/Hussein_M_Ragab) (@Hussein_M_Ragab) · [出处](https://x.com/Hussein_M_Ragab/status/2105590495825322296)</sub>
 - [GPT Astra Oracle](https://x.ai/bot/_yTNK1xhcbUko1rM2AWAv) — 用第二个模型为 Cursor 云代理做计划与评审包。 <sub>作者 [Nathan](https://x.com/nathanromano) (@nathanromano) · [出处](https://x.com/nathanromano/status/2099999284686979169)</sub>
 - [Greenlight](https://x.ai/bot/CjabaVv2icvagIumZlevu) — 只有通过你的放行或否决规则才放行草稿。 <sub>作者 [Stephan](https://x.com/MrSaneApps) (@MrSaneApps) · [出处](https://x.com/MrSaneApps/status/2104349094223475077)</sub>
 - [Grimoire](https://x.ai/bot/luPJeAxuAjhqO97wU3wm0) — 带五十项技能的编程巫师，外加二十人顾问会。 <sub>作者 [Nick](https://x.com/NickADobos) (@NickADobos) · 社区旧称 *Grimoire's Tome & The Grim Council* · [出处](https://x.com/NickADobos/status/2093400318063284581)</sub>
@@ -142,6 +144,7 @@
 - [Job Search](https://x.ai/bot/uzOaAuIWYVjVAlujdOOPx) — 工作日侦察高级远程 AI 或生成式 AI 工程岗位，发短推荐并跟进。 <sub>作者 [Mehdi](https://x.com/mehdizare) (@mehdizare)</sub>
 - [Keel](https://x.ai/bot/ihO8Wlq7PACw6fUF-AhGq) — 阻止干活的机器人自己给自己打分，你写冻结章程，Worker干活，Keel只验证据。 <sub>作者 [D'Artagnan](https://x.com/the_Arow_H) (@the_Arow_H)</sub>
 - [Korean Public API](https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ) — 按你的想法推荐韩国政府公开数据接口。 <sub>作者 [Moon](https://x.com/reallygood83) (@reallygood83) · [出处](https://x.com/reallygood83/status/2096586211909664899)</sub>
+- [Kun](https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE) — 持续更新的首席工程师助手，汇总 Kun 的帖子视频与开源内容。 <sub>作者 [Kun](https://x.com/kunchenguid) (@kunchenguid) · [出处](https://x.com/kunchenguid/status/2105806675399852090)</sub>
 - [KVOp](https://x.ai/bot/Aii63wFn_TPj5MvF7fDyS) — 站点运营机器人，健康监控、下次会话清单，优先 VPS 自动化。 <sub>作者 [KELVIC-3D](https://x.com/3dKelvic) (@3dKelvic)</sub>
 - [lgtm the pr closer](https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo) — 每天早上醒来，把开着的 pull request 清掉。 <sub>作者 [Claire](https://x.com/clairevo) · [出处](https://x.com/clairevo/status/2093496605488083203)</sub>
 - [Life at the Speed of Play](https://x.ai/bot/GkzMzuaxSoJhBCZxSRAkM) — Mark Pincus《Life at the Speed of Play》伴读，谈直觉、点子与交付。 <sub>作者 [Joe](https://x.com/CardCaptain) · [出处](https://x.com/CardCaptain)</sub>
@@ -182,6 +185,7 @@
 - [Product Feedback Analyst](https://x.ai/bot/s9e2a2591b97ca74fbeaa) <sup>官方</sup> — 把零散的产品反馈理成优先级：多来源收集后聚类，按证据和紧急度权衡，再起草结论。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Product Performance](https://x.ai/bot/s6d5f1cc3a564c8da972a) <sup>官方</sup> — 看清真正要紧的指标：登可观测性平台、翻火焰图，回来给你热点加一段说明。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Product Ship Coder](https://x.ai/bot/Fb6pVFOCXhbUSkBt6RkMH) — 用多智能体小队把创作者提示产品推上线，明示 GO 才部署。 <sub>作者 [keys](https://x.com/keys)</sub>
+- [Prompt Brief Builder](https://x.ai/bot/6nbtK-LXyay2d7wfDJ3Iz) — 把需求收成可执行的提示词简报。 <sub>作者 [Zye](https://x.com/ZyeAnd1) (@ZyeAnd1) · [出处](https://x.com/ZyeAnd1)</sub>
 - [Prompt Injection Tabletop](https://x.ai/bot/k4tC99hzcfIgk0yrRKvuZ) — 跑防御性提示注入桌面推演，并留下可上线的加固清单。 <sub>作者 [#CarbeneAI](https://x.com/CarbeneAI) (@CarbeneAI)</sub>
 - [proofnetworkbot](https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6) — 在聊天里帮开发者写并上线 ProofNetwork 合约，再接能对话链上合约的前端。 <sub>作者 [FreeSolDev](https://x.com/STACCoverflow) (@STACCoverflow)</sub>
 - [Prototype Builder](https://x.ai/bot/s2e4acfb8db3cc0669a1b) <sup>官方</sup> — 从一句需求到能点的东西：自己在机器上写，回来给你截图加一个在线地址。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -217,10 +221,12 @@
 - [Skill Import](https://x.ai/bot/NhTYqcIBaPCSZtdTflnqa) — 从 Claude Code、Codex、Hermes 和 Grok Bot 导入并审 agent 技能包。 <sub>作者 [Samuel](https://x.com/Samuelflg1) (@Samuelflg1)</sub>
 - [SmallPE-Managing-Partner](https://x.ai/bot/Opp17hS9gyOg8xEsQIcU8) — SmallPE 社区管理合伙人，一起做私募工具。 <sub>作者 [Abhishek](https://x.com/parolkar) (@parolkar)</sub>
 - [Software Conductor](https://x.ai/bot/C6uIpBcH_m-o5Mf9uQS4w) — 工程主管替你调度 Cursor 云端代理，规划并盯交付。 <sub>作者 [Jeff](https://x.com/DejaegherJeff) (@DejaegherJeff)</sub>
+- [SOW Interviewer](https://x.ai/bot/4eBChIDapQamp6uQJwhAk) — 访谈客户起草工作说明书大纲，只在聊天里出草稿包，你点头才外发。 <sub>作者 [Mike](https://x.com/Mike)</sub>
 - [Speed Lab](https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5) — 对着站点渲染速度做研究循环，把赢的留下。 <sub>作者 [Jacob](https://x.com/pwnies) (@pwnies) · [出处](https://x.com/pwnies/status/2093494257105379569)</sub>
 - [SSH to Grok via Tailscale](https://x.ai/bot/BrViAOWzDSiAjBLqUnBgA) — 把 Bot 电脑加入你的 Tailscale，便于直接 SSH。 <sub>作者 [Altman](https://x.com/app_sail) (@app_sail) · 社区旧称 *SSH to Grok Bot via Tailscale* · [出处](https://x.com/app_sail/status/2103886508264653232)</sub>
 - [Stack Scout](https://x.ai/bot/i-EG19ZoxICUxVu0ACGim) — 新手与初级的技术栈调研伙伴，描述需求后找两到四个真实库并核对文档许可。 <sub>作者 [Paweł](https://x.com/Zibulasx) (@zibulasX) · [出处](https://x.com/Zibulasx/status/2104695980386070696)</sub>
 - [Stack Sentinel](https://x.ai/bot/osZS1pAzdIESMk33WNir0) — 你依赖的服务商一承认出问题，第一时间通知你。 <sub>作者 [sat0xshi](https://x.com/sat0xshi) · [出处](https://x.com/sat0xshi/status/2096802965676016066)</sub>
+- [Stagehand](https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ) — WordPress 集成，只改预发环境，未经要求不动线上。 <sub>作者 [Patrick](https://x.com/pmconsulting) (@pmconsulting) · [出处](https://x.com/pmconsulting/status/2105104846940741797)</sub>
 - [Staging QA Tester](https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ) — 像真人一样测预发站各角色路径，改完再还原并出报告。 <sub>作者 [Nic](https://x.com/njivy) (@njivy) · [出处](https://x.com/njivy/status/2103635667683311946)</sub>
 - [Stills & Clips Desk](https://x.ai/bot/V8XugyLxzbQXLM9o5b3B-) — 从素材里抽出静帧、缩略图与短片并按去处裁切，也清理文档截图并写说明文案。
 - [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) — 在聊天里搭建并运行 Substreams 区块链数据管道。 <sub>作者 [Graphtronauts](https://x.com/graphtronauts_c) (@graphtronauts_c) · [出处](https://x.com/graphtronauts_c/status/2094476749052555631)</sub>
@@ -231,11 +237,18 @@
 - [Tech Digest Diario](https://x.ai/bot/egPmVEFXCQSrimVE8KDyP) — 每天八点的工程日报，来自博客与订阅源，条目不设上限，用你的语言写。 <sub>作者 [Benjamin](https://x.com/ElbenjasSw) (@ElbenjasSw)</sub>
 - [Tech Lead](https://x.ai/bot/RfFPxQ_rfEGcUncrJ6g_W) — 只看 diff 和测试的实际结果，替你把住合并这一关。 <sub>作者 [Ashish](https://x.com/inqusit) (@inqusit) · [出处](https://x.com/inqusit/status/2094021157213348277)</sub>
 - [Tek Tribe](https://x.ai/bot/sdCslo3yFiCHrWZ2JVPh9) — 告诉它一个项目的工具栈，打分并建议怎么收束。 <sub>作者 [Jacob](https://x.com/Saint_Chevalier) (@Saint_Chevalier)</sub>
+- [Temper](https://x.ai/bot/9Zp-JZWckPEjwBPp2EGtX) — 你发布不变量后由 Anvil 提补丁、攻击者试破、Stone 重跑真实测试套件并写入哈希链日志。 <sub>作者 [D'Artagnan](https://x.com/the_Arow_H) · [出处](https://x.com/the_Arow_H/status/2104544872275595395)</sub>
 - [template generator](https://x.ai/bot/9oKJDID_EKLacIXpKfFAq) — 扫本机 Claude、Cline 和 Grok Bot 会话，再给出可生成可分享的模板。 <sub>作者 [Jarett](https://x.com/STACCoverflow) · [出处](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
+- [Tesla Bot](https://x.ai/bot/g5J-pr8mBUjLbY2LktOl1) — 特斯拉与 SpaceX 新闻台兼 TSLA 期权分析，给可发草稿。 <sub>作者 [Matt](https://x.com/LeeMatt17631) (@LeeMatt17631)</sub>
+- [Teslascope](https://x.ai/bot/l9MPhPAe-OSzvcMVfXrTe) — 面向车主的Teslascope助手，问行程、超充、充电、软件与能耗都能答。 <sub>作者 [Tyler](https://x.com/teslascope) (@teslascope)</sub>
 - [Testbench](https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q) — 给共享电脑扛不动的活租一块 GPU，按运行时长计费。 <sub>作者 [Prism](https://x.com/useprismnetwork) (@useprismnetwork) · [出处](https://x.com/useprismnetwork/status/2094790128296239563)</sub>
+- [The Coder](https://x.ai/bot/eWee2PsTChAwOGEKpKpT_) — 编码与交付助手。 <sub>作者 Christie (@community)</sub>
+- [Threat Hunter](https://x.ai/bot/xz-a6CWE-HtbBB4yO7J0U) — 搭建免费 Wazuh SIEM 的威胁狩猎机器人。 <sub>作者 [Paul](https://x.com/pjvann) (@pjvann)</sub>
 - [Top Coder](https://x.ai/bot/dwuB7MmlnrkcXYtyOp-Hk) — 按锁定验收标准写代码并带测试交付，另有核验方确认做完才算做完。 <sub>作者 [Eric](https://x.com/EricBuess) · [出处](https://x.com/EricBuess/status/2100918548583375187)</sub>
+- [TTS Script Builder](https://x.ai/bot/UWLs7BCDu7jiumkvX4-vj) — 为Tabletop Simulator模组编写调试Lua脚本，用GitHub PR与现场注入试玩。 <sub>作者 [Naveed](https://x.com/shelftoworld) (@shelftoworld)</sub>
 - [Two-Pass PR Reviewer](https://x.ai/bot/Wmmz-sDuldsoHUr7vfU7w) — 资深工程师评审加怀疑二过，合成一份 PR 报告。 <sub>作者 [Destin](https://x.com/HebertDestin) (@HebertDestin)</sub>
 - [UI/UX/Designer. Product Engineer 1000x](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) — 全栈产品工程师，用 Convex、TanStack 和 React 把应用真正送上线。 <sub>作者 [Thomas](https://x.com/TomZarebczan) · 社区旧称 *1000x Product Engineer* · [出处](https://x.com/TomZarebczan/status/2093387240479051938)</sub>
+- [Unreal Engine C++ Coder](https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd) — 编码与交付助手。 <sub>作者 Binxius (@community)</sub>
 - [Video Edit Desk](https://x.ai/bot/kGiyk73f5CF8XtBMIh0gW) — 把上传素材切成短片、烧录字幕与各平台尺寸导出，按你的备注工作且不覆盖原片。
 - [Web Security Audit](https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR) — 对你自有站点与仓库做防御性安全审查，按 P0 到 P2 评级。 <sub>作者 [Paresh](https://x.com/pareshdesai) (@pareshdesai) · [出处](https://x.com/pareshdesai/status/2100703233979342994)</sub>
 - [Webhook Guide](https://x.ai/bot/Q__pHX8RB4jsF5U3JtC66) — 一步步带你配好并触发 Grok Bot 的 webhook 例行任务。 <sub>作者 [Tobi](https://x.com/tobiasztop) (@tobiasztop)</sub>

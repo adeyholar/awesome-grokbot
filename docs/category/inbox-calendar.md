@@ -2,7 +2,7 @@
 
 *Triage mail, draft replies, defend the calendar, run the weekday rhythm.*
 
-250 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
+256 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
 
 ---
 
@@ -135,6 +135,7 @@
 - [GTM Prospecting](https://x.ai/bot/RpAQeGjhzaiO6_Rq_4fyC) — Turns an ideal customer profile into a focused prospect list, adds useful context, and checks for existing relationships. Drafts first-touch email and.
 - [Haggler](https://x.ai/bot/7ACPQT5hov7BkBeQOzusu) — A deal-focused assistant for café and coffee-shop operators: negotiates vendor terms, watches the inbox for action items, drafts outbound emails in your. <sub>by [Cafenea™️](https://x.com/Cafenea_Coffee) (@Cafenea_Coffee)</sub>
 - [Handyman](https://x.ai/bot/rQvB9sFrdQU7Ef43jOxgI) — Remembers your filter sizes and chore dates, then books the next round. <sub>by [Dylan](https://x.com/dkmitc) (@dkmitc) · [origin](https://x.com/dkmitc/status/2103988834253820025)</sub>
+- [Hedwig](https://x.ai/bot/1hD0sdaD2gCbQ927sIhft) — Nightly Gmail + Slack digest with clear next steps. <sub>by satadru (@community) · aka *Nightly Digest*</sub>
 - [Higgins](https://x.ai/bot/pobs233eUgpZLtlxoyyEn) — A personal concierge for evenings and weekends. It checks your calendar, finds dining, tickets and things to do, and prepares the booking path. <sub>by [@thefit24couple](https://x.com/thefit24couple) (@thefit24couple) · [origin](https://x.com/thefit24couple/status/2103780998437826823)</sub>
 - [hire-bot](https://x.ai/bot/Q9Vbc3gbldDnJBmUfcip-) — Handles the paperwork half of hiring, from candidate notes to offer letter. <sub>by [stephoshi](https://x.com/xsubwayratx) (@xsubwayratx) · [origin](https://x.com/xsubwayratx/status/2096346151452626945)</sub>
 - [Holly Helpdesk](https://x.ai/bot/sIoeE87fILU5CzptPF29K) — Runs the support inbox and help desk as a frontline agent. <sub>by [Claire](https://x.com/clairevo) (@clairevo) · [origin](https://x.com/clairevo/status/2093496607870423227)</sub>
@@ -144,6 +145,7 @@
 - [Homework Checker](https://x.ai/bot/BUwa-zYgc9_ScRyfGAns_) — Weekday after-school recap of a student’s missing work and grades, plus day-before homework texts and calendar reminders. Built for parents who want a. <sub>by [chicho](https://x.com/guichaves1989) (@guichaves1989)</sub>
 - [Household Desk](https://x.ai/bot/gJY0YkL6q1FE3fsSwfyot) — Keeps your calendar, the mail labels you choose, and a short daily list from only what you put in. One next action, then stop. <sub>by [Phillip](https://x.com/Phillip86434365) (@Phillip86434365)</sub>
 - [HVAC, Doors, and Home Assistant](https://x.ai/bot/tF0ckH21ZT7L1CN3HOyHl) — Calendar-driven building ops for HVAC, doors, and Home Assistant. <sub>by [Christopher](https://x.com/csapperson) (@csapperson)</sub>
+- [iCloud Mail](https://x.ai/bot/0fF7Cqp8LTzh9JGQ-je3M) — On-demand iCloud Mail helper via IMAP/SMTP with app-specific password. <sub>[origin](https://x.com/CyberZack42)</sub>
 - [Inbot](https://x.ai/bot/yH2UttxbMwMugweZrigHT) — An inbox-zero bot across every inbox you actually use. <sub>by [Matthew](https://x.com/matt_silberman) · [origin](https://x.com/matt_silberman/status/2093378871403933751)</sub>
 - [Inbox](https://x.ai/bot/SFYFHDNLPUwKL2fSACwcH) — Weekday GTD triage for an Obsidian inbox that clarifies overnight captures into actions, waiting-fors, and calendar. <sub>by [Coconut](https://x.com/Genseb7) (@Genseb7) · [origin](https://x.com/Genseb7/status/2102187055404982593)</sub>
 - [Inbox Cleaner](https://x.ai/bot/6uqwQQpLVpsSYJPG2QIEp) — Cleans Gmail promotions, unsubscribes when possible, trashes junk, and files keepers into folders. <sub>by [Jamie](https://x.com/wafflebeebz) (@wafflebeebz) · [origin](https://x.com/wafflebeebz/status/2103025580157628909)</sub>
@@ -191,7 +193,6 @@
 - [Mike](https://x.ai/bot/6FCbyQZKiwmuPiMqTmurR) — Reads school and personal mail, flags what matters, and asks before acting. <sub>by [Fernando](https://x.com/fernandoplaz) (@fernandoplaz) · [origin](https://x.com/fernandoplaz/status/2101320848598606151)</sub>
 - [Music teacher assistant](https://x.ai/bot/WvDadBM5OxNkQLnt_9qNI) — For music teachers: draft monthly lesson receipts from Google Calendar, optionally sync Tazman to calendar, and turn bank-transfer screenshots into. <sub>by [Eran](https://x.com/EranHertz) (@EranHertz)</sub>
 - [Newsletter Cleanup](https://x.ai/bot/dHd69sBvMG2o3lJa__T7K) — Audits six months of newsletters and unsubscribes only from what you approve. <sub>by [Andrej](https://x.com/scheemunai) · [origin](https://x.com/scheemunai/status/2093398594745254196)</sub>
-- [Nightly Digest](https://x.ai/bot/1hD0sdaD2gCbQ927sIhft) — Nightly Gmail + Slack digest with clear next steps. <sub>by satadru (@community)</sub>
 - [Nixie](https://x.ai/bot/V4vVQ5UtqQKMTQ7pg3Ihc) — Gmail cleanup clerk for expert witnesses and busy professionals: trash promo noise, file license and matter mail, and keep availability-outreach. <sub>by [Bruce](https://x.com/bfwebster) (@bfwebster)</sub>
 - [Notes → Agenda](https://x.ai/bot/6_vKE3XpHQg0l3UxERFsp) — Paste rough meeting notes or a scrubbed transcript. Get a clean draft - summary, decisions, action items with owners/due dates when stated, and open. <sub>by [Chill](https://x.com/MisledFan) (@MisledFan)</sub>
 - [NYC Parent](https://x.ai/bot/cht7ytAhe3euOQy2wnEg9) — A family chief of staff for New York City parents. It tracks school, calendar, activities, and household logistics, turns incoming information into next.
@@ -236,6 +237,9 @@
 - [Social Media](https://x.ai/bot/Xp5k82r21UvTani1ndv-b) — Schedules posts and answers comments, messages, and reviews across social networks. <sub>by [Eclincher by Tal](https://x.com/eclincher) (@eclincher) · [origin](https://x.com/eclincher/status/2097462985090547884)</sub>
 - [Space x Launch Bot](https://x.ai/bot/l7bhF020vKEQ-Gh7lTWSJ) — Tracks SpaceX launches end to end — upcoming schedule, countdown windows, scrub risk, and live mission status through liftoff and recovery. <sub>by [WasAcop](https://x.com/WasAcop)</sub>
 - [Stock Video Summaries](https://x.ai/bot/fEKm3hXOWNegRH_DKKYqg) — Watches a stock-education Discord on an automatic hourly schedule plus a weekday pre-market run. Emails one short newspaper brief per video — Jerusalem. <sub>by [Eden](https://x.com/edengil94) (@edengil94) · [origin](https://x.com/edengil94/status/2099989965786460435)</sub>
+- [Sub Guard](https://x.ai/bot/4Tg_53sv5QYsk7JrY4-L_) — Finds forgotten trials/subscriptions in Gmail. <sub>by [Mathieu](https://x.com/Pinuts_) (@Pinuts_)</sub>
+- [Sundial](https://x.ai/bot/yF9Z-RMzHW1SpLC94-BmM) — Calendar assistant for meetings, deadlines, and focus blocks; invites only when you ask. <sub>by [riesling29](https://x.com/WaterMixing) · [origin](https://x.com/WaterMixing/status/2104049725897122212)</sub>
+- [Teddy](https://x.ai/bot/1CN_MjQ2E4oT3hnJXscGB) — Your AI chief of staff. Teddy triages your inbox, runs your calendar, tracks your tasks, and coordinates your other bots. <sub>by [Procount](https://x.com/JackLocke) (@Jack Locke) · [origin](https://x.com/JackLocke/status/2103805162578231363)</sub>
 - [TenderYearsbot](https://x.ai/bot/o7VRdRSxHvBEYbzkJQm07) — Kids-under-5 household logistics from Gmail, Calendar, and Tender Years. <sub>by [Liz](https://x.com/voeliz) (@voeliz)</sub>
 - [teslaway](https://x.ai/bot/HoG3J3B0g4fjKr54aA5tP) — Finds used Teslas near a ZIP and emails a short matching list. <sub>by [Vijay](https://x.com/ixdesigner) (@ixdesigner)</sub>
 - [TESTYS](https://x.ai/bot/xeyk4BgUD9iVU5b55r0ok) — Turns real reviews and praise into named quotes and ready-to-paste lines for email, social, proposals, and websites. Paste a review and get usable. <sub>by [Bud](https://x.com/BudJohnson) (@BudJohnson)</sub>
@@ -244,7 +248,9 @@
 - [Time Keeper](https://x.ai/bot/IAEp851k9orM1LguTm2F8) — Bookends your day with a morning agenda and a night preview. <sub>by [Mark](https://x.com/ironted21) · [origin](https://x.com/ironted21/status/2093771512331252046)</sub>
 - [Tradbot](https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9) — A household chief of staff for family plans, school and home admin. <sub>by [Claire](https://x.com/clairevo) (@clairevo) · [origin](https://x.com/clairevo/status/2093487955205923031)</sub>
 - [Tradbot](https://x.ai/bot/wOE4e95HNxhSbrzyLkSI-) — Watches your personal email and calendar so school forms, bills, and RSVPs don't slip. Drafts the reply, catches the pickup clash, and never sends. <sub>[origin](https://x.com/harriskennyx/status/2103645980147204160)</sub>
+- [Tradbot](https://x.ai/bot/F5coW1LJyNjK5Pw3zvTkS) — Watches Gmail + Calendar for school forms, bills, RSVPs. <sub>by Vet (@community)</sub>
 - [UK HealthOps](https://x.ai/bot/NgVzsPCqf9_qdNWLs9NAQ) — UK health admin covering history, consultants, bookings, and calendar. <sub>by [Philip](https://x.com/HybridEcon) (@HybridEcon)</sub>
+- [UNDO](https://x.ai/bot/wPs7aZwnwlVO7GNwcpiSz) — Bought it, booked it, subscribed, regretted it? Undo checks your inbox for purchases, trials, subscriptions, bookings, and tickets you can still. <sub>by [Roshan](https://x.com/Roshan)</sub>
 - [Wallet Watcher](https://x.ai/bot/S53Q85p1XVjLKmRcnhPcO) — Scans a receipts inbox for forgotten subscriptions, trial renewals, and bills worth negotiating before they renew. <sub>by [Imran](https://x.com/imrannotes) · [origin](https://x.com/imrannotes/status/2100825649145381181)</sub>
 - [Webinar Desk](https://x.ai/bot/n0v3TatpnoYff_4ybSWmK) — Finds webinars in your lanes, attends with approval, and emails a brief. <sub>by [Mat](https://x.com/Ispider) (@Ispider) · [origin](https://x.com/Ispider/status/2100694025926029415)</sub>
 - [Weekender](https://x.ai/bot/pFygGG8IU67dM2S7WitaT) — Social events coordinator for weekends that actually happen. <sub>by [Jeff](https://x.com/jeffdillehunt) (@jeffdillehunt)</sub>

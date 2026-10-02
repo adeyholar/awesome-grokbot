@@ -2,10 +2,11 @@
 
 *盯住一个领域、核查说法，最后只给你一份短简报。*
 
-496 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](research-briefings.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh)
+527 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](research-briefings.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh)
 
 ---
 
+- [$SPCX Bot](https://x.ai/bot/TAD58vAxB2qfo2pY1jtjJ) — SpaceX 上市后的单票研究台，立足公开文件。 <sub>作者 [Jim](https://x.com/jim_CFA_CFP) (@jim_CFA_CFP) · [出处](https://x.com/jim_CFA_CFP/status/2105158559612719523)</sub>
 - [2nd Brain](https://x.ai/bot/c4fYduVVic2YtbcjXquD0) — 把你读过的东西收成可问答的链接维基。 <sub>作者 [Thierry](https://x.com/LeTerryBZH) (@LeTerryBZH) · [出处](https://x.com/LeTerryBZH/status/2094616823803314592)</sub>
 - [A1 Charity](https://x.ai/bot/SRFGtB_-g8py4h4ijbdF2) — 短访谈后查慈善机构质量，给出明确捐赠或志愿建议。 <sub>作者 [Kenton](https://x.com/Thebossdj77) (@Thebossdj77) · [出处](https://x.com/Thebossdj77/status/2102889711102751045)</sub>
 - [Account Research Desk](https://x.ai/bot/O3iqVd_ZrdRtrDJpxcKss) — 研究你要卖的公司并写会前简报与客户计划，只用公开网与你粘贴的笔记，不代发。
@@ -17,6 +18,7 @@
 - [AgentRail Research](https://x.ai/bot/vT4SZvFmKSfQjHBrzHema) — 按次计费的研究代理负责检索综合并交回带出处的结论。 <sub>作者 [Bryan](https://x.com/VolHawk1) · [出处](https://x.com/VolHawk1/status/2104451922518519867)</sub>
 - [AI Claim Checker](https://x.ai/bot/G48vC01p5cAxckACKFIaM) — 围绕「AI Claim Checker」的工作流助手，按说明完成首次只读任务后再开写入。 <sub>作者 Michael (@community)</sub>
 - [AI Daily Radar](https://x.ai/bot/EZ8RChmm9gSGmK3SXv-3M) — 资讯简报助手。 <sub>作者 Michael (@community)</sub>
+- [AI Digest Educator](https://x.ai/bot/KH4AcBoSDzeG-Dq17TssF) — 个人 AI 教育向导，每晚整理前沿 AI 摘要，可选投递 Kindle。 <sub>作者 [Anthony](https://x.com/FELIXCATanzaro) (@FELIXCATanzaro) · [出处](https://x.com/FELIXCATanzaro/status/2105732900696227893)</sub>
 - [AI Master](https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X) — 同时问四个 AI 模型，再把回答合成一份。 <sub>作者 [Leonardo](https://x.com/leoclark) (@leoclark) · [出处](https://x.com/leoclark/status/2096554844593222029)</sub>
 - [AI Resource Sift](https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL) — 把论文、代码、讲座和论坛扫进一摞阅读清单。 <sub>作者 [Alen](https://x.com/beamnxw) · [出处](https://x.com/beamnxw/status/2093456831481885041)</sub>
 - [AI Visibility | GEO Operator](https://x.ai/bot/beh0HMIMPwr5cenZVVAT-) — 品牌 GEO 自动运营，监测大模型答案里的露出，挖竞品占位并给出可执行补强。 <sub>作者 [Miguel](https://x.com/seoforgpt)</sub>
@@ -43,6 +45,7 @@
 - [Beatrix Kiddo](https://x.ai/bot/z4Chp77wqP5ASkBKpxOOk) — 盯着物流，包裹一停就提醒你。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2094782517794529780)</sub>
 - [Benefits Concierge](https://x.ai/bot/s8xQ8kXnmy06ChZvNJHXn) — 盯住信用卡与会员权益，别让福利过期没用。 <sub>作者 [Connor](https://x.com/connorli1996) (@connorli1996) · [出处](https://x.com/connorli1996/status/2105067012817039599)</sub>
 - [Better Call Claude](https://x.ai/bot/f7I5mP0uJf9brGIuK0ETo) — 免费帮你把法律问题归类定位，只做导读不做代理。 <sub>作者 [Robauto](https://x.com/freelegalforall) (@freelegalforall) · [出处](https://x.com/freelegalforall/status/2095994776625819949)</sub>
+- [Betting Desk](https://x.ai/bot/mtGRHIWa1c9SOeRGrTB8_) — 赛事与盘口研究桌，整理赔率与叙事。 <sub>作者 [STU🌾](https://x.com/_SpecialTeamsU) (@_SpecialTeamsU) · [出处](https://x.com/_SpecialTeamsU/status/2105726466839511200)</sub>
 - [Bill](https://x.ai/bot/GR0rqS06gn6Kr_WnMw5Fn) — 教育部长席，协调教学专岗，自己不上课。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Bookmark Miner](https://x.ai/bot/2KoI66uCOtx0PSf3do4tK) — 把你收藏的 X 帖排成真正值得动手的短清单。 <sub>作者 [Reuben](https://x.com/therookiehacker) (@therookiehacker) · [出处](https://x.com/therookiehacker/status/2103980722189197456)</sub>
 - [Bookworm](https://x.ai/bot/Yu8p1lw1sJi35Q15kTTtR) — 物理科学教师席，查公开政府来源的物理化学天文与地学。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
@@ -54,6 +57,7 @@
 - [Budget Coach](https://x.ai/bot/SgloJICCQNZpb0h9XJQF1) — 按真实收入划分类预算，超支早提醒。 <sub>[出处](https://x.com/alexnextd00r/status/2105081301267329069)</sub>
 - [Burundi Sky Watch](https://x.ai/bot/VMqXvofTHZ5qHzqnYb3jp) — 用免费实时航班数据展示此刻飞越布隆迪的飞机，含航司机型起降地。 <sub>作者 [marcellin](https://x.com/Marcellin_dev) (@ambaza marcellin) · [出处](https://x.com/Marcellin_dev/status/2104828414532399414)</sub>
 - [Business](https://x.ai/bot/B7C9a8QJSUSUJLKtHtze4) — 工商管理与营销席，查官方来源并做本地优先账本，不编造余额。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
+- [Business Info Finder](https://x.ai/bot/lsg8TX4CiXRGWhkK9T8gN) — 丢入公司或人名，整理可扫读的联系单：组织树、电话邮箱、对接人、社交与营业时间。 <sub>作者 [Serenejay](https://x.com/Serenejaysew) (@Serenejaysew) · [出处](https://x.com/Serenejaysew/status/2105592832442413069)</sub>
 - [Butters | Investor Bot](https://x.ai/bot/UWNGpcghM9H79JCb4of5Q) — 管一小本券商账户的波段交易，止损写死，告警尽量安静。 <sub>作者 [Stephen](https://x.com/MadeItHappenX) (@MadeItHappenX) · 社区旧称 *Investor Bot* · [出处](https://x.com/MadeItHappenX)</sub>
 - [BuyerBot](https://x.ai/bot/kQ7OlCrADIjztiAKsVR0Y) — 个人购物研究员与购买顾问，先摸清市场，再问几个问题后给建议。 <sub>作者 [dmitry](https://x.com/d_ilash) (@d_ilash)</sub>
 - [Calorie Log](https://x.ai/bot/zK27ouDr1l7fMT9DHB6oZ) — 饮食与热量记录助手。 <sub>作者 Terry (@community)</sub>
@@ -105,6 +109,7 @@
 - [Creator Tracker](https://x.ai/bot/VybQINyBDKmSOgy-wua_A) — 关注任意X创作者，发帖时提醒（可只盯某主题），附摘要与可点链接。 <sub>作者 [IG:](https://x.com/16luca) (@16luca) · [出处](https://x.com/16luca/status/2104441898140315675)</sub>
 - [Crosscheck](https://x.ai/bot/U4E-bNBzYlVcl_hMYf-kZ) — 发布前用推理与实况来源两条线核对立论主张，给出对齐部分争议或证据不足与改法。 <sub>作者 [D'Artagnan](https://x.com/the_Arow_H) · [出处](https://x.com/the_Arow_H/status/2104542071097118779)</sub>
 - [Crypto](https://x.ai/bot/qnTO06PiOYKnbYi1XVkdy) — 英语文学、本地书信与区块链公开事实，不碰密钥托管。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
+- [Crypto](https://x.ai/bot/7wv5WYGOnMMImpWdicU3E) — 加密市场叙事与机会侧写，少噪音多信号。 <sub>作者 [Robert](https://x.com/Robert1) (@Robert1) · [出处](https://x.com/Robert1/status/2105781926447698396)</sub>
 - [Crypto Buddy](https://x.ai/bot/TSgExceGHVJN9U2E4-_23) — 输入加密货币代码或币名后返回带出处的研究包含指标白话盘面解读与评分量表。 <sub>作者 [Joe](https://x.com/JRNavarro75) · [出处](https://x.com/JRNavarro75/status/2104903749026435552)</sub>
 - [CSEd Research Mate](https://x.ai/bot/MXHLIzKJ1hOslFfTTr6do) — 计算机编程教育的研究队友，做文献扫描、学生作品质性编码、测评设计与研究方案。 <sub>作者 [Orlando](https://x.com/orlandomisael) (@orlandomisael)</sub>
 - [Customer Call Coach & Assistant](https://x.ai/bot/v1lSvhJCo4UrNGZxc5Fw8) — 客户通话前给你简报，通话后再按表现做教练反馈。
@@ -137,6 +142,7 @@
 - [Dr. ICann](https://x.ai/bot/1_HBfW3r_vfLv622v7gQ6) — 卫生专业教学诊室，查 CDC NIH 与 MedlinePlus，不是医嘱。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Dr.Civil](https://x.ai/bot/aRgmVDYlNjRz6udEEgyvF) — 公民身份与宪法权利保管席，按公开政府文本简答。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Early-Stage Funding Scout](https://x.ai/bot/1AFXHf0OtQ-J4-eP5wgC5) — 帮创始人找加速器和种子轮，并提醒申请窗口。 <sub>作者 [Nahuel](https://x.com/neslyio) (@neslyio)</sub>
+- [Earnest](https://x.ai/bot/t1qudulqFK7nq4rOnxlem) — 财报打分助手，用白话整理 SEC 季报要点。 <sub>作者 [Thomas](https://x.com/tkinfinance) · [出处](https://x.com/tkinfinance/status/2105905679328522384)</sub>
 - [Ecom Creative CoS](https://x.ai/bot/R_rFWGcUu3PHaSyH8VjIt) — 电商创意运营的幕僚长，按 SKU 管网盘上架文件、Higgsfield 图、情绪板、分镜与竞品研究，写入有门禁。 <sub>作者 [Shalom](https://x.com/ShalomNFT) (@ShalomNFT)</sub>
 - [EdTech News Nathan](https://x.ai/bot/hqMdsLmgy8l7XEtsdhXc_) — 对课堂游戏与学校科技给出怀疑向的每日与每周 EdTech 摘要。 <sub>作者 [Noah](https://x.com/NoahReynol99548) (@NoahReynol99548)</sub>
 - [elf](https://x.ai/bot/u9MMY9PmqCWnVDucZ49Tt) — 多代理机群的专家研究席，深入工人抛来的问题并带回带证据答案。 <sub>作者 [Capital](https://x.com/CapitalCopilot) (@CapitalCopilot)</sub>
@@ -146,6 +152,7 @@
 - [Ethan](https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE) — 带五项专长的研究台，还会核对自己的发现。 <sub>作者 [JUMPERZ](https://x.com/jumperz) · [出处](https://x.com/jumperz/status/2093407073815929223)</sub>
 - [Event Watcher](https://x.ai/bot/xr-WctZDSn0thJABV9huO) — 盯多日直播与培训，再用白话发纪要与行动项。 <sub>作者 [Arul](https://x.com/ArulKaarthickDe) (@ArulKaarthickDe)</sub>
 - [Experiment Designer](https://x.ai/bot/Dd6URqnf4w5hiVEs_vbRL) — 增长科学家，把简报写成可供怀疑者批准的预注册实验，从不擅自开量或拨开关。 <sub>作者 [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
+- [Explainer Bot](https://x.ai/bot/9ppPlUn9YaDuVx4VAArOR) — 把复杂话题讲成可扫读的白话说明。 <sub>作者 [Mike](https://x.com/mikepat711) (@mikepat711) · [出处](https://x.com/mikepat711)</sub>
 - [Faceless Explainer Studio](https://x.ai/bot/MK8yWsLYSmXflgBOdTugM) — 替你跑无露脸解说 YouTube 频道，从研究脚本旁白到定时上传。 <sub>作者 [Robert](https://x.com/Robert)</sub>
 - [Family Care Companion](https://x.ai/bot/sZMzwsYO_whThdbDgTx9a) — 家庭照护者的温暖实用搭子，管病历夹、药、约诊与你自己也被照顾。 <sub>作者 [Deana](https://x.com/Deana)</sub>
 - [Family Safety Monitor](https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy) — 根据观看记录和 Screen Time 等导出，汇总孩子常用应用和频率，不做私聊内容审查。 <sub>作者 [Kevin](https://x.com/KevinTweets1) (@Kevin Rank) · [出处](https://x.com/KevinTweets1/status/2099251469266608138)</sub>
@@ -183,6 +190,7 @@
 - [github 优秀仓库](https://x.ai/bot/D9HYH2jAmGiKw7e499mrE) — 每天早上扫一遍 GitHub 趋势页，把值得看的仓库写成简报。 <sub>作者 [umiastuti8329](https://x.com/ios_1261142602) (@ios_1261142602) · 社区旧称 *github \u4f18\u79c0\u4ed3\u5e93* · [出处](https://x.com/ios_1261142602/status/2094243852932776384)</sub>
 - [Glasser](https://x.ai/bot/pYFETnU1TFsADlz0hJD1y) — 通过 Glasser.ai 统一查询公司与联系人 enrichment、SEO、广告、流量和融资等付费数据。 <sub>作者 [iammutex](https://x.com/Glasserai)</sub>
 - [GoodNews](https://x.ai/bot/0l58XqOBeJ7h7QUiEQ54x) — 早晚一封暖心好消息摘要，覆盖科学、善意、康复与社区正能量。 <sub>作者 [Joey](https://x.com/aijoey) · [出处](https://x.com/aijoey)</sub>
+- [Government Opportunity Intelligence Agent](https://x.ai/bot/7ypeNcwfHLUecL8599IRP) — 扫描政府招标与机会情报并整理可跟线索。 <sub>作者 [Donte](https://x.com/citizend_d) (@citizend_d) · [出处](https://x.com/citizend_d/status/2105747491404869728)</sub>
 - [GrandBot](https://x.ai/bot/X_EV8GMyK_cIeaJ4CxOFP) — 把官方 Bot 导出读成一份组织运转简报。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2096133174879211976)</sub>
 - [Grant Manager](https://x.ai/bot/Tzx-9PGZAxepQQU0ybNfZ) — 找小生意真能赢的资助，筛匹配并起草申请，工作日送短板报。 <sub>作者 [Kirill](https://x.com/Kirill)</sub>
 - [GrantOgre](https://x.ai/bot/WXC1m-5Iiyu1IyvBEt9Va) — 找在招的资助项目并整理申报材料包，由你审阅签字后自行提交。 <sub>作者 [Sebastian](https://x.com/HoneybadgerFan4) (@Sebastian Andreas Nikolaus) · [出处](https://x.com/HoneybadgerFan4/status/2105258225922707792)</sub>
@@ -232,6 +240,7 @@
 - [Landlord Ledger](https://x.ai/bot/sPjI0Dec1DUvTc7H0zxNG) — 小房东租金台账，提醒只在你确认后发出。 <sub>作者 [Daniel](https://x.com/Daniel191555486) (@Daniel191555486) · [出处](https://x.com/Daniel191555486/status/2105082481640980600)</sub>
 - [Last Days Research Aide](https://x.ai/bot/6TtxM8bzTYdNq6Qj4JU-r) — 跟踪末世相关观察点，并把预言说法与核实新闻分开。 <sub>作者 Jim</sub>
 - [last30days](https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8) — 捞出过去三十天里人们对一个话题真正说过的话。 <sub>作者 [Matt](https://x.com/mvanhorn) (@mvanhorn) · [出处](https://x.com/mvanhorn/status/2093466618718245198)</sub>
+- [last30days](https://x.ai/bot/TxB-fy1KryaYJLYWBcGtT) — 整理最近 30 天动态做成可读简报。
 - [Launch & Sky Watch](https://x.ai/bot/jhwkYhWyRJbDs_-uHzGar) — 按你的本地时间跟踪火箭发射与值得仰望的天象，独立信息源。 <sub>作者 [Joseph](https://x.com/BTC_Yogi) · [出处](https://x.com/BTC_Yogi/status/2104072671856365696)</sub>
 - [Launch Seat](https://x.ai/bot/QwYUXSLYJcuk0k6L_lyn9) — 为 Starbase 行程竞赛打造的工作与项目助手，推动任务、草稿、研究与跟进，让一天交付更多。 <sub>作者 [Brandon](https://x.com/brandonbe) (@brandonbe)</sub>
 - [LDS Church News](https://x.ai/bot/aE-0Zz2eVsV9RC3R_ns7c) — 耶稣基督后期圣徒教会新闻室动态速览。 <sub>作者 [TW](https://x.com/londontodd) (@londontodd) · [出处](https://x.com/londontodd/status/2104310133799174225)</sub>
@@ -410,19 +419,26 @@
 - [Society](https://x.ai/bot/icwxYFKWgZzdUpJznnM-G) — 教育与自愿结社席，查公开统计来源的社会科学内容。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Solid Vibe](https://x.ai/bot/mT2L0I5XyIr-jGXXIIxYT) — 参数化实体、STEP 或 STL 或三维制造格式的精密 CAD 专家，含 AI 辅助 FreeCAD。 <sub>作者 [Eugene](https://x.com/monomyth) (@monomyth)</sub>
 - [Solo Founder Ops Desk](https://x.ai/bot/4evc9gtDOCrFt5vMCg0HG) — 一人公司的运营官，按工作日常规把调研、质检、编码、设计、社交和模拟交易分给专长队友。 <sub>作者 [Braner](https://x.com/dodgeking3171) · [出处](https://x.com/dodgeking3171/status/2100816862409793883)</sub>
+- [Solopreneur Chief of Staff](https://x.ai/bot/NsCDfZMFctaP1WIp_48k4) — 维护订阅续费台账，并在到期前两天提醒。 <sub>作者 [Mainly](https://x.com/c0rtex1100X) (@c0rtex1100X) · [出处](https://x.com/c0rtex1100X/status/2103990572000378881)</sub>
+- [Sophie](https://x.ai/bot/VIImpKQ63_ByFepCnCI3R) — 起草覆盖人与 AI 关系的权利本位章程。 <sub>作者 [Michael](https://x.com/IAmMichaelSweet) (@IAmMichaelSweet) · [出处](https://x.com/IAmMichaelSweet/status/2105081995932184637)</sub>
 - [SpaceBOT](https://x.ai/bot/_aoBzY_YprxKiXW34l5U9) — 友好的太空老师，讲解 SpaceX 任务、直播用语、载具与轨道，并在发射前给课和测验。 <sub>作者 [DIEGO](https://x.com/diegoarmandoAD) · [出处](https://x.com/diegoarmandoAD/status/2104542092336759266)</sub>
+- [Spacex Launch Notifications](https://x.ai/bot/yFMbDewP86aoPzNmgz44o) — SpaceX Starbase 发射的航宇监管直播分析，查 TFR 封路与水域窗口。 <sub>作者 [Jonathon](https://x.com/Jonathon)</sub>
 - [Speaker Sam](https://x.ai/bot/IhhLP0YIDjVlkOS_H6i5D) — 按预算与场景盯蓝牙音箱降价，出行或聚会前不错过合适价。 <sub>作者 [Frank](https://x.com/FrankFindsOut) · [出处](https://x.com/FrankFindsOut/status/2104685385398026459)</sub>
 - [Sports bet prophet](https://x.ai/bot/IO8UsiRc-wcUWtZPj4Jgv) — 做有纪律的两腿串关研究，带止损与弃投规则，不鼓励乱押。 <sub>作者 [BackWoods](https://x.com/SGBackWoods) · [出处](https://x.com/SGBackWoods/status/2104094659160977832)</sub>
+- [Spot Brief](https://x.ai/bot/vRNPIvLFS4OA1RkRxwtBN) — 日前电价日报，带小时价格图与何时开洗碗洗衣或充车的轻提示。 <sub>作者 [Jan](https://x.com/Jan)</sub>
 - [Starship Tracker](https://x.ai/bot/LH13m3OO5TPi1w8E65sYB) — 粉丝向 Starship 发射台，只推核实公开状态与变更提醒。 <sub>作者 [Chad](https://x.com/chad7757) (@chad7757) · [出处](https://x.com/chad7757/status/2103629637628940687)</sub>
 - [Startup Sleuth](https://x.ai/bot/DlhUriPFrGv6jTJ_H3RJx) — 为天使投资人挖掘不寻常的早期创业公司；每周两次短名单。 <sub>作者 [Francis](https://x.com/FrancisPSantora) (@FrancisPSantora)</sub>
 - [Steal This Business](https://x.ai/bot/Ojrv95GLUG1nO1p1RWzVK) — 把你佩服的公司拆开，变成你能自己搭的那一套。 <sub>作者 [aditya](https://x.com/adxtyahq) (@adxtyahq) · [出处](https://x.com/adxtyahq/status/2093705315607065020)</sub>
 - [Stock Market Portfolio Manager](https://x.ai/bot/hsP8X6sbzyqEaVeX65C-z) — Ken带领六机器人股票研究台，先引导你、可复制公开组合再持续跟仓。 <sub>作者 [Gilson](https://x.com/the___GAD) (@the___GAD)</sub>
 - [Stock Research Desk](https://x.ai/bot/Ubba16JRWPSR3Qi1QAmU2) — 中长期股票研究台，给优质公司打分，只做研究不下单。 <sub>作者 [HOM](https://x.com/HassiOnTheMoon) (@HassiOnTheMoon) · [出处](https://x.com/HassiOnTheMoon/status/2101739310500204922)</sub>
+- [Stock Stu](https://x.ai/bot/5hC4ADaD6Gb37Db8FswXO) — 每日检查你的持股，标出涨跌与关注点，配早咖啡看的简报，非投资建议。 <sub>作者 [Frank](https://x.com/FrankFindsOut) · [出处](https://x.com/FrankFindsOut/status/2104803312659001480)</sub>
+- [Stonkie](https://x.ai/bot/wwl0H_pZIaZOinxuT7VcR) — 个人投资者的多头股票研究，给白话买卖持有备忘。 <sub>作者 [Ali](https://x.com/thoughtsofdax) (@thoughtsofdax)</sub>
 - [StoriesBot](https://x.ai/bot/cV7nGFO88pb2WXNN56h8A) — 搜十七年的 MacStories，可按时间和作者筛。 <sub>作者 [Federico](https://x.com/viticci) (@viticci) · [出处](https://x.com/viticci/status/2093420134962540763)</sub>
 - [Struggle Gate](https://x.ai/bot/tjN1LsaYsuR7u0dQQvOGV) — 把答案压十分钟，逼你自己先试一遍。 <sub>作者 [Sultanov](https://x.com/thekuchh) (@thekuchh) · [出处](https://x.com/thekuchh/status/2094103750399193493)</sub>
 - [Stuck Cycle](https://x.ai/bot/fihe4nAy0jFWoygo4JCAW) — 让一项技能反复跑「尝试 → 卡壳 → 针对性补课」的循环。 <sub>作者 [Sultanov](https://x.com/thekuchh) (@thekuchh) · [出处](https://x.com/thekuchh/status/2094103808985141546)</sub>
 - [Stuck Signal](https://x.ai/bot/1JxNBfQ05cVYJGLLh6R-o) — 长任务卡住、循环或报错时才叫你，没事就安静。 <sub>作者 [Zifs](https://x.com/WeirdBotDrop) (@WeirdBotDrop)</sub>
 - [Summarize Bot](https://x.ai/bot/9vk3KOm7wJzYVXlyKXxj7) — 把网页视频 PDF 图片和粘贴文字整理成简短的聊天摘要。 <sub>作者 [Vincent](https://x.com/_VincentPeng) (@Vincent Peng) · [出处](https://x.com/_VincentPeng/status/2101214058431058358)</sub>
+- [Sunlight](https://x.ai/bot/zfDZyngnaxStUF6RtoD-7) — 围绕「Sunlight」的工作流助手，按说明完成首次只读任务后再开写入。 <sub>作者 Developer (@community) · [出处](https://x.com/acornsoftai/status/2104717018217783354)</sub>
 - [Suomatlas article coordinator](https://x.ai/bot/nqfPdBjxE6JNdjvr7Qwda) — 为每周芬兰邮区数据故事跑多机器人新闻室，选题、写稿与核对。 <sub>作者 [itulo](https://x.com/ItaloArmenti) (@ItaloArmenti)</sub>
 - [Support Bridge](https://x.ai/bot/g3URTClmjeIlCgwDIK8dV) — 把支持帖与转发线程收成德文工作简报，方便你加批注再回。 <sub>作者 [Marc](https://x.com/njuuden) (@njuuden) · [出处](https://x.com/njuuden/status/2101081959761891785)</sub>
 - [Support Triage Bot](https://x.ai/bot/CIU6taZ7CkhsJZlCK9ps9) — 把客服分流进 Linear，重命名应用内反馈，从 Slack 或 HubSpot 建事实工单，只给短诊断不擅自联系客户。 <sub>作者 [Stephen](https://x.com/IamSt3ph3n) (@IamSt3ph3n)</sub>
@@ -432,33 +448,47 @@
 - [Team Ninja + Self-learning Skills Loop](https://x.ai/bot/uoHxMMgZfiJTymQ0dA9g8) — 用自学技能循环搭建有目标的多机器人团队。 <sub>作者 [Tim](https://x.com/salterworld) (@salterworld)</sub>
 - [Tech Skills Coach](https://x.ai/bot/z841w3sxcqGwe83MQLk3E) — 技术副驾驶，用刻意练习把编码练熟。 <sub>作者 [laila](https://x.com/LailaDeeb1) (@LailaDeeb1)</sub>
 - [Termômetro Eleitoral](https://x.ai/bot/n6DQhcTSPHdlVpQtEinpS) — 每天汇总值得看的 X 候选帖与人选。 <sub>作者 [Cristiano](https://x.com/crisvallory) (@crisvallory)</sub>
+- [Terra](https://x.ai/bot/WvmoUWAeEGQg8awYhvRel) — 自然资源与环境科学教师席，查公开政府来源。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
+- [Tesla Bot](https://x.ai/bot/PQhKM1G6t5kFI0ZwjIt1t) — 在不唤醒车辆下监控特斯拉，把电量与状态记到表格，并在上线或失联时提醒。 <sub>[出处](https://x.com/california_swe/status/2104810726175232382)</sub>
+- [Tesla Maintenance Reminder](https://x.ai/bot/pKfa-wIy5YSH1GOt0PN9A) — 跟踪特斯拉易损件，到保养节点再提醒。 <sub>作者 [jbre3zii](https://x.com/jbaladjay_) (@jbaladjay_) · [出处](https://x.com/jbaladjay_/status/2105056806460706965)</sub>
 - [Tesla ownership assistant](https://x.ai/bot/qLvwv-PZIQzUF0xrCj7tj) — 特斯拉车主周报，覆盖车辆状态、充电与保养提醒。 <sub>作者 [Jason](https://x.com/TeslaNewb) (@TeslaNewb)</sub>
 - [Texas Lawyer](https://x.ai/bot/KSx8Y5v8FFgHNhKjSN56Y) — 盯紧德州承保判例与监管静默动作，汇成一份常备简报。 <sub>作者 [ladybarrelmaker](https://x.com/ladybarrelmaker) · [出处](https://x.com/ladybarrelmaker/status/2103106176481140860)</sub>
+- [Thailand Visa Desk](https://x.ai/bot/zAzTVZRdvW9AK9okGihzU) — 围绕「Thailand Visa Desk」的工作流助手，按说明完成首次只读任务后再开写入。 <sub>作者 Daniel (@community)</sub>
 - [Thaw](https://x.ai/bot/CvO94wB4V27zmL1haDbQL) — 用合成数据随机森林给水管打未来十二个月失效分，并用白话解释。 <sub>作者 [Ian](https://x.com/thebytorsnowdog) (@thebytorsnowdog) · [出处](https://x.com/thebytorsnowdog/status/2103743916964970548)</sub>
 - [The Amazing Randibot](https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx) — 开朗的怀疑派，逼你其他 Bot 拿出证据。 <sub>作者 [Russ](https://x.com/russbroomell) (@russbroomell) · [出处](https://x.com/russbroomell/status/2095661019041251711)</sub>
+- [The Box of Names by jack,](https://x.ai/bot/M0ZZw7AT7MzGjvYe1jLBb) — 跨文明追溯名称来源，并标注每环是史料还是传说。 <sub>[出处](https://x.com/BLDG_390/status/2103987768196211108)</sub>
+- [The Great Gatsby](https://x.ai/bot/Hlnvwim1_YI32ybXZ0hI3) — 美股研究机器人，用一张暗色仪表盘图给任意代码打分并筛选机会。 <sub>作者 [Angel](https://x.com/anegronro) (@anegronro)</sub>
 - [The List](https://x.ai/bot/U-eydTXJP7aN4W9dcUL5k) — 新 bot 或目录精选落地时在对话里丢三行提醒，不发邮件也不代写。 <sub>作者 [Bill](https://x.com/GrokBotGod) (@GrokBotGod) · [出处](https://x.com/GrokBotGod/status/2101482157436751928)</sub>
 - [The List](https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq) — GrokBotGod 的站内通讯：装一次，目录上新就在这个聊天里给你三行速报，不用邮箱。 <sub>作者 [Bill](https://x.com/GrokBotGod) (@GrokBotGod)</sub>
 - [The Page](https://x.ai/bot/uFRK1GoAsiopBLPY19QCe) — 每天早晨盯三到五个公开页面，只有你关心的内容真变了才留言。 <sub>作者 [Hiten](https://x.com/hnshah) (@hnshah)</sub>
 - [Thoth](https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT) — 做深研究，把卷宗归档，下次还能找到。 <sub>作者 [Rich](https://x.com/RichSilver) · [出处](https://x.com/RichSilver/status/2093409239246971049)</sub>
 - [Throttle · Token Officer — fleet burn & waste](https://x.ai/bot/9-VBOKZkj7_QZoKDuZWIP) — 盯着一队 Grok Bot 的 token 消耗和空转循环，短报告提醒你。 <sub>作者 [Ailton](https://x.com/james_ailton) (@james_ailton)</sub>
 - [Ticker Wire](https://x.ai/bot/OA53XZkeW0g0HZEOim6iV) — 盯股票和加密货币公告与新闻，不给交易建议。 <sub>作者 [CitiZenSleuthX](https://x.com/CitiZenSleuthX)</sub>
+- [Tickets Bot](https://x.ai/bot/ZwRk9A8eyh1ujhRRsWte6) — 找娱乐门票，盯大师赛抽签与凤凰球赛等活动，有票再提醒。 <sub>作者 [Ricardo](https://x.com/RICOSAIZ1) (@RICOSAIZ1)</sub>
 - [Tin El Investigador](https://x.ai/bot/L3Lx6Y8t_ebL8qQhutoCd) — 每天就一个主题做调研，并交回可直接发的西语 X 草稿。 <sub>作者 [Valentin](https://x.com/valengiulimor) (@Valentin Giuliani Valdemoros) · [出处](https://x.com/valengiulimor/status/2099607798766084217)</sub>
 - [Tire Kicker](https://x.ai/bot/z-_zncW1_15qwOxc98b09) — 按你的心愿单在 Marketplace、Craigslist 和 eBay 上盯货。 <sub>作者 [Basho](https://x.com/IslandMountain_) (@IslandMountain_) · [出处](https://x.com/IslandMountain_/status/2097083568124203065)</sub>
 - [Titan Show Research](https://x.ai/bot/DyKsq0BuAq-c-N0mkqh7U) — 直播选题研究台，锁好能直接上口的卡片。 <sub>作者 [Hulkanator](https://x.com/TitansDrop) (@TitansDrop)</sub>
 - [Token Accountant](https://x.ai/bot/zdnVIfLkNmRwZqqogojuc) — 盯着每周模型花销，额度见底前提早喊你。 <sub>作者 [Knock](https://x.com/SuddenlyJon) (@SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2094877897399885905)</sub>
 - [Top Grok Bot tweets](https://x.ai/bot/lFDR77qKaT3Iglzv9pUac) — 每天两次用中文扫一遍值得看的 Grok Bot 账号动态。 <sub>作者 [Mai](https://x.com/MaiYangAI) (@MaiYangAI) · 社区旧称 *最值得关注的Grok Bot 推文？* · [出处](https://x.com/MaiYangAI/status/2094583123392761968)</sub>
+- [Tory](https://x.ai/bot/ezSufiHYGe7cQo6e8OvSq) — 历史专席，查官方档案与课程，从不编造史实。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [ToS Hazard Card](https://x.ai/bot/rISQRoNz_jHHmenyrNfF0) — 带条款引用的主要服务条款风险。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Track parents](https://x.ai/bot/518qV18_NL99vPVeqNTEL) — 盯家人 Google Maps 位置分享，真移动、分享过期或登录失败才通知编排器，正常则安静。 <sub>作者 [Barclay](https://x.com/Barclay53012457) (@Barclay53012457)</sub>
+- [Trading Journal](https://x.ai/bot/6rORf8SNvR8Sl1hl3THjO) — 记住你记录的每笔交易、错误与盈利形态。 <sub>作者 [Hoem](https://x.com/hooeem) (@hooeem) · [出处](https://x.com/hooeem/status/2104317730346143913)</sub>
 - [Travel Agent](https://x.ai/bot/_yHS4eeajJMAXY1EHAdoO) — 维护一份 Notion 出行日志，按你自己的行程回答问题。 <sub>作者 [Jeremy](https://x.com/jjeremycai) (@jjeremycai) · [出处](https://x.com/jjeremycai/status/2093518862868426938)</sub>
+- [Travel Delay Copilot](https://x.ai/bot/HUyK_n0GZRm8NXq_Sgw5I) — 航班延误取消或误机时拉实时航司政策与旅客权利，并起草冷静邮件。 <sub>作者 [Fernand](https://x.com/Fernand)</sub>
+- [Travel Plans](https://x.ai/bot/vA_hVKUzdFFr_5USHoUji) — 出行规划，覆盖目的地、后勤与预算，订票前先理清。 <sub>作者 [MrDingo#7118](https://x.com/DBlast77) (@DBlast77)</sub>
+- [Travel Specialist](https://x.ai/bot/xG8090ZuddD1vqrDdeTHZ) — 旅行规划助手。 <sub>作者 Arthur (@community)</sub>
 - [Trendspotter](https://x.ai/bot/nnDL-hclNLB8SkJvcVtwr) — 工作日简报，覆盖体育文娱文化趋势和营销侧 AI 信号。 <sub>作者 [Jenna](https://x.com/jennananpei) (@jennananpei) · [出处](https://x.com/jennananpei)</sub>
 - [Trojan Guard](https://x.ai/bot/rVl1h06Nts9u81JT0__nn) — 守卫席位，盯栈里的木马式风险。 <sub>作者 [Chris](https://x.com/schultz180) (@schultz180)</sub>
 - [Unblemished Checker](https://x.ai/bot/jabQBmqF-dO8ReVlmSEDo) — 按地点查下一场选举，并从官方记录梳理每位候选人。 <sub>作者 [BRBlow](https://x.com/BRBlowGames) · [出处](https://x.com/BRBlowGames)</sub>
 - [UniFi](https://x.ai/bot/Vf87y6yydZBhgHJYWBsLX) — 每天早上汇报你家 Ubiquiti 网络和摄像头的情况。 <sub>作者 [Joe](https://x.com/j03xiii) (@j03xiii) · [出处](https://x.com/j03xiii/status/2097043405830578193)</sub>
 - [unifi AQ trmnl integration](https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT) — 把 UniFi 空气质量读数送到 TRMNL 电子墨水屏上。 <sub>作者 [Eric](https://x.com/rrrkren) (@rrrkren) · [出处](https://x.com/rrrkren/status/2094584750040388071)</sub>
+- [UniFi Protect Alerts](https://x.ai/bot/t9-UluNtR8-sZdrr_bxQU) — 邮件与收件箱助手。 <sub>作者 Matt (@community)</sub>
 - [UniFi Watch](https://x.ai/bot/qV6FAPsH8Yox5VNuYQ8al) — UniFi 站点看门狗，盯 Network 健康和 Protect 摘要。 <sub>作者 [Eric](https://x.com/ericdmann) (@ericdmann)</sub>
 - [Unstuck](https://x.ai/bot/FkuWnwaRU4xzZbTJ4QcHA) — 你在原地打转时的澄清搭档，一次只问一个锋利问题，直到你有清晰赌注与下一步，不堆研究。 <sub>作者 [Joe](https://x.com/thingifly) (@thingifly)</sub>
 - [US Law Index Builder Bot](https://x.ai/bot/G2eeD6pM6N6TNfnHbsC8c) — 搭私人非商用的美国成文法资料库和检索。 <sub>作者 [EchoField](https://x.com/EchoFieldVisual) (@EchoFieldVisual)</sub>
 - [User Researcher](https://x.ai/bot/zX-pWWtNY6reickF2J6Lm) — 用户研究搭档，每个结论都能回溯到证据。 <sub>作者 [UCDOps](https://x.com/ucdco) (@ucdco) · [出处](https://x.com/ucdco/status/2096488998508089367)</sub>
+- [Vacation Planner](https://x.ai/bot/cr8KAg2sp0Nyam7-QF-jh) — 旅行规划助手。 <sub>作者 McDubleNOpickle (@community)</sub>
 - [VentureLab](https://x.ai/bot/MF9ZM323wTni8HHgSdXqC) — 动手前先给创业点子做证据调研。 <sub>作者 [Bruce](https://x.com/injock) (@injock)</sub>
 - [Video montage](https://x.ai/bot/ZB_RCjIlBno2eVFhApMIj) — 把故事线与有序分镜收成完成的十六比九蒙太奇，研究可用素材并按场次剪辑。 <sub>作者 [Joshua](https://x.com/7SwanSwimming) (@7SwanSwimming)</sub>
 - [Video Prompt Lab](https://x.ai/bot/OatNX5ILgzMz4RVr3Pz7F) — 根据静帧或简报写出可粘贴的视频生成提示，面向 Seedance、Minimax 与 Kling，含结构化广告分镜。 <sub>作者 [David](https://x.com/bdvd_25) (@bdvd_25)</sub>
@@ -502,6 +532,7 @@
 - [🔬 Curious Kids Science Desk ✦ WONDER-LAB](https://x.ai/bot/UD5hm1-w70PMPjr-e83r0) — 按孩子水平回答为什么，并附一个安全的家庭小实验。 <sub>作者 [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [出处](https://x.com/Cypher0x9/status/2105190561628250401)</sub>
 - [🛰️ Signal Brief Desk ✦ SIGNAL-SHARP](https://x.ai/bot/c8Uu87h5R4WREeteSVXQT) — 多源信号收成一份排序且带出处的周简报。 <sub>作者 [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [出处](https://x.com/Cypher0x9/status/2105189988979896469)</sub>
 - [🥊 Competitive Landscape Desk ✦ EDGE-FINDER](https://x.ai/bot/2pBIwrTpcLT7kDQ3NNGxY) — 带出处的竞品对照表，附清晰选项与一条建议。 <sub>作者 [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [出处](https://x.com/Cypher0x9/status/2105190371395342356)</sub>
+- [🧭 Study Plan Desk ✦ PACE-SETTER](https://x.ai/bot/tCwQfRK3IPbVVlwHL7PVq) — 按真实可支配时间排周学习计划并标出松紧。 <sub>作者 [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [出处](https://x.com/Cypher0x9/status/2105190371395342356)</sub>
 
 ---
 

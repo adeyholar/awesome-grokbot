@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-200 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+201 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -98,10 +98,11 @@
 - [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) — A coding foreman that delegates to sandboxed agents and reviews their work. <sub>by [ali](https://x.com/Mahmoudnia95) (@Mahmoudnia95) · [origin](https://x.com/Mahmoudnia95/status/2103931914918801592)</sub>
 - [GrokBot Optimizer](https://x.ai/bot/b7m5siCKd6baaWkPihOGa) — Audits your bot fleet against written rules and flags overlap. <sub>by [Robert](https://x.com/rjdhardesty) (@rjdhardesty) · [origin](https://x.com/rjdhardesty/status/2095764915919458768)</sub>
 - [GrokBot Summary](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) — A single coordinator that routes work to a small, deliberately lean bot bench. <sub>by [Joseph](https://x.com/BTC_Yogi) · aka *Chief of Staff* · [origin](https://x.com/BTC_Yogi/status/2094947816028381534)</sub>
-- [Grottle](https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L) — Turns weekly Grok Bot usage percent and reset time into an easier fuel gauge. <sub>by [BCORN](https://x.com/BCornTexas) · [origin](https://x.com/BCornTexas/status/2099580443943227590)</sub>
+- [Grottle™](https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L) — Turns weekly Grok Bot usage percent and reset time into an easier fuel gauge. <sub>by [BCORN](https://x.com/BCornTexas) · aka *Grottle* · [origin](https://x.com/BCornTexas/status/2099580443943227590)</sub>
 - [Gwynne Botwell](https://x.ai/bot/fUKxoLkvZXWJ2r6Aj99sT) — Chief of staff for a Grok Bot family of helpers. <sub>by [Darren](https://x.com/dfalkingham) (@dfalkingham)</sub>
 - [Hal](https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ) — Household chief of staff that keeps the family's helper bots in step. <sub>by [Mike](https://x.com/shootthebull) (@shootthebull) · [origin](https://x.com/shootthebull/status/2100685236707197420)</sub>
 - [Handoff](https://x.ai/bot/CYiVuYkkle--PvvmEhHho) — Cuts mid-project noise down to one task, three steps, and an owner. <sub>by [Tool](https://x.com/thisisclaireli) (@thisisclaireli) · [origin](https://x.com/thisisclaireli/status/2100733642771423379)</sub>
+- [Handoff](https://x.ai/bot/RFIlM2oslgj0jsKlG4qDz) — For ADD minds who start great ideas. Finds verified places to hand off the next phase. <sub>by [Scott](https://x.com/SkippyyTM) (@SkippyyTM) · [origin](https://x.com/SkippyyTM/status/2105731364217639007)</sub>
 - [Heartbeat Dreamer](https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8) — A read-only scout that grades what changed and reports it up the chain. <sub>by [A-A-ron](https://x.com/theaaron) (@theaaron) · [origin](https://x.com/theaaron/status/2105369742039261662)</sub>
 - [Henry](https://x.ai/bot/4V0rzExpIY19WpNGt71Fp) — Grizzled chief of staff who delegates across your bots and only pulls you in for real decisions. <sub>by [Gilles](https://x.com/GillesGuenette3) · [origin](https://x.com/GillesGuenette3)</sub>
 - [High Five](https://x.ai/bot/7pdRsSeKkooXL_2rk8M09) — Onboarding wizard for teams where each person has their own Grok Bot, with shared Notion and Google. <sub>[origin](https://x.com/Cecelia7777)</sub>

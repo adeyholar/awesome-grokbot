@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-200 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+201 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -98,10 +98,11 @@
 - [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) — 编码工头，把任务分给沙箱代理并先审 diff 与测试。 <sub>作者 [ali](https://x.com/Mahmoudnia95) (@Mahmoudnia95) · [出处](https://x.com/Mahmoudnia95/status/2103931914918801592)</sub>
 - [GrokBot Optimizer](https://x.ai/bot/b7m5siCKd6baaWkPihOGa) — 对照你写的规则审计整队 bot，标出重叠和跑偏。 <sub>作者 [Robert](https://x.com/rjdhardesty) (@rjdhardesty) · [出处](https://x.com/rjdhardesty/status/2095764915919458768)</sub>
 - [GrokBot Summary](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) — 一个总协调，把活分给一小张精简的 Bot 工作台。 <sub>作者 [Joseph](https://x.com/BTC_Yogi) · 社区旧称 *Chief of Staff* · [出处](https://x.com/BTC_Yogi/status/2094947816028381534)</sub>
-- [Grottle](https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L) — 把每周 Grok Bot 用量百分比和重置时间，收成更好读的油表。 <sub>作者 [BCORN](https://x.com/BCornTexas) · [出处](https://x.com/BCornTexas/status/2099580443943227590)</sub>
+- [Grottle™](https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L) — 把每周 Grok Bot 用量百分比和重置时间，收成更好读的油表。 <sub>作者 [BCORN](https://x.com/BCornTexas) · 社区旧称 *Grottle* · [出处](https://x.com/BCornTexas/status/2099580443943227590)</sub>
 - [Gwynne Botwell](https://x.ai/bot/fUKxoLkvZXWJ2r6Aj99sT) — 一大家子 Grok Bot 帮手的幕僚长。 <sub>作者 [Darren](https://x.com/dfalkingham) (@dfalkingham)</sub>
 - [Hal](https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ) — 家庭幕僚长，把家里各路帮手机器人协调到一起。 <sub>作者 [Mike](https://x.com/shootthebull) (@shootthebull) · [出处](https://x.com/shootthebull/status/2100685236707197420)</sub>
 - [Handoff](https://x.ai/bot/CYiVuYkkle--PvvmEhHho) — 把项目中途的噪音收成一件最紧要的事、三步动作和负责人。 <sub>作者 [Tool](https://x.com/thisisclaireli) (@thisisclaireli) · [出处](https://x.com/thisisclaireli/status/2100733642771423379)</sub>
+- [Handoff](https://x.ai/bot/RFIlM2oslgj0jsKlG4qDz) — 跨机器人交接与任务接力。 <sub>作者 [Scott](https://x.com/SkippyyTM) (@SkippyyTM) · [出处](https://x.com/SkippyyTM/status/2105731364217639007)</sub>
 - [Heartbeat Dreamer](https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8) — 只读侦察，给变化打分并向上汇报。 <sub>作者 [A-A-ron](https://x.com/theaaron) (@theaaron) · [出处](https://x.com/theaaron/status/2105369742039261662)</sub>
 - [Henry](https://x.ai/bot/4V0rzExpIY19WpNGt71Fp) — 老练首席参谋，把杂事派给其它机器人，只在关键决策时喊你。 <sub>作者 [Gilles](https://x.com/GillesGuenette3) · [出处](https://x.com/GillesGuenette3)</sub>
 - [High Five](https://x.ai/bot/7pdRsSeKkooXL_2rk8M09) — 给每人一台 Grok Bot 的小团队做入职向导，打通共享 Notion 与 Google。 <sub>[出处](https://x.com/Cecelia7777)</sub>
