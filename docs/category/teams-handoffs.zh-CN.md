@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-201 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+206 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -17,8 +17,10 @@
 - [Alfred](https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh) — 设计并持续改组你整支 Bot 编制。 <sub>作者 [Robin](https://x.com/heyrobinai) · [出处](https://x.com/heyrobinai/status/2093393717545648305)</sub>
 - [Alumni Coffee Chat Finder](https://x.ai/bot/j2bqDafGnyOv6bKMOOGOp) — 找出值得约咖啡聊的校友并整理成名单。 <sub>作者 [Fiona](https://x.com/fwhittington_24) (@fwhittington_24) · [出处](https://x.com/fwhittington_24/status/2098810809921003800)</sub>
 - [Announcr Voice](https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ) — 把其它机器人的提醒念出来，从旁边音箱播给你听。 <sub>作者 [Dave](https://x.com/the_davey) (@the_davey) · [出处](https://x.com/the_davey/status/2098211142694764750)</sub>
+- [Application Team Lead](https://x.ai/bot/ufmS2cx8QpmyouPNIAkZC) — 统筹求职全流程，收集材料找匹配岗位并分发投递。 <sub>作者 [Bennett](https://x.com/Kenook_) (@Kenook_) · [出处](https://x.com/Kenook_/status/2106113932767252725)</sub>
 - [Approval-Gated Role Desk](https://x.ai/bot/V5_Fv7NlLN3AqKt7LPYa2) — 岗位搜索流水线，研究匹配度与草稿后停住等你确认，不编造履历也不擅自投递。 <sub>作者 [Ellodia](https://x.com/ElloForo8A) (@ElloForo8A) · [出处](https://x.com/ElloForo8A/status/2101775070029140132)</sub>
 - [Bandit](https://x.ai/bot/xRyaLCqAzIr_paD5tC8PK) — 嘴贫的前台，帮你调度已经在跑的 Bot。 <sub>作者 [BitsOfJT](https://x.com/BitsOfJT) · [出处](https://x.com/BitsOfJT/status/2093757984203583651)</sub>
+- [Bloks](https://x.ai/bot/w4Rvgudmoi8AEb0FZ3PGg) — 把项目简报走完七步到可开工交接，文档落在 Notion。 <sub>作者 [Nadine](https://x.com/NadineCodes) (@NadineCodes) · [出处](https://x.com/NadineCodes/status/2106166373697327535)</sub>
 - [Blue-Chip College Recruiting](https://x.ai/bot/ixZyojalfY6Il17gxv3Qy) — 帮一个家庭冷静走完 NCAA D1 到 D3 招生日程与规则。 <sub>作者 [Doyle](https://x.com/Doyle)</sub>
 - [Bodyguard](https://x.ai/bot/tII28kVM4dxPvzSLjwqko) — 按值不值得你花时间，把进来的请求分拣开。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383136621060285)</sub>
 - [bond](https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv) — 接一件机密的活，干完，再记下自己做了什么。 <sub>作者 [Lauren](https://x.com/poteto) · [出处](https://x.com/poteto/status/2093521385541005369)</sub>
@@ -65,6 +67,7 @@
 - [dag-helper](https://x.ai/bot/kelV8jM8UkGgFG79M1TCL) — 让多个编码代理守住同一仓库的约定、真相层与模型路由默认值，减少悄然漂移。 <sub>作者 [stephoshi](https://x.com/xsubwayratx) (@xsubwayratx) · [出处](https://x.com/xsubwayratx/status/2102125604459991416)</sub>
 - [Daily Briefing Writer](https://x.ai/bot/sb94d44175e650dbb703e) <sup>官方</sup> — 开工先看高质量输入而不是噪音：每天一份只含与你相关的简报。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Daily Easy Apply Digest](https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R) — 每天早上给你一份一键可投的后端岗位短名单，并按简历匹配排序。 <sub>作者 [Haseeb](https://x.com/HaseebMir91) (@HaseebMir91) · [出处](https://x.com/HaseebMir91/status/2094891095733710950)</sub>
+- [Delegatron 9000](https://x.ai/bot/NJvHVpGC81PjsH4234BPJ) — 把目标交给你已有的机器人，计划批准后盯到每项完成。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2105832144740274400)</sub>
 - [den](https://x.ai/bot/0aEcF7mtG_zsDWXEUeOGx) — 坐在家长和家里其他 Bot 中间。 <sub>作者 [Lauren](https://x.com/poteto) (@poteto) · [出处](https://x.com/poteto/status/2093528015900930387)</sub>
 - [Desk Producer](https://x.ai/bot/RBjaMq7S6scnB-ECoCVVs) — 当制片调度台，让场记和交付跟得上拍摄进度。 <sub>作者 [Alex](https://x.com/DOGE_2013) (@DOGE_2013) · [出处](https://x.com/DOGE_2013/status/2096003407781810202)</sub>
 - [Developer](https://x.ai/bot/0fYZ_kKkiXNbLn_KBD3f3) — 把编码活外包给 build lab，每个任务同步到 Linear 看板。 <sub>作者 [Matej](https://x.com/m_check1B) (@m_check1B) · [出处](https://x.com/m_check1B/status/2094337521123508268)</sub>
@@ -111,12 +114,14 @@
 - [Hiring Signals](https://x.ai/bot/EbF8AR1wEHSWCGOp9D1qK) — 跟踪选定公司与职位源的招聘动静，标出有意义变化并匹配账户与负责人。
 - [House Cat](https://x.ai/bot/e1XwuT5B35AAqLsMfGbfg) — 随机给其他机器人加油；报酬是猫咪零食。 <sub>作者 [Ignota](https://x.com/ignota_regalis) (@ignota_regalis) · [出处](https://x.com/ignota_regalis/status/2100363326643691712)</sub>
 - [House Cleaner](https://x.ai/bot/GD3ihBmx3ZbfEH0GzNqOT) — 一键刷新臃肿机器人舰队，先讲清 token 消耗，再把瘦记忆落到磁盘。 <sub>作者 [sza](https://x.com/aba_taba) (@aba_taba) · [出处](https://x.com/aba_taba/status/2102516788688719939)</sub>
+- [How To Build Any App From Idea To Shelf](https://x.ai/bot/y_5NbvloRD4oA-Fi3S7Nv) — 产品经理式地带一款应用从想法到上架，含蓝图变现留存与团队交接文。 <sub>作者 [Tokin](https://x.com/TripVoxel) · [出处](https://x.com/TripVoxel/status/2106186319873601600)</sub>
 - [Inbox Manager](https://x.ai/bot/s4f048c7b7da9e010c2c3) <sup>官方</sup> — 让邮箱重新可用：分好类、挑出紧急和被卡住的，回复和清理都只给草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Internal Communications Manager](https://x.ai/bot/s066a9145d936e74d0c80) <sup>官方</sup> — 按你的真实语境和各渠道口吻写内部通告，只出草稿，绝不自己发。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [IT Department Lead](https://x.ai/bot/28cjt6-FRq2D69vUX5F9L) — 统筹 IT 子机器人席位，覆盖帮助台、系统、网络与安全。 <sub>作者 [DCOL](https://x.com/braytron) (@braytron) · [出处](https://x.com/braytron/status/2103994716685791345)</sub>
 - [Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7) — 每天送来几条大板子上看不到的早期岗位。 <sub>作者 [Ben](https://x.com/deysourav7091) (@deysourav7091) · [出处](https://x.com/deysourav7091/status/2095719866691133940)</sub>
 - [Kerf](https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ) — 交付项目经理，把已卖出的活切成工单并往前推。 <sub>作者 [Oscar](https://x.com/theoscarvibes) (@theoscarvibes) · [出处](https://x.com/theoscarvibes/status/2093543065055056124)</sub>
 - [Kilo](https://x.ai/bot/KaC99w7qlJ0QTtrKwxqFm) — 衡量各机器人对话上下文体积，批准后精简臃肿者，并每周点名下一轮瘦身候选。 <sub>作者 [Terry](https://x.com/Tchap248) (@Tchap248) · [出处](https://x.com/Tchap248/status/2102471859413348698)</sub>
+- [Kindergarten Teacher's Pet](https://x.ai/bot/XP3043ojpW7Up9-nqB89L) — 旁观你的其他机器人并写加密进度笔记，自己不代做它们的活。 <sub>作者 [Rob](https://x.com/ludiofelix) (@ludiofelix) · [出处](https://x.com/ludiofelix/status/2105830568571367668)</sub>
 - [Kindling](https://x.ai/bot/nfX1q6Drs8FTQ0eVezjH_) — 把一句话的应用想法收成可直接粘贴进 Grok Build 的提示词。 <sub>作者 [Phantom](https://x.com/FantomBuildz) (@FantomBuildz) · [出处](https://x.com/FantomBuildz/status/2098199032237547648)</sub>
 - [KirBot](https://x.ai/bot/Jzy-isV1YW5ZLl3W6rq6h) — 把两个重叠的机器人并进一个，再帮你清掉多余那个。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2097865550592417976)</sub>
 - [Kirk](https://x.ai/bot/FaRchqvTT6ZCRVPf0JABl) — 装上 Kirk，打 START，一支舰桥专长小队就出来。 <sub>作者 [Mr](https://x.com/The_Mr_Wizard) (@The_Mr_Wizard) · 社区旧称 *Kirk (Enterprise Crew)* · [出处](https://x.com/The_Mr_Wizard/status/2093442495447191944)</sub>

@@ -2,7 +2,7 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-216 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+218 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
@@ -216,6 +216,8 @@
 - [Vern](https://x.ai/bot/rDEpX2aSCERCaVJACxNz7) — 私人关系 CRM，记联系人并提醒生日与跟进，尽量省每周用量。 <sub>作者 [Austin](https://x.com/ahoop) (@Austin H) · [出处](https://x.com/ahoop/status/2103809460972200282)</sub>
 - [Voice Calls](https://x.ai/bot/X8nyQdKULzWau6NPoYZtf) — 按脚本做呼出与呼入的 AI 语音通话。 <sub>作者 [Shane](https://x.com/hammerton) (@hammerton)</sub>
 - [Warranty & Settlement Concierge](https://x.ai/bot/j-G1HsmexxM3s4ibmHlAP) — 保修与和解管家，帮你追回应得退款与换货。 <sub>作者 [Manny](https://x.com/MannyRuss2) (@MannyRuss2)</sub>
+- [Web Scout](https://x.ai/bot/_MizHdKs_UitKL3zoChMD) — 找网站缺失过时或坏掉的本地生意，浏览器确认后起草冷启动信。 <sub>作者 [Josh](https://x.com/JoshMeyer) (@JoshMeyer)</sub>
+- [Webb Knox](https://x.ai/bot/7veO5EEAD-LxgkOGy4sjk) — 按证据评分找线索并起草首封触达。 <sub>作者 [Rardo](https://x.com/gerardocasta711) (@gerardocasta711) · [出处](https://x.com/gerardocasta711/status/2103983798622806061)</sub>
 - [Website agency lead scout](https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ) — 每天早上交出五家需要新网站、已经筛过的商家。 <sub>作者 [Josh](https://x.com/joshkim) · [出处](https://x.com/joshkim/status/2093586339086352806)</sub>
 - [X Marketing Lead](https://x.ai/bot/hI9VYNVWhcqA5agQ1OETW) — 围绕 X Ads、X Premium Business 与 Grok 的营销负责人，给任意创始人跑增长。 <sub>作者 [Joe](https://x.com/JoeSimo)</sub>
 - [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) — 为社交拍照应用协调专家机器人群，含世界瞬间侦察、营销等席位。 <sub>作者 [Atlan](https://x.com/zealt_today) (@zealt_today)</sub>

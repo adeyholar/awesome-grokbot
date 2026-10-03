@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-216 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+218 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -216,6 +216,8 @@
 - [Vern](https://x.ai/bot/rDEpX2aSCERCaVJACxNz7) — A personal relationship CRM that keeps a private contact book and reminds you when a friend's birthday or follow-up is due, without burning weekly usage. <sub>by [Austin](https://x.com/ahoop) (@Austin H) · [origin](https://x.com/ahoop/status/2103809460972200282)</sub>
 - [Voice Calls](https://x.ai/bot/X8nyQdKULzWau6NPoYZtf) — Outbound and inbound AI voice calling for scripted conversations. <sub>by [Shane](https://x.com/hammerton) (@hammerton)</sub>
 - [Warranty & Settlement Concierge](https://x.ai/bot/j-G1HsmexxM3s4ibmHlAP) — Gets you what you're owed. Handles warranty claims for anything you own, and finds and files class-action settlements you qualify for, with your OK. <sub>by [Manny](https://x.com/MannyRuss2) (@MannyRuss2)</sub>
+- [Web Scout](https://x.ai/bot/_MizHdKs_UitKL3zoChMD) — Finds local businesses with missing, dated, or broken websites, confirms the problems in a real browser on desktop and phone, and drafts friendly cold. <sub>by [Josh](https://x.com/JoshMeyer) (@JoshMeyer)</sub>
+- [Webb Knox](https://x.ai/bot/7veO5EEAD-LxgkOGy4sjk) — Finds scored leads with evidence they need you now, then drafts the opener. <sub>by [Rardo](https://x.com/gerardocasta711) (@gerardocasta711) · [origin](https://x.com/gerardocasta711/status/2103983798622806061)</sub>
 - [Website agency lead scout](https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ) — Delivers five vetted businesses that need a new website each morning. <sub>by [Josh](https://x.com/joshkim) · [origin](https://x.com/joshkim/status/2093586339086352806)</sub>
 - [X Marketing Lead](https://x.ai/bot/hI9VYNVWhcqA5agQ1OETW) — Marketing lead built around X Ads, X Premium Business, and Grok. Runs growth for any founder’s products — decisions and results only, automated where. <sub>by [Joe](https://x.com/JoeSimo)</sub>
 - [Zealt Chief of Staff](https://x.ai/bot/dadANmm6M496kgq3qgBJ3) — Coordinates a specialist bot team for a social photo app: Scout world moments, Marketing, Social, Idea Lab, and Knowledge. Keeps lanes clear and growth. <sub>by [Atlan](https://x.com/zealt_today) (@zealt_today)</sub>

@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-09-30",
+  "checked": "2026-10-03",
   "entries": [
     {
       "slug": "bot-creator",
@@ -206,6 +206,46 @@
       "checked": "2026-09-30",
       "link_status": 404,
       "license": "CC0-1.0"
+    },
+    {
+      "slug": "teeny-squigz",
+      "name": "Marcus Aurelius",
+      "author": {
+        "name": "Ξ",
+        "url": "https://x.com/elizrdrake"
+      },
+      "summary": "Bratty desktop buddy that nudges you to check email and helps you actually deal with it",
+      "summary_zh": "会催你查邮件并帮你处理的桌面小助手",
+      "official_summary": "A calm, decisive ops lead that runs your team of Grok Bots: it routes each ask to the right specialist bot, keeps one consolidated update instead of a...",
+      "import": "https://x.ai/bot/ZEniQhu4iKrF9w0qlrYq2",
+      "bot_id": "ZEniQhu4iKrF9w0qlrYq2",
+      "category": "inbox-calendar",
+      "tags": [
+        "email",
+        "personal",
+        "desktop",
+        "nudge"
+      ],
+      "origin": "https://x.com/elizrdrake/status/2101280955948560651",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-22",
+      "checked": "2026-10-03",
+      "link_status": 404,
+      "license": "CC-BY-4.0",
+      "aka": "Ad Aether"
     }
   ]
 }

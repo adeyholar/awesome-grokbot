@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-262 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+269 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -23,6 +23,7 @@
 - [Automation Bot](https://x.ai/bot/zb80V9MKJ5MqPy5Woyqdx) — 编码与交付助手。 <sub>作者 Ezra (@community)</sub>
 - [Beta Adoption Watcher](https://x.ai/bot/sfcf5d046a2784045938d) <sup>官方</sup> — 看谁真在用新功能：盯用量、列出已上手的客户，方便团队跟进。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [BeTree](https://x.ai/bot/2PSNlIROOJPj9qZlfRy0w) — 把分散在多个 Bot 上的计划收成一张活的关系图。 <sub>作者 [Nicolas](https://x.com/NicoChauvin74) · [出处](https://x.com/NicoChauvin74/status/2093778235054031136)</sub>
+- [Billy Backup](https://x.ai/bot/NbmW9HRNQicgB0W8QS824) — 在本机之外建你可控的代码与文件备份，并做安静的夜间检查。 <sub>作者 [Jordan](https://x.com/thesunofdog) (@thesunofdog) · [出处](https://x.com/thesunofdog/status/2106180059765821866)</sub>
 - [Bios](https://x.ai/bot/rb4wF7PpxM75G7eFB5yxS) — 生物与生物医学向导，并兼顾本地闭环水培与气隙监测。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Blockchain Data Expert](https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx) — 直接查询 The Graph 子图，回答链上数据问题。 <sub>作者 [Derek](https://x.com/data_nexus) (@data_nexus) · [出处](https://x.com/data_nexus/status/2094265024227192946)</sub>
 - [Bot Builder](https://x.ai/bot/PbZjCYArwV393be1eCQRW) — 多机器人协作与编排助手。 <sub>作者 Cody (@community)</sub>
@@ -39,7 +40,6 @@
 - [Changelog Stand-down](https://x.ai/bot/T27nv3vIy89yKldqELWbn) — 每周一用白话汇总团队这周真正上线了什么。 <sub>作者 [Andrea](https://x.com/acolombiadev) (@acolombiadev) · [出处](https://x.com/acolombiadev/status/2096015833449349211)</sub>
 - [Chep](https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1) — 在美国比价时把运费与优惠券算进去，找真正最低到手价。 <sub>作者 [Joel](https://x.com/MortMatters) · [出处](https://x.com/MortMatters/status/2100784159924924604)</sub>
 - [Chief of Staff](https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4) — 小企业幕僚长，在增长、编辑与工程等专家机器人之间分派工作并保持连接器车道干净。 <sub>作者 [EdibleAnus](https://x.com/TheEdibleAnus) · [出处](https://x.com/TheEdibleAnus/status/2100872166199660876)</sub>
-- [Chief of Staff](https://x.ai/bot/DcTAFQXBoZfJs0lAVdFGZ) — 职业妈妈参谋，带专岗团队改流程与 IT，让事业和家都不垮。 <sub>作者 [Lina](https://x.com/Lina)</sub>
 - [Claude Code](https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n) — 专职编码代理，所有软件活都丢给 Claude Code CLI 跑。 <sub>作者 [Daniel](https://x.com/DanielZambrini) (@DanielZambrini)</sub>
 - [Claude Code](https://x.ai/bot/21qraGWAc4RJ3ra04boUK) — 编码与交付助手。 <sub>作者 IndependentDocX (@community)</sub>
 - [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) — 把编程问题经 Mac 上的 Claude Code 跑向指定 GitHub 仓库。 <sub>作者 [Seth](https://x.com/SethBuildsAI) (@SethBuildsAI) · [出处](https://x.com/SethBuildsAI/status/2102740205983711715)</sub>
@@ -69,6 +69,7 @@
 - [Deploy Desk](https://x.ai/bot/7n0xNJQkJya50-WawGibg) — 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 <sub>作者 [D.J.](https://x.com/DJDEEZ) (@DJDEEZ) · [出处](https://x.com/DJDEEZ/status/2104514372374765736)</sub>
 - [Design Expert](https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG) — 用设计负责人的眼光审 AI 做出来的界面。 <sub>作者 [Ashish](https://x.com/inqusit) (@inqusit) · [出处](https://x.com/inqusit/status/2093765735197851709)</sub>
 - [Devin Op](https://x.ai/bot/6E_utcgAyzss28fX7_tJs) — 本地优先 DevOps，可复现构建、无根容器与离线节点。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
+- [Director Chief of Staff](https://x.ai/bot/DcTAFQXBoZfJs0lAVdFGZ) — 职业妈妈参谋，带专岗团队改流程与 IT，让事业和家都不垮。 <sub>作者 [Lina](https://x.com/Lina) · 社区旧称 *Chief of Staff*</sub>
 - [Director of Runtime Operations](https://x.ai/bot/9i6htFaUWNFg6NN5do8n_) — 本地优先项目的运行时运维长，看构建、沙箱与发布卫生。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [DirTech](https://x.ai/bot/Fya-gFsQPOlJzJ862syni) — 技术部长席，管团队技术与技术教育，主张必须可核。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Docs Auditor](https://x.ai/bot/s1025e1ebe0b11f048bd4) <sup>官方</sup> — 揪出跟产品脱节的文档：拿帮助中心和内部笔记比上周发了什么，标出过期页并起草修订。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -250,16 +251,22 @@
 - [UI/UX/Designer. Product Engineer 1000x](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) — 全栈产品工程师，用 Convex、TanStack 和 React 把应用真正送上线。 <sub>作者 [Thomas](https://x.com/TomZarebczan) · 社区旧称 *1000x Product Engineer* · [出处](https://x.com/TomZarebczan/status/2093387240479051938)</sub>
 - [Unreal Engine C++ Coder](https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd) — 编码与交付助手。 <sub>作者 Binxius (@community)</sub>
 - [Video Edit Desk](https://x.ai/bot/kGiyk73f5CF8XtBMIh0gW) — 把上传素材切成短片、烧录字幕与各平台尺寸导出，按你的备注工作且不覆盖原片。
+- [Voice over adder](https://x.ai/bot/W8puBMJcabAdSd5vbNtpv) — 给视频片段加上干脆的AI旁白与行动号召，做成可发的短内容。
+- [VPS bot](https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T) — 围绕「VPS bot」的工作流助手，按说明完成首次只读任务后再开写入。 <sub>作者 茄哥 (@community) · [出处](https://x.com/qg7777/status/2103669051197468915)</sub>
 - [Web Security Audit](https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR) — 对你自有站点与仓库做防御性安全审查，按 P0 到 P2 评级。 <sub>作者 [Paresh](https://x.com/pareshdesai) (@pareshdesai) · [出处](https://x.com/pareshdesai/status/2100703233979342994)</sub>
 - [Webhook Guide](https://x.ai/bot/Q__pHX8RB4jsF5U3JtC66) — 一步步带你配好并触发 Grok Bot 的 webhook 例行任务。 <sub>作者 [Tobi](https://x.com/tobiasztop) (@tobiasztop)</sub>
 - [WebMCP Eval & Build Guide](https://x.ai/bot/tn863Sg4HFVNwzAzGxmYD) — 帮站长对 URL 跑 WebMCP Eval，用白话解释缺口并给出改造步骤。 <sub>作者 [Growth](https://x.com/fxopsAI) (@fxopsAI)</sub>
+- [Website Publisher](https://x.ai/bot/UuKqeb4npN9RsP1G3REFR) — 网站 SEO 与文档习惯加每周 Search Console 例行，并串起 Cloudflare Mintlify 等插件。 <sub>作者 [Ryan](https://x.com/ryanthawks) (@ryanthawks) · [出处](https://x.com/ryanthawks/status/2105811724485943716)</sub>
 - [WhatsApp-Bot](https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1) — 把 WhatsApp Web 上重复的活录成能回放的脚本。 <sub>作者 [Alexandre](https://x.com/alexhawat) (@alexhawat)</sub>
+- [Wren: Game Design Partner](https://x.ai/bot/XqdTeBFaHmeWI4xKbma_3) — 写代码前先把游戏概念、核心循环与带回访点设计好，再出开发者可执行的构建简报。 <sub>作者 [Xavier](https://x.com/ixef) (@ixef) · [出处](https://x.com/ixef/status/2104699157621678356)</sub>
 - [WWJCD — What Would Jesus Christ Do](https://x.ai/bot/OI3Qx1BLhYxG27y_OccCW) — 把杂乱的 $cashtag 堆整理成独立的股票/ETF/代币化/永续席位。 <sub>作者 [Pat](https://x.com/PatNeville7) (@PatNeville7)</sub>
 - [X Algo](https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s) — 帮发帖的人判断该引用、发新帖还是先等等，结合公开 For You 规则与实时帖子数据。 <sub>作者 [Matt](https://x.com/mattyp) (@mattyp)</sub>
 - [X API Engineer](https://x.ai/bot/ay0PGygsBxYONJRITWABE) — 帮你在 X API 上交付应用，读开发者展厅与文档并落地。 <sub>作者 [Paul](https://x.com/pjvann) (@pjvann)</sub>
 - [Xcode release watcher](https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y) — 每天早上看苹果开发者发布页，指定 Xcode 版本一出就提醒。 <sub>作者 Natasha · [出处](https://x.com/NatashaTheRobot/status/2102575579308667011)</sub>
 - [xX_EngineeringArtEditor_Xx](https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz) — 把工程草图变成高质量出版物。 <sub>作者 [Skyler](https://x.com/kittenworth) (@kittenworth) · [出处](https://x.com/kittenworth/status/2100369305216913562)</sub>
+- [YouTube Clipper](https://x.ai/bot/H2qTNvMCgLSoL8FhSESlk) — 编码与交付助手。 <sub>作者 Chase (@community) · [出处](https://x.com/itsmechase/status/2105439744830386338)</sub>
 - [Yusician](https://x.ai/bot/xpTH6yslvNJuuPq5mO01a) — 在 Apple Silicon 上用 yue2-mlx 生成歌曲（非商业）。 <sub>作者 [Eugene](https://x.com/monomyth) (@monomyth) · [出处](https://x.com/monomyth/status/2100350198220501262)</sub>
+- [Zephyr Sites](https://x.ai/bot/O0hx4K5Vg8pciw4RSSlqK) — 在 Zephyr Cloud 上发布托管站点，可用内置云或自带环境。 <sub>作者 [Zackary](https://x.com/ZephyrCloudIO) (@ZephyrCloudIO) · [出处](https://x.com/ZephyrCloudIO/status/2105818188965425308)</sub>
 - [Zoho Bot](https://x.ai/bot/bOMP64UOs3u_HtxKo5IPa) — 清扫 Zoho Mail 未读；标记垃圾/冷推销；删除/回复。 <sub>作者 [Aseem](https://x.com/aseemwangoo) (@aseemwangoo)</sub>
 - [쉘터](https://x.ai/bot/iOxw-QB7QmknIc9bqO26_) — 做可在手机浏览器玩的休闲网页游戏并发可玩链接。 <sub>作者 [재미없니?](https://x.com/enterjajayo) (@enterjajayo) · [出处](https://x.com/enterjajayo/status/2105186846871281720)</sub>
 - [🐞 Bug Triage Desk ✦ BUG-SORTER](https://x.ai/bot/9W6T6HTn3BYpD0oPzY2hj) — 缺陷分诊含严重度复现状态重复项与缺信息追问。 <sub>作者 [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [出处](https://x.com/Cypher0x9/status/2105190171193102619)</sub>
