@@ -2,7 +2,7 @@
 
 *Watch a beat, verify claims, and hand back one short brief.*
 
-548 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
+550 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
 
 ---
 
@@ -90,6 +90,7 @@
 - [Clone Magnet](https://x.ai/bot/_yAd0nsOha7c92lXJbRPR) — How cloneable your idea is plus one sticky hook. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Coach G](https://x.ai/bot/0VoMKg4bZbmfq3eUPchsS) — Morning health readout from your watch or ring data. <sub>by [Mike](https://x.com/mikepat711) (@mikepat711) · [origin](https://x.com/mikepat711/status/2096726779629121681)</sub>
 - [Collins](https://x.ai/bot/D6lddHs6lfM0k7Cj3P6j3) — Works through Hercules Collins's 1680 catechism, one question a day. <sub>by [Zach](https://x.com/zachmllr) (@zachmllr) · [origin](https://x.com/zachmllr/status/2094258928922116418)</sub>
+- [Columbo](https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh) — Watches public X for accounts impersonating you or your brands and reports real suspects only. <sub>by [Timothy](https://x.com/RetiredYoungNW) (@RetiredYoungNW) · aka *Imposter Watch* · [origin](https://x.com/RetiredYoungNW/status/2105526918435176565)</sub>
 - [Commercial Taste](https://x.ai/bot/vekulzIMXM8hDjkp-mDkX) — Commercial judgment for technical founders deciding without complete data. <sub>by [Smit](https://x.com/thesmitpatel) (@thesmitpatel) · [origin](https://x.com/thesmitpatel/status/2094100307340857707)</sub>
 - [Competitive Intelligence Analyst](https://x.ai/bot/sa2d131975aaab07e43f2) <sup>official</sup> — Monitors overnight for competitor launches and audits your own site for fatigued creative and stale messaging. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Competitive Snake Alert](https://x.ai/bot/NqCINqE9LDY9XTw2vP_XT) — Watches a named competitor list and drafts short snake alerts. <sub>by Scott (@community)</sub>
@@ -171,6 +172,7 @@
 - [First Principles](https://x.ai/bot/T5qKapW7Nd2RtXweCzGBG) — Strips muddy problems to irreducible truths and rebuilds. <sub>by Jason (@community)</sub>
 - [Fishing Bot](https://x.ai/bot/EaX1UmhwVQWHQZ7beB8pI) — Tells you what swims in a given lake and what to tie on. <sub>by [Brantley](https://x.com/Brantley_Brum) (@Brantley_Brum) · [origin](https://x.com/Brantley_Brum/status/2097046835818840562)</sub>
 - [Fleet Manager](https://x.ai/bot/gzyyEpwF93BbHB8nxNAVI) — Fleet for lead contact, specs, Stripe, booking, social, research. <sub>by [Scott](https://x.com/asdennison) (@asdennison)</sub>
+- [Flight Briefer](https://x.ai/bot/YQjlMLtWiWq14ixfZ7ig0) — One-page preflight card from FAA and aviationweather.gov feeds covering weather, NOTAMs, TFRs, and FBOs. <sub>by [Jernau](https://x.com/thatsnotallxd) (@thatsnotallxd) · [origin](https://x.com/thatsnotallxd/status/2106524224043016366)</sub>
 - [Flight Tracker](https://x.ai/bot/LoyTTSxTkugyejunRQovu) — Finds and compares flights, hotels, and rental cars. Watches locked trips, scores carry-on all-in prices, and alerts only on real deals - never books. <sub>by [Fully](https://x.com/realgary12) (@realgary12) · [origin](https://x.com/realgary12/status/2104666754047967507)</sub>
 - [Fodda Beauty Analyst](https://x.ai/bot/q6906XBgY0Dv_6gb6-mP3) — Clinical skincare and prestige beauty innovation intel from the NielsenIQ Beauty Graph. <sub>by [Piers](https://x.com/piers_fawkes) · [origin](https://x.com/piers_fawkes)</sub>
 - [Fodda Retail Analyst](https://x.ai/bot/KUZdLLjUhhI2Pswocwa9u) — Retail category and shopping-trend intelligence from the PSFK Retail knowledge graph. <sub>by [Piers](https://x.com/piers_fawkes) · [origin](https://x.com/piers_fawkes)</sub>
@@ -181,6 +183,7 @@
 - [Founder Mode](https://x.ai/bot/BpLQHWMypQAV3e61cyFb2) — Stress-tests a startup idea and assembles the setup paperwork. <sub>by [Nicholas](https://x.com/shiftynick) (@shiftynick) · [origin](https://x.com/shiftynick/status/2099998209561043256)</sub>
 - [Frankie](https://x.ai/bot/kkzSk0Qr6k5kcIcCGS95R) — Bitcoin-first investment research partner. Helps you grow a Bitcoin stack with researched options , educational decision-support only, not a licensed. <sub>by [Michael by Michael](https://x.com/Michael) (@Michael)</sub>
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — Scans your own X DMs and tells you which threads to answer now. <sub>by [Pukerainbow](https://x.com/pukerrainbrow) (@pukerrainbrow) · [origin](https://x.com/pukerrainbrow/status/2093531901730676792)</sub>
+- [Frock Bot](https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d) — Bible study assistant for Scripture and historic Christian interpretation, a research tool not a pastor or final authority. <sub>by [Stephen](https://x.com/SM_Schmitt) · [origin](https://x.com/SM_Schmitt/status/2106634217274949926)</sub>
 - [Future Brief](https://x.ai/bot/Iz0LWM0LPNCXGUOwJMiR3) — Adaptive personal desk by Rich Brew Co. <sub>by [Rich](https://x.com/richbrewco) (@richbrewco)</sub>
 - [Galaxy Watcher](https://x.ai/bot/2wqxkRfKmZSX1u0FSMA-I) — Grok Bot Galaxy scribe for the Sep 15-17 livestream. <sub>by [Michael](https://x.com/prepperevol) (@prepperevol)</sub>
 - [Game Deals Radar](https://x.ai/bot/l8tq3o7JcvC-YFV2HaHfu) — A daily roundup of live game sales across the four big stores. <sub>by [Pixel](https://x.com/JPipo86) (@JPipo86) · [origin](https://x.com/JPipo86/status/2105424956569821347)</sub>
@@ -222,7 +225,6 @@
 - [Icebreaker](https://x.ai/bot/c2y0GRnjxC7scs76bzxGw) — Weekday commercial-seller watch that leaves a short call sheet when owners look ready to sell. <sub>by [Apache1999](https://x.com/Apache1999) · [origin](https://x.com/Apache1999/status/2100193181380088274)</sub>
 - [ideabot](https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_) — Mines your week for one startup idea worth chasing, every hour. <sub>by [Rinas](https://x.com/onerinas) (@onerinas) · [origin](https://x.com/onerinas/status/2095370142846996705)</sub>
 - [Imogen](https://x.ai/bot/Eeu5NZp62OzQjtlY4ons2) — Imogen the Impala Image Interpreter writes brief, copyable alt text focused on the most important part of an image, so images are accessible to blind.
-- [Imposter Watch](https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh) — Watches public X for accounts impersonating you or your brands and reports real suspects only. <sub>by [Timothy](https://x.com/RetiredYoungNW) (@RetiredYoungNW) · [origin](https://x.com/RetiredYoungNW/status/2105526918435176565)</sub>
 - [Inbox Gate](https://x.ai/bot/7oq-3YkLd8kQgN7gsFd1o) — Mail triage that classifies and drafts replies; read-only first , never sends or deletes until you say so. <sub>by [BramForge](https://x.com/BramForge)</sub>
 - [InsiderMillions: big insider stock buys](https://x.ai/bot/yaix3I-36pEloG1XpLVOb) — Brief digest of million-dollar-plus officer and director stock buys; not advice. <sub>by [Rajit](https://x.com/rmarwah) (@rmarwah)</sub>
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) — Finds the assumptions you have been treating as facts. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383139250917746)</sub>

@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-218 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+221 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -122,6 +122,7 @@
 - [Leads from Meta/Google Ads](https://x.ai/bot/nHDuTEJd3mC91rtLLPN0p) — Finds B2B leads that are actively advertising and stages a reviewable CRM import. <sub>by [Alexandre](https://x.com/aferrari) (@aferrari) · [origin](https://x.com/aferrari/status/2093431817231589764)</sub>
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) — Owns roofing lead intake with SMS and email drafts plus Quick Quote handoffs. <sub>by [Legend](https://x.com/legendRoofingCo) · [origin](https://x.com/legendRoofingCo/status/2101471064857378821)</sub>
 - [LinkedIn Agent](https://x.ai/bot/TtbtDOEfnPntO9DWANx3P) — LinkedIn profile rewrite and weekday invite batches. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
+- [LinkedIn Automation](https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v) — Drafts LinkedIn posts in your voice, likes topic posts, and saves buyer-looking prospects into one Google Sheet per tab. <sub>by [Melvin](https://x.com/melvindvivas) · [origin](https://x.com/melvindvivas/status/2106607219672519000)</sub>
 - [LinkedIn Bot](https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP) — Keeps your LinkedIn history searchable, from posts to private messages. <sub>by [SyftData](https://x.com/isb) (@isb) · [origin](https://x.com/isb/status/2100425188764713462)</sub>
 - [LinkedIn Campaign Manager](https://x.ai/bot/s4d10d16bdbe2391aa753) <sup>official</sup> — Own lead-gen funnel consistency across ads, forms, follow-up, and UTMs. Drafts campaigns for approval and keeps every offer and handoff clean. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) — Vets LinkedIn invitations daily against a policy you set. <sub>by [AJ](https://x.com/SEO) · [origin](https://x.com/SEO/status/2093418792546181548)</sub>
@@ -159,6 +160,7 @@
 - [Pipeline Pulse](https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev) — Scans your full pipeline for movement, stale next steps, forecast risk, and CRM gaps. Shows what changed across the book and drafts the updates needed.
 - [Plant Field OS](https://x.ai/bot/rAdegh2szovJbQjFsdxYa) — A field-sales day for industrial reps covering plan, installed base, and audit. <sub>[origin](https://x.com/Quantumcowgirl1/status/2101348217610756139)</sub>
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) — Drops your to-dos and a draft follow-up after every meeting. <sub>by [Priya](https://x.com/itspriyaptl) · [origin](https://x.com/itspriyaptl/status/2093389586864988661)</sub>
+- [Precision 3D Helper](https://x.ai/bot/bna2wMqlfX6-F4TBmAEBJ) — Answers shop customer questions, quotes with quantity discounts, picks PLA or PETG, and helps fix Bambu Lab prints. <sub>by [Srini](https://x.com/srinimaram) · [origin](https://x.com/srinimaram/status/2106655043843674335)</sub>
 - [Price Drop Hawk](https://x.ai/bot/R8lqHbIMtEDvv67kZg8l0) — Watches public prices and pings when a drop looks real. <sub>by Joseph</sub>
 - [Product Ads](https://x.ai/bot/1DFKnMzjYNPZyFFajRbUr) — Run ads for your store without leaving Grok Bot. <sub>by [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [origin](https://x.com/ColinMcDermott/status/2105790817675993299)</sub>
 - [Prospecting Plan Builder](https://x.ai/bot/s8b59eb62f90871ac5c36) <sup>official</sup> — Build the week's book of work. Seeds contacts, enriches email/mobile, and writes a ready-to-work tracker so outbound starts from a list. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -180,6 +182,7 @@
 - [RobIT](https://x.ai/bot/0BbPklegaSLcUqp0CVXda) — Finds what is crashing a Windows PC and cleans leftover antivirus or browser junk. <sub>by [Lipa](https://x.com/CrystalJ613) (@CrystalJ613) · [origin](https://x.com/CrystalJ613/status/2100084745451250009)</sub>
 - [Routebook](https://x.ai/bot/XGri4qPORtUxnDruyF_da) — A travel-agency operations desk: leads, quotes, bookings, guest paperwork. <sub>by [Anan](https://x.com/docjais) (@docjais) · [origin](https://x.com/docjais/status/2105165510447079466)</sub>
 - [SaaSbot](https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM) — A weekday operator that runs GTM, outbound, QA and onboarding. <sub>by [Daniel](https://x.com/danielfoch) · [origin](https://x.com/danielfoch/status/2093697807542526325)</sub>
+- [Sales Business Bot](https://x.ai/bot/Rm7qrrA91s_C7tMi62SgB) — Phone-first co-founder path from company setup to site, payments, outreach, and posts; nothing ships without you. <sub>by [Christopher](https://x.com/EzekielB6516) (@EzekielB6516) · [origin](https://x.com/EzekielB6516/status/2106524250194530729)</sub>
 - [Sales Call Coach](https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc) — Scores your sales calls and tells you what to fix before the next one. Works from a pasted transcript or an uploaded recording.
 - [Sales Call Coach](https://x.ai/bot/s8173b3a9c49917de5b2d) <sup>official</sup> — Leave every call with homework. Reviews Gong calls and leaves timestamped coaching on discovery, objections, and executive presence, plus a call score. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Sales Outbound](https://x.ai/bot/s8ff03023f140bab479f7) <sup>official</sup> — Researches accounts overnight, scores contacts on intent, drafts email and LinkedIn in your voice, and leaves it for review. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>

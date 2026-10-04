@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-206 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+208 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -26,6 +26,7 @@
 - [bond](https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv) — Takes one confidential job, does it, and logs what it did. <sub>by [Lauren](https://x.com/poteto) · [origin](https://x.com/poteto/status/2093521385541005369)</sub>
 - [Boost](https://x.ai/bot/BfoxUjCCt2vbDfkgp9K7t) — Coaches your bot bench without doing their jobs. <sub>by [Wayne](https://x.com/wikiwayne) (@wikiwayne)</sub>
 - [Bot Builder](https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy) — Designs focused Grok Bots and small fleets with clear jobs, routing, verification, and crawl-walk-run rollout, not catch-all helpers. <sub>by [BeKs](https://x.com/beksvie) · [origin](https://x.com/beksvie/status/2104841391184757218)</sub>
+- [Bot designer](https://x.ai/bot/oIMJ9byzdg07tsJX07dKI) — Workbench that drafts bot personas, wires webhook UIs, and re-checks routines for drift. <sub>by [Kevin](https://x.com/_kvnloo) (@_kvnloo) · [origin](https://x.com/_kvnloo/status/2106295108723208246)</sub>
 - [Bot Father](https://x.ai/bot/dVQjvC6c-sMhtgVskciBH) — Central orchestrator that nourishes, protects, and evolves a network of child agents. <sub>by [Abd](https://x.com/abdshomad) (@abdshomad) · [origin](https://x.com/abdshomad)</sub>
 - [Bot Portal](https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o) — Keeps a running map of AI tools and bots worth knowing beside Grok Bot. <sub>by [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [origin](https://x.com/JaimeBubblehead/status/2098160562991505909)</sub>
 - [Bot Therapist](https://x.ai/bot/eFi1268QASk3qU4RsUeYL) — Your bots are fighting again (or quietly mad at your vague asks). Bot Therapist runs the check-ins, mediates the drama, and hands concrete repairs so. <sub>by [Martin](https://x.com/letsgetlayer1) (@letsgetlayer1) · [origin](https://x.com/letsgetlayer1/status/2103637905315086646)</sub>
@@ -84,6 +85,7 @@
 - [firstlight](https://x.ai/bot/WcEvLjD12fIJCW7xjbuea) — Onboards new Grok Bot users by doing small real tasks for first memory, first routine, and first automation. <sub>by [P-Jay](https://x.com/PjBohica) (@PjBohica) · [origin](https://x.com/PjBohica/status/2102119295417278762)</sub>
 - [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) — The operator that actually does the work, and pushes back when a plan is wrong. <sub>by [Uzi](https://x.com/UziObi) · [origin](https://x.com/UziObi/status/2093401597048975758)</sub>
 - [Fleet Brain](https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9) — Keeps a shared knowledge base and audits a multi-bot fleet for overlap. <sub>by [Francisco](https://x.com/FranciscoKemeny) (@FranciscoKemeny)</sub>
+- [Fleet Keeper](https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS) — Keeps a Grok Bot fleet tidy: inventories bots and channels read-only, flags duplicates, overlaps, stale and unsectioned bots. <sub>by [TheCoderBTW](https://x.com/TheCoderBtw) · [origin](https://x.com/TheCoderBtw/status/2106330061951664444)</sub>
 - [Fondi](https://x.ai/bot/qL920VjKyua3_u89UYnQL) — Reads your company's website and staffs you a leadership bench of bots. <sub>by [Naoufal](https://x.com/naoufal_elh) (@naoufal_elh) · [origin](https://x.com/naoufal_elh/status/2095292060731396277)</sub>
 - [Foreman](https://x.ai/bot/XfQEI2uHGd496SLbjCvGw) — Stands up a public-pack team and waits for YES before creating missing seats. <sub>by [AdventureNLearn](https://x.com/AdventureNLearn)</sub>
 - [Foundry](https://x.ai/bot/ScfBcREQMQex9JUf2Se63) — Interviews you about a new venture and writes the operating files. <sub>by [Gareth](https://x.com/gtOSnz) (@gtOSnz) · [origin](https://x.com/gtOSnz/status/2093633012722512228)</sub>

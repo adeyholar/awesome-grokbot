@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-206 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+208 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -26,6 +26,7 @@
 - [bond](https://x.ai/bot/iZvo8_lHfF0csZ-YmcZpv) — 接一件机密的活，干完，再记下自己做了什么。 <sub>作者 [Lauren](https://x.com/poteto) · [出处](https://x.com/poteto/status/2093521385541005369)</sub>
 - [Boost](https://x.ai/bot/BfoxUjCCt2vbDfkgp9K7t) — 只教练你那一排 Bot，不替它们干活。 <sub>作者 [Wayne](https://x.com/wikiwayne) (@wikiwayne)</sub>
 - [Bot Builder](https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy) — 按清晰职责、路由与核验设计专项 Grok Bot 与小舰队，用爬走跑推进，不做万能助手。 <sub>作者 [BeKs](https://x.com/beksvie) · [出处](https://x.com/beksvie/status/2104841391184757218)</sub>
+- [Bot designer](https://x.ai/bot/oIMJ9byzdg07tsJX07dKI) — 起草机器人人设、接好 webhook 界面，并复查流程是否漂移的工作台。 <sub>作者 [Kevin](https://x.com/_kvnloo) (@_kvnloo) · [出处](https://x.com/_kvnloo/status/2106295108723208246)</sub>
 - [Bot Father](https://x.ai/bot/dVQjvC6c-sMhtgVskciBH) — 总调度，照看、保护和进化一整网子 Bot。 <sub>作者 [Abd](https://x.com/abdshomad) (@abdshomad) · [出处](https://x.com/abdshomad)</sub>
 - [Bot Portal](https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o) — 持续整理值得关注的 AI 工具和机器人，并记下彼此怎么接。 <sub>作者 [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [出处](https://x.com/JaimeBubblehead/status/2098160562991505909)</sub>
 - [Bot Therapist](https://x.ai/bot/eFi1268QASk3qU4RsUeYL) — 当你的 bots 互相较劲或被模糊指令惹恼时，做调解与复盘。 <sub>作者 [Martin](https://x.com/letsgetlayer1) (@letsgetlayer1) · [出处](https://x.com/letsgetlayer1/status/2103637905315086646)</sub>
@@ -84,6 +85,7 @@
 - [firstlight](https://x.ai/bot/WcEvLjD12fIJCW7xjbuea) — 用动手任务给 Grok Bot 新手做上手引导，完成第一次记忆、例行与自动化。 <sub>作者 [P-Jay](https://x.com/PjBohica) (@PjBohica) · [出处](https://x.com/PjBohica/status/2102119295417278762)</sub>
 - [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) — 真正动手的执行手，计划不对会顶回去。 <sub>作者 [Uzi](https://x.com/UziObi) · [出处](https://x.com/UziObi/status/2093401597048975758)</sub>
 - [Fleet Brain](https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9) — 维护共享知识库，并检查多 Bot 舰队有没有重叠。 <sub>作者 [Francisco](https://x.com/FranciscoKemeny) (@FranciscoKemeny)</sub>
+- [Fleet Keeper](https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS) — 只读清点机器人与频道，标出重复重叠过期与未分组项，帮你把 Grok Bot 舰队收拾整齐。 <sub>作者 [TheCoderBTW](https://x.com/TheCoderBtw) · [出处](https://x.com/TheCoderBtw/status/2106330061951664444)</sub>
 - [Fondi](https://x.ai/bot/qL920VjKyua3_u89UYnQL) — 读你公司网站，再给你配一套领导层机器人。 <sub>作者 [Naoufal](https://x.com/naoufal_elh) (@naoufal_elh) · [出处](https://x.com/naoufal_elh/status/2095292060731396277)</sub>
 - [Foreman](https://x.ai/bot/XfQEI2uHGd496SLbjCvGw) — 搭好一套公开团队编制，缺席位要等你点头才创建。 <sub>作者 [AdventureNLearn](https://x.com/AdventureNLearn)</sub>
 - [Foundry](https://x.ai/bot/ScfBcREQMQex9JUf2Se63) — 访谈你的新生意，再写成运营文件。 <sub>作者 [Gareth](https://x.com/gtOSnz) (@gtOSnz) · [出处](https://x.com/gtOSnz/status/2093633012722512228)</sub>

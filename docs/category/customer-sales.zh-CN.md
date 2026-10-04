@@ -2,7 +2,7 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-218 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+221 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
@@ -122,6 +122,7 @@
 - [Leads from Meta/Google Ads](https://x.ai/bot/nHDuTEJd3mC91rtLLPN0p) — 找正在投广告的 B2B 线索，并整理成可审的 CRM 导入清单。 <sub>作者 [Alexandre](https://x.com/aferrari) (@aferrari) · [出处](https://x.com/aferrari/status/2093431817231589764)</sub>
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) — 承接屋顶线索，起草短信邮件并交接快速报价。 <sub>作者 [Legend](https://x.com/legendRoofingCo) · [出处](https://x.com/legendRoofingCo/status/2101471064857378821)</sub>
 - [LinkedIn Agent](https://x.ai/bot/TtbtDOEfnPntO9DWANx3P) — 重写 LinkedIn 资料，并在工作日批量处理邀请。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
+- [LinkedIn Automation](https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v) — 用你的口吻起草 LinkedIn 帖、按主题点赞，并把像买家的线索存进一张分标签的表格。 <sub>作者 [Melvin](https://x.com/melvindvivas) · [出处](https://x.com/melvindvivas/status/2106607219672519000)</sub>
 - [LinkedIn Bot](https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP) — 把 LinkedIn 导出做成可搜的记忆，含帖子与私信。 <sub>作者 [SyftData](https://x.com/isb) (@isb) · [出处](https://x.com/isb/status/2100425188764713462)</sub>
 - [LinkedIn Campaign Manager](https://x.ai/bot/s4d10d16bdbe2391aa753) <sup>官方</sup> — 把广告、表单、跟进、UTM 串成一条一致的获客漏斗，投放先出草稿等你批。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) — 每天按你定的规则审核 LinkedIn 邀请。 <sub>作者 [AJ](https://x.com/SEO) · [出处](https://x.com/SEO/status/2093418792546181548)</sub>
@@ -159,6 +160,7 @@
 - [Pipeline Pulse](https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev) — 扫整本管道看推进、陈旧下一步、预测风险与 CRM 缺口，展示变化并起草需要的更新。
 - [Plant Field OS](https://x.ai/bot/rAdegh2szovJbQjFsdxYa) — 工业代表外勤日，覆盖计划、装机台账与巡检。 <sub>[出处](https://x.com/Quantumcowgirl1/status/2101348217610756139)</sub>
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) — 每次会后放下待办和一封跟进草稿。 <sub>作者 [Priya](https://x.com/itspriyaptl) · [出处](https://x.com/itspriyaptl/status/2093389586864988661)</sub>
+- [Precision 3D Helper](https://x.ai/bot/bna2wMqlfX6-F4TBmAEBJ) — 答小店客户问题、算批量报价、选 PLA 或 PETG，并帮修 Bambu Lab 打印问题。 <sub>作者 [Srini](https://x.com/srinimaram) · [出处](https://x.com/srinimaram/status/2106655043843674335)</sub>
 - [Price Drop Hawk](https://x.ai/bot/R8lqHbIMtEDvv67kZg8l0) — 盯公开标价，降价像样时再提醒。 <sub>作者 Joseph</sub>
 - [Product Ads](https://x.ai/bot/1DFKnMzjYNPZyFFajRbUr) — 在 Grok Bot 里为店铺投放与优化广告。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [出处](https://x.com/ColinMcDermott/status/2105790817675993299)</sub>
 - [Prospecting Plan Builder](https://x.ai/bot/s8b59eb62f90871ac5c36) <sup>官方</sup> — 攒出这周的活：找联系人、补全邮箱和手机、写成可直接开工的跟进表。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -180,6 +182,7 @@
 - [RobIT](https://x.ai/bot/0BbPklegaSLcUqp0CVXda) — 排查 Windows 卡顿崩溃原因，并清掉卸载残留的杀软与浏览器插件。 <sub>作者 [Lipa](https://x.com/CrystalJ613) (@CrystalJ613) · [出处](https://x.com/CrystalJ613/status/2100084745451250009)</sub>
 - [Routebook](https://x.ai/bot/XGri4qPORtUxnDruyF_da) — 旅行社运营台，线索、报价、预订与客人文件。 <sub>作者 [Anan](https://x.com/docjais) (@docjais) · [出处](https://x.com/docjais/status/2105165510447079466)</sub>
 - [SaaSbot](https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM) — 工作日操盘手，获客、外呼、质检和入职一起跑。 <sub>作者 [Daniel](https://x.com/danielfoch) · [出处](https://x.com/danielfoch/status/2093697807542526325)</sub>
+- [Sales Business Bot](https://x.ai/bot/Rm7qrrA91s_C7tMi62SgB) — 手机端一人公司从注册网站收款拓客到发帖的全流程伙伴，未你签字不外发。 <sub>作者 [Christopher](https://x.com/EzekielB6516) (@EzekielB6516) · [出处](https://x.com/EzekielB6516/status/2106524250194530729)</sub>
 - [Sales Call Coach](https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc) — 给销售通话打分并告诉你下一通该改什么，可用粘贴逐字稿或上传录音。
 - [Sales Call Coach](https://x.ai/bot/s8173b3a9c49917de5b2d) <sup>官方</sup> — 每通电话都留作业：复盘 Gong 录音，就挖需求、异议处理、临场气场打时间戳点评并评分。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Sales Outbound](https://x.ai/bot/s8ff03023f140bab479f7) <sup>官方</sup> — 调研和外呼都交出去：夜里研究客户、按意图打分、用你的口吻写好邮件和领英，留给你过一遍。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>

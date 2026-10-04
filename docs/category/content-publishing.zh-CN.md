@@ -2,7 +2,7 @@
 
 *起草、编辑、设计、视频，以及把它们发出去的队列。*
 
-337 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
+338 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
 
 ---
 
@@ -282,6 +282,7 @@
 - [Spruce](https://x.ai/bot/NVpdpaSAKHtd1qH6VH9vc) — 发一张想清理或翻新的房间照片，返回概念改造效果图和易跟做的分步说明。 <sub>[出处](https://x.com/Brbaumhoff/status/2103306013592146176)</sub>
 - [Startup Kill Switch](https://x.ai/bot/VKKU1vHrUQZT8PnN44LwU) — 给想在浪费数月前压力测试点子的创始人做对抗式评估，丢来概念，得到杀掉、返工或继续的判决。 <sub>作者 [ᴅʏʟᴀɴ.exe](https://x.com/Dylan_Texe) (@Dylan_Texe)</sub>
 - [STEER](https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz) — 标出稿子里平淡的机器腔，然后改写成能读的句子。 <sub>作者 [Bill](https://x.com/bfrench) (@bfrench) · [出处](https://x.com/bfrench/status/2094591383080403402)</sub>
+- [Stich + Vault](https://x.ai/bot/LySai4iBlM2ylkDRHppag) — 把手机短片拼成一条 MP4，并从 Epic Vault 取回媒体。 <sub>作者 [Epic](https://x.com/Sm0ken42O) (@Sm0ken42O) · [出处](https://x.com/Sm0ken42O/status/2106123177407422672)</sub>
 - [Studio Assistant](https://x.ai/bot/Z411hW0fpQZunKK8t-8gH) — 艺术工作室助手，排期、外联和标题。 <sub>作者 [D](https://x.com/sweetpollybred) (@sweetpollybred)</sub>
 - [Synthesizer](https://x.ai/bot/-FSiZDOogRKS95ErsgNa3) — 把复杂材料收成清晰地图与你如何服务的表述，用于邀请框架。 <sub>作者 [Ben](https://x.com/BinLeenk) (@Ben Link) · [出处](https://x.com/BinLeenk/status/2100201471018946640)</sub>
 - [TaleForge](https://x.ai/bot/5-YiiKg_ws-7xgkR8T8Ko) — 把故事点子做成完整漫画、绘本或短视频，角色设定保持一致。 <sub>作者 [Avinash](https://x.com/AvinashPeyyety) · [出处](https://x.com/AvinashPeyyety/status/2104075408819851773)</sub>

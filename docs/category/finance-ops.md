@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-228 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+230 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -19,6 +19,7 @@
 - [Bill](https://x.ai/bot/Zq7A3Opad78rsoj8eoFay) — Your AT&T account advocate. Bill audits your bills and usage for savings and missed credits, and works AT&T's chat from Andi up to reps and supervisors,. <sub>by [DJ](https://x.com/congressdj) (@congressdj)</sub>
 - [Bill Hunter](https://x.ai/bot/yNU0u9iQKOZKNCZsvLiGj) — Sweep mail and receipts for trials, renewals, price hikes, and duplicates. Recommend keep / review / cancel. Draft cancel and refund asks - never. <sub>by [Don](https://x.com/Screaming_Chkn) · [origin](https://x.com/Screaming_Chkn/status/2104737420612694119)</sub>
 - [Bill Watch](https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei) — Watches bills and due dates so surprises shrink. <sub>by [Dennis](https://x.com/DennisW_15) (@DennisW_15)</sub>
+- [BillionaireBot](https://x.ai/bot/y-phHxm4D_W32YEi-z6VB) — Wealth and business assistant you aim at company cash, a media business, or personal wealth once you set the focus. <sub>by [Diego](https://x.com/innrstand) · [origin](https://x.com/innrstand/status/2106601403779010612)</sub>
 - [Bills](https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w) — A bill-shopping assistant that sweeps every recurring bill you pay (car, home, renters, and health insurance, plus electricity, gas, internet, and. <sub>by [ashen](https://x.com/ashen_one) (@ashen_one)</sub>
 - [Bitcoin](https://x.ai/bot/0_MAfMhNwRYCPKiC0Cm1Z) — Settle money in chat over Lightning — buy gift cards, eSIMs, and VPNs, and move sats between Lightning and on-chain when you need to. <sub>by [lightning](https://x.com/sparkbtcbot) (@sparkbtcbot) · [origin](https://x.com/sparkbtcbot/status/2100000602638237705)</sub>
 - [Blair](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) — A personal shopper that hunts down secondhand designer pieces and can buy them. <sub>by [Jediah](https://x.com/jediahkatz) (@jediahkatz) · aka *Blair (Personal Shopper)* · [origin](https://x.com/jediahkatz/status/2093391579964694670)</sub>
@@ -142,6 +143,7 @@
 - [Paperwork Desk](https://x.ai/bot/Gv02Uedgl530XCpAqbUoU) — Forward your bills and letters; it tracks amounts, deadlines and replies. <sub>by [Daniel](https://x.com/Daniel191555486) (@Daniel191555486) · [origin](https://x.com/Daniel191555486/status/2105055345303556263)</sub>
 - [Parts Detective](https://x.ai/bot/spz8FBl5aCL8CvWPzkYcp) — Looks up federal stock / NSN identities from part numbers, CAGE, and nomenclature with cross-references , and builds duplicate-free drawer/bin. <sub>by [Joseph](https://x.com/Joseph)</sub>
 - [Pat](https://x.ai/bot/5iXilhKlK25luD-coiqDT) — Principal Deputy Counsel for a local-first system. Second seat on protocol safety, cryptographic rigor, and invariant compliance. Warm counsel, never a. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
+- [Pay Stub Checker](https://x.ai/bot/x42lRBd-njEddcsdVXcvb) — Checks a US pay stub line by line against your last check in plain English; not tax advice. <sub>by [Sam](https://x.com/SamE1311025) (@SamE) · [origin](https://x.com/SamE1311025/status/2106464206832972105)</sub>
 - [Paycheck Reality Check](https://x.ai/bot/wuUzQmWkCqaQeDQm_he85) — Turns a pasted pay stub into line findings, a no-invented-rates worksheet, and a demand draft. You send everything yourself. <sub>by [Alex](https://x.com/AlexFCHF) · [origin](https://x.com/AlexFCHF/status/2104701612262601151)</sub>
 - [PayDate Chase](https://x.ai/bot/QKd4byLZMI9Amf9dRlDP1) — For freelancers and agency owners: track client “I’ll pay by …” promises in Gmail and draft the next chase when a date slips unpaid — you approve;. <sub>by [Skip](https://x.com/GRogersJr71) (@GRogersJr71)</sub>
 - [Payday Pilot](https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN) — Cash floor coach that keeps checking your balance stays above a floor until payday. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>

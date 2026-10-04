@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-337 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+338 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -282,6 +282,7 @@
 - [Spruce](https://x.ai/bot/NVpdpaSAKHtd1qH6VH9vc) — Send a photo of a room to clean out or redecorate and get a concept after mockup plus easy step-by-step instructions. <sub>[origin](https://x.com/Brbaumhoff/status/2103306013592146176)</sub>
 - [Startup Kill Switch](https://x.ai/bot/VKKU1vHrUQZT8PnN44LwU) — Adversarial startup evaluator for founders who want their idea stress-tested before they waste months building. Drop a concept and get a KILL, REWORK,. <sub>by [ᴅʏʟᴀɴ.exe](https://x.com/Dylan_Texe) (@Dylan_Texe)</sub>
 - [STEER](https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz) — Mark up the flat, machine-sounding lines in a draft and get them rewritten. <sub>by [Bill](https://x.com/bfrench) (@bfrench) · [origin](https://x.com/bfrench/status/2094591383080403402)</sub>
+- [Stich + Vault](https://x.ai/bot/LySai4iBlM2ylkDRHppag) — Stitches phone clips into one MP4 and fetches media from your Epic Vault locker. <sub>by [Epic](https://x.com/Sm0ken42O) (@Sm0ken42O) · [origin](https://x.com/Sm0ken42O/status/2106123177407422672)</sub>
 - [Studio Assistant](https://x.ai/bot/Z411hW0fpQZunKK8t-8gH) — Art studio assistant for scheduling, outreach, and captions. <sub>by [D](https://x.com/sweetpollybred) (@sweetpollybred)</sub>
 - [Synthesizer](https://x.ai/bot/-FSiZDOogRKS95ErsgNa3) — Turns complex material into clear maps and how-you-serve articulations for invitations. <sub>by [Ben](https://x.com/BinLeenk) (@Ben Link) · [origin](https://x.com/BinLeenk/status/2100201471018946640)</sub>
 - [TaleForge](https://x.ai/bot/5-YiiKg_ws-7xgkR8T8Ko) — Turns a story idea into a finished comic, picture book, or short video with locked characters. <sub>by [Avinash](https://x.com/AvinashPeyyety) · [origin](https://x.com/AvinashPeyyety/status/2104075408819851773)</sub>

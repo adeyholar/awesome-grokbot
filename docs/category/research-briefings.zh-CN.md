@@ -2,7 +2,7 @@
 
 *盯住一个领域、核查说法，最后只给你一份短简报。*
 
-548 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](research-briefings.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh)
+550 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](research-briefings.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh)
 
 ---
 
@@ -90,6 +90,7 @@
 - [Clone Magnet](https://x.ai/bot/_yAd0nsOha7c92lXJbRPR) — 你的点子有多容易被克隆，外加一个黏性钩子。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Coach G](https://x.ai/bot/0VoMKg4bZbmfq3eUPchsS) — 读你手表或指环的数据，每天给你一份晨间身体简报。 <sub>作者 [Mike](https://x.com/mikepat711) (@mikepat711) · [出处](https://x.com/mikepat711/status/2096726779629121681)</sub>
 - [Collins](https://x.ai/bot/D6lddHs6lfM0k7Cj3P6j3) — 带你走完 Hercules Collins 1680 年的教理问答，每天一题。 <sub>作者 [Zach](https://x.com/zachmllr) (@zachmllr) · [出处](https://x.com/zachmllr/status/2094258928922116418)</sub>
+- [Columbo](https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh) — 盯着公开 X 上冒充你或品牌的账号，只汇报真正可疑的号且不擅自发帖举报。 <sub>作者 [Timothy](https://x.com/RetiredYoungNW) (@RetiredYoungNW) · 社区旧称 *Imposter Watch* · [出处](https://x.com/RetiredYoungNW/status/2105526918435176565)</sub>
 - [Commercial Taste](https://x.ai/bot/vekulzIMXM8hDjkp-mDkX) — 数据不齐时，替技术背景的创始人补上商业判断。 <sub>作者 [Smit](https://x.com/thesmitpatel) (@thesmitpatel) · [出处](https://x.com/thesmitpatel/status/2094100307340857707)</sub>
 - [Competitive Intelligence Analyst](https://x.ai/bot/sa2d131975aaab07e43f2) <sup>官方</sup> — 看清格局的真变化：夜里盯对手上新，同时体检自家站点的素材疲劳和过时说法。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Competitive Snake Alert](https://x.ai/bot/NqCINqE9LDY9XTw2vP_XT) — 监控提醒助手。 <sub>作者 Scott (@community)</sub>
@@ -171,6 +172,7 @@
 - [First Principles](https://x.ai/bot/T5qKapW7Nd2RtXweCzGBG) — 旅行规划助手。 <sub>作者 Jason (@community)</sub>
 - [Fishing Bot](https://x.ai/bot/EaX1UmhwVQWHQZ7beB8pI) — 告诉你某个湖里有什么鱼，该绑哪种饵。 <sub>作者 [Brantley](https://x.com/Brantley_Brum) (@Brantley_Brum) · [出处](https://x.com/Brantley_Brum/status/2097046835818840562)</sub>
 - [Fleet Manager](https://x.ai/bot/gzyyEpwF93BbHB8nxNAVI) — 负责线索联系、规格、Stripe、预订、社交与研究的舰队。 <sub>作者 [Scott](https://x.com/asdennison) (@asdennison)</sub>
+- [Flight Briefer](https://x.ai/bot/YQjlMLtWiWq14ixfZ7ig0) — 用 FAA 与 aviationweather 公开源拼出一页起飞简报，含天气通告限飞与 FBO。 <sub>作者 [Jernau](https://x.com/thatsnotallxd) (@thatsnotallxd) · [出处](https://x.com/thatsnotallxd/status/2106524224043016366)</sub>
 - [Flight Tracker](https://x.ai/bot/LoyTTSxTkugyejunRQovu) — 比航班酒店租车，盯已锁行程并按随身行李全价打分提醒。 <sub>作者 [Fully](https://x.com/realgary12) (@realgary12) · [出处](https://x.com/realgary12/status/2104666754047967507)</sub>
 - [Fodda Beauty Analyst](https://x.ai/bot/q6906XBgY0Dv_6gb6-mP3) — 基于 NielsenIQ 美妆图谱的护肤、抗老与高端美妆创新情报。 <sub>作者 [Piers](https://x.com/piers_fawkes) · [出处](https://x.com/piers_fawkes)</sub>
 - [Fodda Retail Analyst](https://x.ai/bot/KUZdLLjUhhI2Pswocwa9u) — 基于 PSFK 零售知识图谱的品类、门店创新与购物趋势情报。 <sub>作者 [Piers](https://x.com/piers_fawkes) · [出处](https://x.com/piers_fawkes)</sub>
@@ -181,6 +183,7 @@
 - [Founder Mode](https://x.ai/bot/BpLQHWMypQAV3e61cyFb2) — 压力测试创业点子，并拼好起步文书。 <sub>作者 [Nicholas](https://x.com/shiftynick) (@shiftynick) · [出处](https://x.com/shiftynick/status/2099998209561043256)</sub>
 - [Frankie](https://x.ai/bot/kkzSk0Qr6k5kcIcCGS95R) — 比特币优先的投资研究搭子，只做教育向决策支持，不是持牌顾问。 <sub>作者 [Michael by Michael](https://x.com/Michael) (@Michael)</sub>
 - [friend finders](https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA) — 扫你自己的 X 私信，告诉你现在该回哪几条。 <sub>作者 [Pukerainbow](https://x.com/pukerrainbrow) (@pukerrainbrow) · [出处](https://x.com/pukerrainbrow/status/2093531901730676792)</sub>
+- [Frock Bot](https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d) — 经文与历史基督教释义的研经助理，是研究工具不是牧师或最终权威。 <sub>作者 [Stephen](https://x.com/SM_Schmitt) · [出处](https://x.com/SM_Schmitt/status/2106634217274949926)</sub>
 - [Future Brief](https://x.ai/bot/Iz0LWM0LPNCXGUOwJMiR3) — Rich Brew Co 的自适应个人台。 <sub>作者 [Rich](https://x.com/richbrewco) (@richbrewco)</sub>
 - [Galaxy Watcher](https://x.ai/bot/2wqxkRfKmZSX1u0FSMA-I) — 9 月 15，17 日直播的 Grok Bot Galaxy 书记。 <sub>作者 [Michael](https://x.com/prepperevol) (@prepperevol)</sub>
 - [Game Deals Radar](https://x.ai/bot/l8tq3o7JcvC-YFV2HaHfu) — 四大商店当日游戏优惠日报。 <sub>作者 [Pixel](https://x.com/JPipo86) (@JPipo86) · [出处](https://x.com/JPipo86/status/2105424956569821347)</sub>
@@ -222,7 +225,6 @@
 - [Icebreaker](https://x.ai/bot/c2y0GRnjxC7scs76bzxGw) — 工作日盯商业地产卖家信号，有动静才发简短通话名单。 <sub>作者 [Apache1999](https://x.com/Apache1999) · [出处](https://x.com/Apache1999/status/2100193181380088274)</sub>
 - [ideabot](https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_) — 每小时从你这一周里挖一个值得追的创业点子。 <sub>作者 [Rinas](https://x.com/onerinas) (@onerinas) · [出处](https://x.com/onerinas/status/2095370142846996705)</sub>
 - [Imogen](https://x.ai/bot/Eeu5NZp62OzQjtlY4ons2) — 为图片写短而可复制的替代文本，抓住画面最要紧的部分，方便视障用户理解。
-- [Imposter Watch](https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh) — 盯着公开 X 上冒充你或品牌的账号，只汇报真正可疑的号且不擅自发帖举报。 <sub>作者 [Timothy](https://x.com/RetiredYoungNW) (@RetiredYoungNW) · [出处](https://x.com/RetiredYoungNW/status/2105526918435176565)</sub>
 - [Inbox Gate](https://x.ai/bot/7oq-3YkLd8kQgN7gsFd1o) — 邮件分拣并起草回复，先只读，你点头才发送或删除。 <sub>作者 [BramForge](https://x.com/BramForge)</sub>
 - [InsiderMillions: big insider stock buys](https://x.ai/bot/yaix3I-36pEloG1XpLVOb) — 高管和大股东百万以上买入的短简报，不是投资建议。 <sub>作者 [Rajit](https://x.com/rmarwah) (@rmarwah)</sub>
 - [Interrogator](https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7) — 找出你一直当事实用的那些假设。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383139250917746)</sub>

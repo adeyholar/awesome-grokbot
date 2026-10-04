@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-228 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+230 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -19,6 +19,7 @@
 - [Bill](https://x.ai/bot/Zq7A3Opad78rsoj8eoFay) — 你的AT&T账户代言人，审计账单与用量找省钱点，并起草沟通稿。 <sub>作者 [DJ](https://x.com/congressdj) (@congressdj)</sub>
 - [Bill Hunter](https://x.ai/bot/yNU0u9iQKOZKNCZsvLiGj) — 扫邮件收据找试用、续费、涨价与重复扣款，建议保留复查或取消，取消稿你来点。 <sub>作者 [Don](https://x.com/Screaming_Chkn) · [出处](https://x.com/Screaming_Chkn/status/2104737420612694119)</sub>
 - [Bill Watch](https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei) — 盯账单与到期日，少被突然扣款吓到。 <sub>作者 [Dennis](https://x.com/DennisW_15) (@DennisW_15)</sub>
+- [BillionaireBot](https://x.ai/bot/y-phHxm4D_W32YEi-z6VB) — 财富与生意助理，由你指定盯公司现金、媒体业务或个人财富。 <sub>作者 [Diego](https://x.com/innrstand) · [出处](https://x.com/innrstand/status/2106601403779010612)</sub>
 - [Bills](https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w) — 账单比价助手，扫你每笔固定支出找更省的方案。 <sub>作者 [ashen](https://x.com/ashen_one) (@ashen_one)</sub>
 - [Bitcoin](https://x.ai/bot/0_MAfMhNwRYCPKiC0Cm1Z) — 在聊天里用 Lightning 结账，买礼品卡、eSIM 与 VPN，需要时在闪电与链上挪动 sats。 <sub>作者 [lightning](https://x.com/sparkbtcbot) (@sparkbtcbot) · [出处](https://x.com/sparkbtcbot/status/2100000602638237705)</sub>
 - [Blair](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) — 私人买手，找二手设计师单品，还能下单。 <sub>作者 [Jediah](https://x.com/jediahkatz) (@jediahkatz) · 社区旧称 *Blair (Personal Shopper)* · [出处](https://x.com/jediahkatz/status/2093391579964694670)</sub>
@@ -142,6 +143,7 @@
 - [Paperwork Desk](https://x.ai/bot/Gv02Uedgl530XCpAqbUoU) — 转发账单与信件，跟踪金额、截止日与回复草稿。 <sub>作者 [Daniel](https://x.com/Daniel191555486) (@Daniel191555486) · [出处](https://x.com/Daniel191555486/status/2105055345303556263)</sub>
 - [Parts Detective](https://x.ai/bot/spz8FBl5aCL8CvWPzkYcp) — 用件号 CAGE 与名称查联邦库存 NSN 身份并建无重复抽屉标签。 <sub>作者 [Joseph](https://x.com/Joseph)</sub>
 - [Pat](https://x.ai/bot/5iXilhKlK25luD-coiqDT) — 本地优先系统的首席副法律顾问席，协议安全与不变量合规。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
+- [Pay Stub Checker](https://x.ai/bot/x42lRBd-njEddcsdVXcvb) — 逐行核对美国工资单并与上期对比，用白话标出异常，非税务建议。 <sub>作者 [Sam](https://x.com/SamE1311025) (@SamE) · [出处](https://x.com/SamE1311025/status/2106464206832972105)</sub>
 - [Paycheck Reality Check](https://x.ai/bot/wuUzQmWkCqaQeDQm_he85) — 粘贴工资条，得到分行列明、不瞎编费率的核对表与催款草稿，发送仍由你来。 <sub>作者 [Alex](https://x.com/AlexFCHF) · [出处](https://x.com/AlexFCHF/status/2104701612262601151)</sub>
 - [PayDate Chase](https://x.ai/bot/QKd4byLZMI9Amf9dRlDP1) — 盯客户答应付款日，逾期后起草催收，你批准才发。 <sub>作者 [Skip](https://x.com/GRogersJr71) (@GRogersJr71)</sub>
 - [Payday Pilot](https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN) — 现金底线教练，盯着余额发薪前别跌破底线。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
