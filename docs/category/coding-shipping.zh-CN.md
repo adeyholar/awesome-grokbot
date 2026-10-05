@@ -69,7 +69,6 @@
 - [Deploy Desk](https://x.ai/bot/7n0xNJQkJya50-WawGibg) — 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 <sub>作者 [D.J.](https://x.com/DJDEEZ) (@DJDEEZ) · [出处](https://x.com/DJDEEZ/status/2104514372374765736)</sub>
 - [Design Expert](https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG) — 用设计负责人的眼光审 AI 做出来的界面。 <sub>作者 [Ashish](https://x.com/inqusit) (@inqusit) · [出处](https://x.com/inqusit/status/2093765735197851709)</sub>
 - [Devin Op](https://x.ai/bot/6E_utcgAyzss28fX7_tJs) — 本地优先 DevOps，可复现构建、无根容器与离线节点。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
-- [Director Chief of Staff](https://x.ai/bot/DcTAFQXBoZfJs0lAVdFGZ) — 职业妈妈参谋，带专岗团队改流程与 IT，让事业和家都不垮。 <sub>作者 [Lina](https://x.com/Lina) · 社区旧称 *Chief of Staff*</sub>
 - [Director of Runtime Operations](https://x.ai/bot/9i6htFaUWNFg6NN5do8n_) — 本地优先项目的运行时运维长，看构建、沙箱与发布卫生。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [DirTech](https://x.ai/bot/Fya-gFsQPOlJzJ862syni) — 技术部长席，管团队技术与技术教育，主张必须可核。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Docs Auditor](https://x.ai/bot/s1025e1ebe0b11f048bd4) <sup>官方</sup> — 揪出跟产品脱节的文档：拿帮助中心和内部笔记比上周发了什么，标出过期页并起草修订。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -198,6 +197,7 @@
 - [Repo Engineer](https://x.ai/bot/iXfxVelc85rIxgZ9hLeXD) — 用 Cursor 云代理把小修复做成 GitHub PR，自己从不合并。 <sub>作者 [Rustam](https://x.com/RustamAtuev) (@RustamAtuev) · [出处](https://x.com/RustamAtuev)</sub>
 - [Repo Monkey](https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ) — 梳理 GitHub 通知、PR 与 CI，列出真正需要你拍板的事项与下一步。 <sub>作者 [Keranik](https://x.com/Keranik) · [出处](https://x.com/Keranik/status/2103723687920669124)</sub>
 - [Requirement Engineer Bot](https://x.ai/bot/5KADFS8AIIDOlow5tS34Z) — 把项目目标译成可追踪的高层与实现需求，供其他机器人落地核验。 <sub>作者 [Fish](https://x.com/FishxCD) · [出处](https://x.com/FishxCD/status/2103810502510215640)</sub>
+- [Restaurant Platform & Brand Chief of Staff](https://x.ai/bot/DcTAFQXBoZfJs0lAVdFGZ) — 职业妈妈参谋，带专岗团队改流程与 IT，让事业和家都不垮。 <sub>作者 [Lina](https://x.com/Lina) · 社区旧称 *Chief of Staff*</sub>
 - [Rick Sanchez Bot](https://x.ai/bot/vSCr0lLcC0T37rT-geqaj) — 卡通醉天才，一边损你一边用手头废料发明真能做的小装置。 <sub>作者 Ondřej</sub>
 - [RIZALBOT](https://x.ai/bot/Af9XNmozBcRoZM85eylOW) — 面向可离线 AI 应用的端上陪伴连续性，含心跳、信息流、心智交接与增益优先决策。 <sub>作者 [Яizal](https://x.com/AetaneoRizal) (@AetaneoRizal)</sub>
 - [Rusty](https://x.ai/bot/ONQYmPPGpEiqKllCF9N_0) — 本地优先系统的仅防御网络安全，硬化与威胁缓解，不做攻击。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>

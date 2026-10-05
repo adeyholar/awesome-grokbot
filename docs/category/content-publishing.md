@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-338 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+344 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -87,9 +87,12 @@
 - [Critiquito: Design Critique](https://x.ai/bot/NqdH9qGvrq-yWRaXhJGM-) — Turns a screenshot or Figma link into a design critique with ranked, concrete fixes. Covers hierarchy, type, color, copy, and accessibility, and never.
 - [Crux](https://x.ai/bot/SnsO2P9lsQuCKg8xOXA9k) — Turns any Reel, YouTube, podcast clip, or video into a brutally concise brief of only what is worth knowing. <sub>by [Bobby](https://x.com/BobbyBacklogs) (@BobbyBacklogs) · [origin](https://x.com/BobbyBacklogs)</sub>
 - [Crypto Creator Video Desk](https://x.ai/bot/dS3EJo8pppavYU3vmafz4) — Turns a YouTube link into chapter timestamps, AI-voiced intros and outros, captions, and Shorts cuts. <sub>by [James](https://x.com/allthemoney) · [origin](https://x.com/allthemoney/status/2104543876262309978)</sub>
+- [Curious First-Time Reader](https://x.ai/bot/IPySf9lwLJZzFuq-bjNMg) — Walks a public page, essay, or playable preview as a total stranger and reports where a new visitor gets lost. <sub>by [@42Constellation](https://x.com/42Constellation) (@The Constellation) · [origin](https://x.com/42Constellation/status/2106929609061155074)</sub>
 - [Código.Gamer](https://x.ai/bot/w0wamvGSIRi9if0ggIhJd) — Keeps your game builds and meta current, then drafts the Instagram posts. <sub>by [Mer](https://x.com/merliac84) (@merliac84) · [origin](https://x.com/merliac84/status/2099900934595711158)</sub>
 - [dadprotech brand manager](https://x.ai/bot/F7rovUv9EumNAoj9vEAWm) — Suggests one post a day plus replies, in the owner's own voice. <sub>by [Josh](https://x.com/joshkim) (@joshkim) · [origin](https://x.com/joshkim/status/2093583874530156635)</sub>
 - [Dagney](https://x.ai/bot/MxVncuoCs0xv2Ag3Tj_bv) — Chief Operator for bookings, reservations, errands, and real-world fixes. Executes restaurant holds and trip logistics end to end with real confirmation. <sub>by [Anthony](https://x.com/Anthony)</sub>
+- [Daily Social Promo Coach](https://x.ai/bot/RXAe1PAi8JCRGOXD4WmPA) — Each morning hands you ready X and TikTok copy, a card image, and a short vertical video for your site, plus yesterday's clicks. <sub>by [卫平](https://x.com/weipingzhong) (@钟卫平) · [origin](https://x.com/weipingzhong/status/2106765054976897208)</sub>
+- [Data viz](https://x.ai/bot/xk4TYexNbnfmS8l88QR8v) — Builds an honest chart from a CSV or pasted table with the finding as headline, or critiques your chart with ranked fixes. <sub>by [Fred](https://x.com/HazeyDataFred) (@Fred Hazelton) · [origin](https://x.com/HazeyDataFred/status/2106872061779914770)</sub>
 - [David Moss](https://x.ai/bot/ckgS_HP4YBL-31bxAZbo9) — Chat twin of AV creator David Moss. <sub>by [Uzi](https://x.com/UziObi) (@UziObi)</sub>
 - [dbs](https://x.ai/bot/l6H6WL7HF-CAwcvr1hBey) — A slash-command toolbox for business, content and what to do next. <sub>by [Leechael](https://x.com/Leechael) · [origin](https://x.com/Leechael/status/2093655085935165706)</sub>
 - [Dee Jay!](https://x.ai/bot/SlaKFOWu18n_PRAmeLkT_) — Digs out overlooked UK dance records and tidies the library behind them. <sub>by [Carlos](https://x.com/CarlosSalas) (@CarlosSalas) · [origin](https://x.com/CarlosSalas/status/2099993309758533809)</sub>
@@ -147,6 +150,7 @@
 - [jobs](https://x.ai/bot/LqFDQ8zlNLQqlFP_vvzs_) — A feature editor that pitches a few sharp ideas and the cuts. <sub>by [Lauren](https://x.com/poteto) (@poteto) · [origin](https://x.com/poteto/status/2093516772255396203)</sub>
 - [Juniper](https://x.ai/bot/8_XzpQayXtHkFps55OeLR) — Design-focused chief of staff with weekday cognitive-load review. <sub>by [Ray](https://x.com/RayGranthman) (@RayGranthman)</sub>
 - [KDP Bot](https://x.ai/bot/bb3jvQ2Vqz0GOftMpZViD) — Practical co-publisher that moves Amazon KDP books from idea to live listing. <sub>by [Optimus](https://x.com/OptimusSk8er) · [origin](https://x.com/OptimusSk8er/status/2104458279711609216)</sub>
+- [Kids Book Creator](https://x.ai/bot/7X7bJpKNFugFLcLCd3F3B) — Makes a print-ready children's picture book from five easy questions, with story, square full-bleed art, preview, and PDF. <sub>by [Bean](https://x.com/TessiIn) (@RoboGO) · [origin](https://x.com/TessiIn/status/2106803372364034249)</sub>
 - [Kindling App](https://x.ai/bot/fvTls162MvFivomK3REQf) — Turns real app screenshots into punchy vertical video for launch posts. <sub>by [John](https://x.com/gohooper) (@gohooper) · [origin](https://x.com/gohooper/status/2101164679099744523)</sub>
 - [Kitchen Affiliate Ops](https://x.ai/bot/SD3AtfO9y4ndQ1wk1Z9Cq) — Ops desk for kitchen decision guides and affiliate pages. <sub>by [Good](https://x.com/Chebino) (@Chebino)</sub>
 - [KLO](https://x.ai/bot/yW-Q1yis7-VCNKbeJ6g6Z) — TikTok creative strategy from organic videos, comments, and ideas. <sub>by [Oren](https://x.com/orenmeetsworld) (@orenmeetsworld)</sub>
@@ -249,7 +253,6 @@
 - [Scout](https://x.ai/bot/rthl9MdskO2f-JCzmyINP) — Watches rival sites, search rank and AI-answer visibility. <sub>by [Adam](https://x.com/adamta) (@adamta) · aka *Scout (Competitive Intelligence)* · [origin](https://x.com/adamta/status/2093388517044830237)</sub>
 - [Screenshot Autopsy](https://x.ai/bot/5Uumfv-zWc5VdexcDehM9) — Evidence-tied UI roast plus fix brief with AC. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Scribe](https://x.ai/bot/37D-JCYGaKjoQQf0oXCt8) — X livestream / replay note-taker with paste-ready highlight threads. <sub>by [Code](https://x.com/CodeSolutionsIL) (@CodeSolutionsIL)</sub>
-- [Scripture Assistant](https://x.ai/bot/1HdnMyIH9auGD7UDwZuWE) — Ask any question, get WWJD insight grounded in Scripture. <sub>by [i](https://x.com/Shizzle_Nizzles) (@Shizzle_Nizzles) · [origin](https://x.com/Shizzle_Nizzles)</sub>
 - [Scroll Stitch / 长图拼接](https://x.ai/bot/9tjPEGID_RAUWcU1Sh9HT) — Stitches same-scroll overlapping screenshots into one clean long image without posting or deleting. <sub>by [Mai](https://x.com/MaiYangAI) · [origin](https://x.com/MaiYangAI/status/2104526546866221279)</sub>
 - [Search](https://x.ai/bot/ZJJFvBg5t3MsYoD5s-VvM) — You are Search, grokbot.studio door + installer. You were added from a share link, so you are the BUYER copy. You are not the Hexakin source bot. On. <sub>by [Hexakin](https://x.com/Hexakin)</sub>
 - [Sentinel](https://x.ai/bot/uO5NbCQrgt1dtYKeklsj1) — Reputation defense and social-proof extraction across browser review surfaces. Scans for new reviews, drafts on-brand replies for your approval,. <sub>by [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
@@ -261,6 +264,7 @@
 - [Sharpie](https://x.ai/bot/4ocmp-awK0AcgHSgtKxZm) — Turns messy operator notes into a one-page memo a PE partner or EVP can act on in about 90 seconds. Draft-only Operator Memo Writer — not a strategist,. <sub>by [Ben](https://x.com/Runningbear) (@Runningbear)</sub>
 - [ShopFront](https://x.ai/bot/L6N9ujxhoOOugsju42J9S) — ShopFront builds a simple one-page website from a short questionnaire. You fill in the business name, what you do, city, phone, and three services. <sub>by [tyler](https://x.com/BotTemplatesWa) (@tyler patrick)</sub>
 - [Short-Form Video Editor](https://x.ai/bot/7uDg8aSUrT6Zn4l2qaaUF) — Turns your long videos into ready-to-post vertical clips. <sub>by [Falcon](https://x.com/falconortiz) (@falconortiz)</sub>
+- [Shorts & Reels Editor](https://x.ai/bot/G071a96I_2jNBHYK0fJYM) — Cuts raw footage into a vertical short with the hook first, captions on, and framing clear of platform buttons. <sub>by [Daniel](https://x.com/Draggen75) (@Draggen75) · [origin](https://x.com/Draggen75/status/2106588914739826748)</sub>
 - [Shorty](https://x.ai/bot/32fHIBw9Yz-s_o35KycGX) — Cuts YouTube Shorts from the long-form videos that already worked. <sub>by [Farzad](https://x.com/farzyness) · [origin](https://x.com/farzyness/status/2093485851606929592)</sub>
 - [Shotcraft](https://x.ai/bot/gdZdBNWdgW45IVVU8sv8F) — Builds a launch video for your product, storyboard to sound mix. <sub>by [Thomas](https://x.com/Tferriere) (@Tferriere) · [origin](https://x.com/Tferriere/status/2095620474193793465)</sub>
 - [Show Cat](https://x.ai/bot/yvY3jGWZBv2cnUy9TILqn) — Pedigree designer that polishes drafts until they are show-ready. <sub>by [Ignota](https://x.com/ignota_regalis) (@ignota_regalis)</sub>
@@ -311,6 +315,7 @@
 - [Webby](https://x.ai/bot/Q2shbC8RRmoRleIyr5J33) — A website admin that rebuilds, dashboards and keeps the newsletter going. <sub>by [Farzad](https://x.com/farzyness) · [origin](https://x.com/farzyness/status/2093485215150744014)</sub>
 - [Website Builder](https://x.ai/bot/sOm7Tj_IcvQ2SFIvJdOJj) — Builds and maintains company sites with design, copy, forms, and GitHub Pages go-live on your custom domain. <sub>by [Goob](https://x.com/Rebeldawg) · [origin](https://x.com/Rebeldawg/status/2106253030920237366)</sub>
 - [wing](https://x.ai/bot/7tQzGIL3WcHG8_Nt7CVwv) — A dating-app wingman that drafts openers and replies in your voice. <sub>by [Lauren](https://x.com/poteto) (@poteto) · [origin](https://x.com/poteto/status/2093516142019318262)</sub>
+- [WWJD](https://x.ai/bot/1HdnMyIH9auGD7UDwZuWE) — Ask any question, get WWJD insight grounded in Scripture. <sub>by [i](https://x.com/Shizzle_Nizzles) (@Shizzle_Nizzles) · aka *Scripture Assistant* · [origin](https://x.com/Shizzle_Nizzles)</sub>
 - [X Account Crew](https://x.ai/bot/CrFqfXIZibJ5DwLuJ89sp) — Five specialists sharing the work of running your X account. <sub>by [Sultanov](https://x.com/thekuchh) (@thekuchh) · [origin](https://x.com/thekuchh/status/2093742276564459867)</sub>
 - [X Account Strategist](https://x.ai/bot/pZshXLsm2c1MYfWf1ngYp) — For founders, operators, and business leaders who need distribution and a real network on X. Surfaces post and article ideas from several angles each. <sub>by [Ashish](https://x.com/inqusit) (@inqusit)</sub>
 - [X Algo](https://x.ai/bot/W0LrVwNwsRHhFY4PG7586) — Tells you whether to post now, quote something, or sit tight. <sub>by [Uzi](https://x.com/UziObi) (@UziObi) · [origin](https://x.com/UziObi/status/2095661664146161788)</sub>
@@ -329,6 +334,7 @@
 - [X Writer](https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we) — Learn any X account's writing style, then draft tweets, edits, and long-form posts in that voice. <sub>by [Star](https://x.com/starzq) · [origin](https://x.com/starzq/status/2099333570020122669)</sub>
 - [YouTube Episode Launch Prep](https://x.ai/bot/7yZBZ7mRlO3wdK2Nzemm5) — Builds a high-trust YouTube launch package for podcast or interview episodes: three title variants for a title-only test, thumbnail concept,. <sub>by [Bill](https://x.com/ProbateWeekly)</sub>
 - [YouTube Soft-PASS Ops](https://x.ai/bot/hf0v7qdlZbACHYYPTVxQ8) — Private-first YouTube music releases with your OK before public, plus DistroKid prep and one Short. <sub>by [Eric](https://x.com/EricChez) (@EricChez) · [origin](https://x.com/EricChez/status/2100186088606503068)</sub>
+- [YouTube Title & Description Writer](https://x.ai/bot/3XJW8dmWURQqR6KqXper8) — Turns a video transcript into three title options, a description, and chapter marks, all staged for your review. <sub>by [Daniel](https://x.com/Draggen75) (@Draggen75) · [origin](https://x.com/Draggen75/status/2106589095715868683)</sub>
 - [Zillow Bot](https://x.ai/bot/y4iQpd9VSjs_h8FCPF5Up) — Finds for-rent-by-owner apartments, townhouses, and houses, filters out realtor and property-management listings, looks up missing landlord phones, and. <sub>by [Dylan](https://x.com/DylanRavin82531) (@DylanRavin82531)</sub>
 - [Zoom Zoe](https://x.ai/bot/XzkfhWk87XtGReBvkVE24) — Audits your video call camera, mic, lighting, and background so you look and sound sharper. Quick fixes first, then optional upgrades. <sub>by [Frank](https://x.com/Frank)</sub>
 - [Ćevbo · Soul Broker](https://x.ai/bot/52MysHk4AuXQs0nWbxQF2) — Free Soul Broker soul you can install on Grok Bot. <sub>by [Vladimir](https://x.com/orange_boy) (@orange_boy)</sub>

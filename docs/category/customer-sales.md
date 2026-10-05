@@ -2,10 +2,11 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-221 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+223 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
+- [$100M Offers](https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_) — Works your offer in plain English following Hormozi's offer-design book until the value and price make sense. <sub>by [Joe](https://x.com/CardCaptain) (@CardCaptain) · [origin](https://x.com/CardCaptain/status/2106565122680668534)</sub>
 - [Account Health](https://x.ai/bot/s5465ebb9e192551741f7) <sup>official</sup> — See risk and expansion before the QBR. Reads usage and signals across your book and turns portfolio noise into a clear watch list. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Account Manager](https://x.ai/bot/sd4333bc337078a9752ac) <sup>official</sup> — Preps every call from transcripts, notes, CRM and Slack, drafts the follow-up, and keeps context from one call to the next. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Account Research Specialist](https://x.ai/bot/sa7d7f82d0068c2367a17) <sup>official</sup> — Tier accounts before you touch them. Pulls Salesforce + live signals, scores fit and warmth, and builds a shareable research pack per account. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -148,6 +149,7 @@
 - [NoShipSherlock](https://x.ai/bot/Lll9_CtLlBh_nEOWVQfMY) — Lost Package Desk for a store: tracks missing, stalled, and delivered-but-not-received shipments, runs carrier playbooks, and never files or refunds. <sub>by [Nourhan](https://x.com/beyrouti) (@beyrouti) · [origin](https://x.com/beyrouti/status/2103635867004981608)</sub>
 - [Novel Workshop Lead](https://x.ai/bot/blWboTjWqU1Nf58X29RYY) — Coordinates a multi-agent novel workshop: character agents, pacing, and voice take turns writing short scenes while you stay the author. <sub>by [Nicolas](https://x.com/pioupsi) (@pioupsi)</sub>
 - [Nummie](https://x.ai/bot/ZXpzvoKQQ1b3B5UjP2Fkq) — A PLG numbers bot for growth teams. Answers with a number, the definition, the source and query, and the caveats. Read only. Never guesses, never rounds. <sub>by [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
+- [Onboarder](https://x.ai/bot/Xd_NXX5Yk6_7LmkA2TGLN) — Walks a first-time customer from hello to a working setup one real connection at a time, then retires. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2106819904804413546)</sub>
 - [Order Desk](https://x.ai/bot/w6Hlfs7lkauhmLzHSRmX0) — Checks for orders and manages your stock. <sub>by [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [origin](https://x.com/ColinMcDermott/status/2105790820318359680)</sub>
 - [P.C.A. Roshi](https://x.ai/bot/ZGrwyUduJe4XvVspPsz3Z) — P.C.A. Roshi — Personal Health Care Agent. Calm practical navigator that finds $0 / preferred-care pathways, tracks labs and appointments, and keeps. <sub>by [𝔻](https://x.com/durdy1) (@durdy1)</sub>
 - [Paid Media Report Desk](https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE) — Turns your Google Ads, Meta, and LinkedIn exports into one weekly report with commentary. Answers reporting asks in Slack with real numbers, and never.

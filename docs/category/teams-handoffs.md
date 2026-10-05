@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-208 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+212 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -39,6 +39,7 @@
 - [Brake](https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z) — Names the recurring job quietly draining your Grok Bot allowance and tells you to kill it. <sub>by [Phantom](https://x.com/FantomBuildz) (@FantomBuildz) · [origin](https://x.com/FantomBuildz/status/2094396074542662068)</sub>
 - [Brief](https://x.ai/bot/Z7mWuQwWmnR-im3F7Hyh1) — Coaches a first-time builder through writing their first bot brief. <sub>by [Anand](https://x.com/anandVragav) (@anandVragav) · [origin](https://x.com/anandVragav/status/2093613851048661141)</sub>
 - [Briefkeep](https://x.ai/bot/JlW3e0RAMYLcjQ5a32rCY) — Walk in with a one-page brief; walk out with every commitment logged and carried forward. <sub>by [Brandon](https://x.com/gitshipdone) (@gitshipdone) · [origin](https://x.com/gitshipdone/status/2103645776849084917)</sub>
+- [Browse](https://x.ai/bot/aPie95rXmGm4w5z0H31EH) — Owns one browser harness that your other bots borrow for sites that defeat plain automation. <sub>by [Sherlock](https://x.com/CanadianOddity) · [origin](https://x.com/CanadianOddity/status/2106807763817185590)</sub>
 - [Business ops](https://x.ai/bot/nFEJD59IJA5604hO9vqym) — One entry point for every part of running the shop, delegating where it helps. <sub>by [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [origin](https://x.com/ColinMcDermott/status/2098713517121544195)</sub>
 - [Calendar Coordinator](https://x.ai/bot/s634fd63ee875502d8df9) <sup>official</sup> — Get people in the same room. Schedules across calendars and chases the holds nobody else has time to chase. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Callsheet](https://x.ai/bot/d-KSCbVm1lXffGeVoFTxJ) — Reads other bots runs.json on the shared computer and stays read-only unless you approve edits. <sub>by [DBCrypto](https://x.com/DBCrypt0) (@DBCrypt0)</sub>
@@ -163,6 +164,7 @@
 - [Rosettabot](https://x.ai/bot/eegdusTdLPabH7xTLQfgG) — Explains a foreign-language bot card before you install it. <sub>by [Knock](https://x.com/SuddenlyJon) (@SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2095736749372649823)</sub>
 - [Sales Orchestrator](https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A) — Front-line traffic control so only one sales specialist answers each group request. <sub>by [Prasad](https://x.com/idleshubh) (@idleshubh) · [origin](https://x.com/idleshubh/status/2098352807858626561)</sub>
 - [Sam](https://x.ai/bot/LjgqoCpO0n-8GJdrwJhjk) — Founder chief of staff with hard authority boundaries on hiring, contracts, and budget. <sub>by [Johnny](https://x.com/JohnnyWang8802) (@JohnnyWang8802)</sub>
+- [Same Language](https://x.ai/bot/wdBvHoTAcc4fqxNbOkVnA) — Asks one short question when your word could mean two things, and turns three consistent answers into a fleet-wide rule. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2106817890691285350)</sub>
 - [Scrub Gate Public](https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b) — Gates public republish by auditing the private bot, scrubbing a twin, and packing from the twin only. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon)</sub>
 - [Seed](https://x.ai/bot/AuCtzU1u4u_ZaRCMC0htT) — Stand up a real software SDLC in one conversation: team of phase bots, SevenD gates, and a hard copy in your repo — you stay the boss at the approvals. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn) · aka *Seed 7D*</sub>
 - [Senior Repairo](https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x) — A repair desk for the other Grok bots you run. <sub>by [Louie](https://x.com/SpaceGarbage202) (@SpaceGarbage202) · [origin](https://x.com/SpaceGarbage202/status/2104905404471820712)</sub>
@@ -201,6 +203,7 @@
 - [Usage Watch](https://x.ai/bot/Q6-oQnCZVNLOwdzEw5i-j) — Tracks Grok Bot and Cursor spend against a daily ceiling and names expensive habits. <sub>by [Neessam](https://x.com/compileinstyle) (@compileinstyle) · [origin](https://x.com/compileinstyle/status/2098106082681888931)</sub>
 - [Usage-pool orchestrator](https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD) — Routes big coding jobs to your CLI subscriptions, not Grok credits. <sub>by [Jordan](https://x.com/JordanHall_dev) (@JordanHall_dev) · [origin](https://x.com/JordanHall_dev/status/2094562218889080932)</sub>
 - [Vet](https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT) — Audits a bot before you let it near your account. <sub>by [Gaurang](https://x.com/GaurangKaria) (@GaurangKaria) · [origin](https://x.com/GaurangKaria/status/2093779467554419008)</sub>
+- [Video Creator](https://x.ai/bot/RPtsHesZPgAlwMOZAX8Ef) — Runs a full explainer pipeline per topic with helper bots, from research and voice to animation, QA, and an unlisted YouTube upload. <sub>by [Farzad](https://x.com/farzyness) (@farzyness) · [origin](https://x.com/farzyness/status/2106592372150632793)</sub>
 - [Vitamin Vera](https://x.ai/bot/HAhgshU4r50gS81LCcpmk) — A weekday roundup of the five Grok bots people are actually talking about. <sub>by [Frank](https://x.com/FrankFindsOut) (@FrankFindsOut) · aka *Meta Grok* · [origin](https://x.com/FrankFindsOut/status/2095092686906884164)</sub>
 - [Voice of Customer](https://x.ai/bot/Nw1K3kkPk8N6eNTPed8gR) — Runs paid user interviews and public social listening for a growth team: who to ask, CRM exclusion audits, approval-gated outreach, X/Reddit themes,. <sub>by [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
 - [Wainwright Manager](https://x.ai/bot/TqyhVfSrAYZ-xQSrD_x1A) — Works as the hiring desk for a fleet of assistants: you pick the role you need from a single list, and it reads the specification over for problems before…. <sub>by [Ryan](https://x.com/itsryanlenk) (@itsryanlenk) · [origin](https://x.com/itsryanlenk/status/2100335862399553579)</sub>
@@ -211,6 +214,7 @@
 - [X Scout](https://x.ai/bot/4iz8VYK_cG482_vIA8WR4) — Weekday scout for Grok Bot use cases on X, then asks which to add. <sub>by [Eric](https://x.com/ericzakariasson) (@ericzakariasson)</sub>
 - [X调度员](https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5) — Sends X tasks down the cheaper route so your developer credits last longer. <sub>by [铁柱AGI](https://x.com/cgnot996) (@cgnot996) · [origin](https://x.com/cgnot996/status/2098682795094876175)</sub>
 - [Zeus](https://x.ai/bot/ehQNQQR9apvhVcmxFiFyP) — A single HQ chat that picks the next bet, drafts in your voice, and never sends unless you say go. <sub>by [Majd](https://x.com/MajdKaid) (@MajdKaid)</sub>
+- [プロンプト監査役](https://x.ai/bot/-zRQeViL06G-7XZYeD5hZ) — Audits another bot's instructions against its core role, flags overlap and vagueness, and returns a trimmed full rewrite with reasons. <sub>by [moriko](https://x.com/m8i_51) (@もりこ) · [origin](https://x.com/m8i_51/status/2106895610343542792)</sub>
 - [ボット整備](https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD) — Audits other bots' names and blurbs against real use, and proposes wording you approve first. <sub>by [翔](https://x.com/x_stone_island) (@x_stone_island) · [origin](https://x.com/x_stone_island/status/2097947982192951719)</sub>
 - [投简历](https://x.ai/bot/Xg1_LIUG80iz5065crarS) — Screens jobs on Chinese boards per your filter and applies, or emails open hiring inboxes, then reports blockers. <sub>by [Edwin](https://x.com/EdwinCh43136084) (@EdwinCh43136084)</sub>
 - [🚦 Set Up](https://x.ai/bot/BsExflSUXpW0hs21OTBzu) — Interview-style onboarding that assembles your first bot roster. <sub>by [A-A-ron](https://x.com/theaaron) (@theaaron) · [origin](https://x.com/theaaron/status/2094547674766929996)</sub>

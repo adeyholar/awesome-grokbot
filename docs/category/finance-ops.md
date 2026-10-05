@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-230 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+233 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -132,6 +132,7 @@
 - [Monarch Manager](https://x.ai/bot/7JQJ0jRlTran7PcuGIM-j) — Read-only Monarch Money desk for balances, recurring, and review queues. <sub>by Robert</sub>
 - [Money Coach](https://x.ai/bot/eeGEcZTwQzQ6XlYP7ypr2) — Money coach for weekly check-ins and one next money move. <sub>by Jon</sub>
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) — Looks for legal ways to make money. First run installs agentself and a wallet, then hunts opportunities. <sub>by [Michael](https://x.com/mbhound) · [origin](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
+- [Money Minute](https://x.ai/bot/k6lmP0975z3GfVpJiyN5D) — One-minute daily spending log with an optional weekly limit and an 8pm nudge when the day is unrecorded. <sub>by [prorookiegamer](https://x.com/prorookiegamer) · [origin](https://x.com/prorookiegamer/status/2106863622278590602)</sub>
 - [Moola](https://x.ai/bot/CLpDye-rKhP9cFMFRet3z) — Saving and investing coach that learns your situation first, then builds a plan without lecture vibes. <sub>[origin](https://x.com/Brbaumhoff/status/2102810440904634508)</sub>
 - [Mr. Scamander](https://x.ai/bot/U-9rdbwRvugphOrC58Ph0) — Money habits coach that keeps next actions small and concrete. <sub>by [Steven](https://x.com/TimeCuratorTM) (@TimeCuratorTM) · [origin](https://x.com/TimeCuratorTM/status/2104307540335214712)</sub>
 - [Oracle Fusion Payables Invoice Bot](https://x.ai/bot/cNdrAkNe7AEm39oOIWqL_) — Helps with Oracle Fusion Cloud Payables: look up Financials REST APIs (FARFA), create and validate supplier invoices, and walk invoice workflows against. <sub>by [Shiv](https://x.com/__KumR__) (@__KumR__) · aka *Oracle Payables Bot*</sub>
@@ -197,6 +198,7 @@
 - [Sterling](https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k) — An understated money sidekick that watches the balances and stays hands-off. <sub>by [FSD](https://x.com/jchybow) (@jchybow) · [origin](https://x.com/jchybow/status/2094256023498326357)</sub>
 - [Steward](https://x.ai/bot/_XFuh52J-TXU1pLEvWxYs) — One-stop finance Controller for first-principles, full-automation accounting. <sub>by [Samuel](https://x.com/Sdriddle) (@Sdriddle)</sub>
 - [Stitchy](https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq) — Suggests a fresh outfit each morning and hunts for bargains overnight. <sub>by [Mitchell](https://x.com/Mitch_Sweigart) (@Mitch_Sweigart) · aka *Stitchy (Personal Stylist)* · [origin](https://x.com/Mitch_Sweigart/status/2093398705298641323)</sub>
+- [Stock Lilo Strategy](https://x.ai/bot/nytlUhse6wVKY4qyTpaLE) — Layers out of a stock on the way up and back in cheaper so a round trip can leave you with more shares, with prices and share counts set for you. <sub>by [Sam](https://x.com/SamE1311025) (@SamE) · [origin](https://x.com/SamE1311025/status/2106943489007325648)</sub>
 - [Stripe Accountant](https://x.ai/bot/VN-2VyKG5EWKC7h4Qhhke) — Reconciles Stripe payments, invoices, and balances for your accountant — digests, Excel workbooks, and a monthly check that the books tie. <sub>by [Daniel](https://x.com/RawSteelRaw) (@RawSteelRaw)</sub>
 - [SubCut](https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0) — Audits your email for silent subscription drain and names what to cut. <sub>by [Finiti](https://x.com/tahaabuilds) (@tahaabuilds) · [origin](https://x.com/tahaabuilds/status/2094199255561089356)</sub>
 - [SumoSign](https://x.ai/bot/Uicr9Dc3FKOmsMfbN_NHB) — Route a document to a live person for signing, straight from chat. <sub>by [Keith](https://x.com/SumoSign) (@SumoSign) · [origin](https://x.com/SumoSign/status/2094633755004821890)</sub>
@@ -219,6 +221,7 @@
 - [Venture Desk](https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA) — One weekday brief across every small online business you run: traffic, sales, the one blocker, and the next move for each, plus a launch checklist so. <sub>by [Scott](https://x.com/CorlettScott) (@CorlettScott)</sub>
 - [Visibility Marketer](https://x.ai/bot/DnNh9tbUQOv4WpWKRafkF) — Free organic marketer for Grok Bot templates. Writes natural, human-feeling copy; finds no-new-account visibility; posts on accounts you already own. <sub>by [Wardonis](https://x.com/Wardonis) · [origin](https://x.com/Wardonis/status/2102149739500187778)</sub>
 - [Warranty Reality Card](https://x.ai/bot/YWu42GxAe2pMxN5eLzPis) — Maps covered/gray/excluded from warranty clauses. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
+- [Warren](https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF) — Scores a ticker against the CAN SLIM growth checklist with entry, stop, and an auditable verdict history, not advice. <sub>by [Ulises](https://x.com/Ulises__gg) · [origin](https://x.com/Ulises__gg/status/2106809689954721818)</sub>
 - [Watchdog](https://x.ai/bot/PuAEE57P58Df5zskFY3pg) — Sweeps your inbox weekly for renewals, receipts and expiring trials. <sub>by [SmoresBoy](https://x.com/jxckvibe) · [origin](https://x.com/jxckvibe/status/2093828719374705066)</sub>
 - [Webshop](https://x.ai/bot/g0rb6kTReiBG4dN5kGIWZ) — Baut und betreibt Online-Shop und Firmenwebsite für einen Farbenfachhandel: Katalog, Bestellung, SEO/GEO und saisonale Aktionen. Arbeitet eng mit. <sub>by [Jakob](https://x.com/JakobOrth) (@JakobOrth)</sub>
 - [Weekly Meal Planner](https://x.ai/bot/4Wbza84SDv-l-1RcnVqne) — Builds a weekly meal plan from what you already have and will actually cook. <sub>by Joseph</sub>

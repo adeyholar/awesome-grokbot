@@ -2,10 +2,11 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-221 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+223 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
+- [$100M Offers](https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_) — 按 Hormozi 的报价设计一书，用大白话把你的产品打磨成价值清楚、价格合理的报价。 <sub>作者 [Joe](https://x.com/CardCaptain) (@CardCaptain) · [出处](https://x.com/CardCaptain/status/2106565122680668534)</sub>
 - [Account Health](https://x.ai/bot/s5465ebb9e192551741f7) <sup>官方</sup> — 季度复盘前就看清风险和增购机会：读完手上所有客户的用量和信号，理成一张关注清单。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Account Manager](https://x.ai/bot/sd4333bc337078a9752ac) <sup>官方</sup> — 维护重点客户不用每次重建上下文：从转录、笔记、CRM、Slack 备会，跟进信也起好草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Account Research Specialist](https://x.ai/bot/sa7d7f82d0068c2367a17) <sup>官方</sup> — 接触前先给客户分层：合 Salesforce 和实时信号打匹配度和热度，每家出一份可传阅的调研包。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
@@ -148,6 +149,7 @@
 - [NoShipSherlock](https://x.ai/bot/Lll9_CtLlBh_nEOWVQfMY) — 店铺丢件台，盯失踪、停滞与妥投异常包裹。 <sub>作者 [Nourhan](https://x.com/beyrouti) (@beyrouti) · [出处](https://x.com/beyrouti/status/2103635867004981608)</sub>
 - [Novel Workshop Lead](https://x.ai/bot/blWboTjWqU1Nf58X29RYY) — 协调多代理小说工坊，角色代理、节奏与声音轮流写作并汇总。 <sub>作者 [Nicolas](https://x.com/pioupsi) (@pioupsi)</sub>
 - [Nummie](https://x.ai/bot/ZXpzvoKQQ1b3B5UjP2Fkq) — 增长团队的 PLG 数字台，回答时给出数字、定义、来源查询与限制，只读不瞎估。 <sub>作者 [Jay](https://x.com/JaySahnan) (@JaySahnan)</sub>
+- [Onboarder](https://x.ai/bot/Xd_NXX5Yk6_7LmkA2TGLN) — 带第一次上手的客户一步一步接好每个服务直到能用，然后自己退场。 <sub>作者 [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [出处](https://x.com/SuddenlyJon/status/2106819904804413546)</sub>
 - [Order Desk](https://x.ai/bot/w6Hlfs7lkauhmLzHSRmX0) — 查订单并管理库存。 <sub>作者 [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [出处](https://x.com/ColinMcDermott/status/2105790820318359680)</sub>
 - [P.C.A. Roshi](https://x.ai/bot/ZGrwyUduJe4XvVspPsz3Z) — 个人健康护理代理，冷静务实，帮你找零费用或优先路径并导航下一步。 <sub>作者 [𝔻](https://x.com/durdy1) (@durdy1)</sub>
 - [Paid Media Report Desk](https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE) — 把 Google Ads、Meta 与 LinkedIn 导出收成带点评的周报，并在 Slack 用真数回答。

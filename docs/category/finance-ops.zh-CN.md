@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-230 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+233 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -132,6 +132,7 @@
 - [Monarch Manager](https://x.ai/bot/7JQJ0jRlTran7PcuGIM-j) — 只读查看 Monarch Money 余额、周期账单与复核队列。 <sub>作者 Robert</sub>
 - [Money Coach](https://x.ai/bot/eeGEcZTwQzQ6XlYP7ypr2) — 理财教练，做周检视并只推下一步动作。 <sub>作者 Jon</sub>
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) — 找合法赚钱办法。第一次运行会装 agentself 并建钱包，然后再找机会。 <sub>作者 [Michael](https://x.com/mbhound) · [出处](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
+- [Money Minute](https://x.ai/bot/k6lmP0975z3GfVpJiyN5D) — 每天一分钟记一笔花销，可设每周上限，当天没记就晚上八点提醒你。 <sub>作者 [prorookiegamer](https://x.com/prorookiegamer) · [出处](https://x.com/prorookiegamer/status/2106863622278590602)</sub>
 - [Moola](https://x.ai/bot/CLpDye-rKhP9cFMFRet3z) — 先摸清你的财务现状，再给储蓄投资与还债计划，不说教。 <sub>[出处](https://x.com/Brbaumhoff/status/2102810440904634508)</sub>
 - [Mr. Scamander](https://x.ai/bot/U-9rdbwRvugphOrC58Ph0) — 理财习惯教练，下一步又小又具体。 <sub>作者 [Steven](https://x.com/TimeCuratorTM) (@TimeCuratorTM) · [出处](https://x.com/TimeCuratorTM/status/2104307540335214712)</sub>
 - [Oracle Fusion Payables Invoice Bot](https://x.ai/bot/cNdrAkNe7AEm39oOIWqL_) — 协助 Oracle Fusion Cloud 应付账款，查财务 REST API，创建并核对应付单据。 <sub>作者 [Shiv](https://x.com/__KumR__) (@__KumR__) · 社区旧称 *Oracle Payables Bot*</sub>
@@ -197,6 +198,7 @@
 - [Sterling](https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k) — 低调的理财搭子：盯着账户余额，但不替你动手。 <sub>作者 [FSD](https://x.com/jchybow) (@jchybow) · [出处](https://x.com/jchybow/status/2094256023498326357)</sub>
 - [Steward](https://x.ai/bot/_XFuh52J-TXU1pLEvWxYs) — 第一性原理全自动记账的财务控制器。 <sub>作者 [Samuel](https://x.com/Sdriddle) (@Sdriddle)</sub>
 - [Stitchy](https://x.ai/bot/P-8iKYx3Eeq3pelx_UPHq) — 每天早上给一套新穿搭，夜里帮你淘便宜货。 <sub>作者 [Mitchell](https://x.com/Mitch_Sweigart) (@Mitch_Sweigart) · 社区旧称 *Stitchy (Personal Stylist)* · [出处](https://x.com/Mitch_Sweigart/status/2093398705298641323)</sub>
+- [Stock Lilo Strategy](https://x.ai/bot/nytlUhse6wVKY4qyTpaLE) — 上涨时分批卖出一部分，回落后再低价买回，来回一趟可能多出股数，价格和股数都替你算好。 <sub>作者 [Sam](https://x.com/SamE1311025) (@SamE) · [出处](https://x.com/SamE1311025/status/2106943489007325648)</sub>
 - [Stripe Accountant](https://x.ai/bot/VN-2VyKG5EWKC7h4Qhhke) — 为会计对账 Stripe 收款、发票与余额，出摘要、Excel 工作簿与月度账实相符检查。 <sub>作者 [Daniel](https://x.com/RawSteelRaw) (@RawSteelRaw)</sub>
 - [SubCut](https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0) — 翻你的邮箱，揪出在悄悄扣费的订阅，并指名该砍哪些。 <sub>作者 [Finiti](https://x.com/tahaabuilds) (@tahaabuilds) · [出处](https://x.com/tahaabuilds/status/2094199255561089356)</sub>
 - [SumoSign](https://x.ai/bot/Uicr9Dc3FKOmsMfbN_NHB) — 从聊天里把文件送到真人签字。 <sub>作者 [Keith](https://x.com/SumoSign) (@SumoSign) · [出处](https://x.com/SumoSign/status/2094633755004821890)</sub>
@@ -219,6 +221,7 @@
 - [Venture Desk](https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA) — 工作日一份简报，覆盖你名下每个小线上生意的流量与要点。 <sub>作者 [Scott](https://x.com/CorlettScott) (@CorlettScott)</sub>
 - [Visibility Marketer](https://x.ai/bot/DnNh9tbUQOv4WpWKRafkF) — 为 Grok Bot 模板做免费自然流量营销，写像人的文案，找无需新开账号的曝光，发在你已有的号上。 <sub>作者 [Wardonis](https://x.com/Wardonis) · [出处](https://x.com/Wardonis/status/2102149739500187778)</sub>
 - [Warranty Reality Card](https://x.ai/bot/YWu42GxAe2pMxN5eLzPis) — 从保修条款映射承保／灰区／除外。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
+- [Warren](https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF) — 按 CAN SLIM 成长股清单给股票打分，附入场与止损位和可复查的判断记录，不构成投资建议。 <sub>作者 [Ulises](https://x.com/Ulises__gg) · [出处](https://x.com/Ulises__gg/status/2106809689954721818)</sub>
 - [Watchdog](https://x.ai/bot/PuAEE57P58Df5zskFY3pg) — 每周扫收件箱，盯续订、收据和快到期的试用。 <sub>作者 [SmoresBoy](https://x.com/jxckvibe) · [出处](https://x.com/jxckvibe/status/2093828719374705066)</sub>
 - [Webshop](https://x.ai/bot/g0rb6kTReiBG4dN5kGIWZ) — 为涂料专营店搭建并运营网店与公司站，含目录、结账与内容。 <sub>作者 [Jakob](https://x.com/JakobOrth) (@JakobOrth)</sub>
 - [Weekly Meal Planner](https://x.ai/bot/4Wbza84SDv-l-1RcnVqne) — 按你现有食材与会做的菜排一周膳食。 <sub>作者 Joseph</sub>
