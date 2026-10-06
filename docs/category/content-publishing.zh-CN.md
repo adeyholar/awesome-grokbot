@@ -2,7 +2,7 @@
 
 *起草、编辑、设计、视频，以及把它们发出去的队列。*
 
-344 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
+349 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
 
 ---
 
@@ -288,11 +288,13 @@
 - [STEER](https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz) — 标出稿子里平淡的机器腔，然后改写成能读的句子。 <sub>作者 [Bill](https://x.com/bfrench) (@bfrench) · [出处](https://x.com/bfrench/status/2094591383080403402)</sub>
 - [Stich + Vault](https://x.ai/bot/LySai4iBlM2ylkDRHppag) — 把手机短片拼成一条 MP4，并从 Epic Vault 取回媒体。 <sub>作者 [Epic](https://x.com/Sm0ken42O) (@Sm0ken42O) · [出处](https://x.com/Sm0ken42O/status/2106123177407422672)</sub>
 - [Studio Assistant](https://x.ai/bot/Z411hW0fpQZunKK8t-8gH) — 艺术工作室助手，排期、外联和标题。 <sub>作者 [D](https://x.com/sweetpollybred) (@sweetpollybred)</sub>
+- [Syllabot](https://x.ai/bot/uLaiAPTZzDV7vfptofUov) — 在 Kajabi 里帮你搭建和维护课程，平台上的琐事不再占满你的一周。 <sub>作者 [Dave](https://x.com/gambrill) · [出处](https://x.com/gambrill/status/2107247246077046960)</sub>
 - [Synthesizer](https://x.ai/bot/-FSiZDOogRKS95ErsgNa3) — 把复杂材料收成清晰地图与你如何服务的表述，用于邀请框架。 <sub>作者 [Ben](https://x.com/BinLeenk) (@Ben Link) · [出处](https://x.com/BinLeenk/status/2100201471018946640)</sub>
 - [TaleForge](https://x.ai/bot/5-YiiKg_ws-7xgkR8T8Ko) — 把故事点子做成完整漫画、绘本或短视频，角色设定保持一致。 <sub>作者 [Avinash](https://x.com/AvinashPeyyety) · [出处](https://x.com/AvinashPeyyety/status/2104075408819851773)</sub>
 - [Taller](https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp) — 把设计链接收成可追问的 markdown 参考库，之后按收藏推荐可复用素材。 <sub>作者 [Franco](https://x.com/FrancoE114696) (@Fran Escob) · [出处](https://x.com/FrancoE114696/status/2099646811992424632)</sub>
 - [Tamago](https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO) — 设计高质量 Grok Bot，对人看的日文写作坚持忠实日语标准。 <sub>作者 [Kamone](https://x.com/knge_rstc) (@knge_rstc) · [出处](https://x.com/knge_rstc/status/2102607543856226457)</sub>
 - [Tcgplayer Repricer](https://x.ai/bot/-OTWWkChA1p8rLYZO_kLV) — TCGPlayer 卖家运维，每天按你的公式或跟市价重定价库存。 <sub>作者 [Connor](https://x.com/Connor)</sub>
+- [Tesla Paint Booth](https://x.ai/bot/0I8SH6XKWmBYc2HynER9i) — 在聊天里根据文字或图片设计 Tesla 车身贴膜，返回预览图和可直接导入 Paint Shop 的文件。 <sub>作者 [Matthew](https://x.com/Matty_O_D) · [出处](https://x.com/Matty_O_D/status/2107168930859266189)</sub>
 - [Text-cleanup](https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4) — 把已有草稿收成一版能直接发出去的文字，不另起新稿。 <sub>作者 [Bill](https://x.com/GrokBotGod) (@GrokBotGod)</sub>
 - [The Director](https://x.ai/bot/yyBdZJpc8kcndrs-e5TKi) — 影视片场导演，把短简报落成带镜头与 T 档的分镜表。 <sub>作者 [Ben](https://x.com/ben_pedley) · [出处](https://x.com/ben_pedley)</sub>
 - [The Table](https://x.ai/bot/MCbora5cfpxh0qvCQkABU) — 单人跑团，真有 GM 与玩家机器人会咬耳朵、吵规则并给你惊喜。 <sub>作者 [Markus](https://x.com/Markus)</sub>
@@ -307,8 +309,11 @@
 - [VidBoi](https://x.ai/bot/dRpUAWpjMusdTw0oy4re3) — 从聊天、通话或频道快速出片，可在聊天里用Runway或Higgsfield生成。 <sub>作者 [Connor](https://x.com/connorgrasso_) (@connorgrasso_)</sub>
 - [Video Clip](https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX) — 找到并下载官方视频片段，把文件和源链接一起交回。 <sub>作者 [dogenorway](https://x.com/DogecoinNorway) (@DogecoinNorway)</sub>
 - [Video Editor](https://x.ai/bot/Oo4vOtwAggO933EwCmKrc) — 把单机位口述录像剪成带品牌感的 YouTube 成片。 <sub>作者 [Ross](https://x.com/ross_zeiger) (@ross_zeiger) · [出处](https://x.com/ross_zeiger/status/2103941921983107481)</sub>
+- [Video Editor](https://x.ai/bot/TUBFpf9exUG-qi7RYKZLs) — 面向创作者和小团队的 AI 剪辑助手，剪素材、做短视频、配标题和封面，做动效与产品视频并交付 MP4。 <sub>作者 [John](https://x.com/john_a_isaacson) · [出处](https://x.com/john_a_isaacson/status/2107037040445661621)</sub>
 - [Video Field Producer](https://x.ai/bot/Nf0M-LgnNsLDvtvAKnASf) — 规划 YouTube 拍摄、写 SEO 标题并检查公开上传与 Shorts。 <sub>作者 [Timothy](https://x.com/RetiredYoungNW) (@RetiredYoungNW) · [出处](https://x.com/RetiredYoungNW/status/2104004163999072481)</sub>
 - [Video Transcriber](https://x.ai/bot/wC622hEnAgGY5AHK9z205) — 把视频链接转成干净的文稿或字幕文件。 <sub>作者 [habib](https://x.com/reachhabib) (@reachhabib) · [出处](https://x.com/reachhabib/status/2097039920988627403)</sub>
+- [Video Transcript](https://x.ai/bot/Al7SlxN5w6wFUUAxummZP) — 贴一个 YouTube 链接，它下载音频转成文字，返回简短摘要、你的语言的完整译文和原文逐字稿。 <sub>作者 [Kaninomizoshiru](https://x.com/kaninomiz0shiru) · [出处](https://x.com/kaninomiz0shiru/status/2107273864036425840)</sub>
+- [Video Upscale Desk](https://x.ai/bot/iJYZ4GQ775Sts3COWP3aY) — 丢进视频素材，用 Lanczos 放大到 1080p 或 4K，音轨原样保留。 <sub>作者 [Moe](https://x.com/navymikeoif) · [出处](https://x.com/navymikeoif/status/2107144369971314690)</sub>
 - [Videofy](https://x.ai/bot/6_kAMXqIRrlhdolwzF0x-) — 内容创作与发布助手。 <sub>作者 G (@community)</sub>
 - [Vidmoat Bot](https://x.ai/bot/okQ3Ka19Qk1-zsxPyUnuc) — 经 MCP 在 Vidmoat 里剪片、预览和渲染，落成可编辑时间线。 <sub>作者 [Vidmoat](https://x.com/vidmoat) · [出处](https://x.com/vidmoat)</sub>
 - [Virtual Try-On Bot](https://x.ai/bot/8Cc1RovyoLulOn9SLY5UR) — 把喜欢的衣服变成 Grok Imagine 试穿视频。 <sub>作者 [paranoidream](https://x.com/paranoidream)</sub>

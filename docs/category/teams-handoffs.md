@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-212 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+215 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -87,6 +87,7 @@
 - [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) — The operator that actually does the work, and pushes back when a plan is wrong. <sub>by [Uzi](https://x.com/UziObi) · [origin](https://x.com/UziObi/status/2093401597048975758)</sub>
 - [Fleet Brain](https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9) — Keeps a shared knowledge base and audits a multi-bot fleet for overlap. <sub>by [Francisco](https://x.com/FranciscoKemeny) (@FranciscoKemeny)</sub>
 - [Fleet Keeper](https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS) — Keeps a Grok Bot fleet tidy: inventories bots and channels read-only, flags duplicates, overlaps, stale and unsectioned bots. <sub>by [TheCoderBTW](https://x.com/TheCoderBtw) · [origin](https://x.com/TheCoderBtw/status/2106330061951664444)</sub>
+- [Fleet Review Desk](https://x.ai/bot/KT8Px1yf07UDJOmHESqog) — Reviews the Grok Bots you choose once a month and delivers ranked fixes without editing other bots or sending anything external. <sub>by [weboperater](https://x.com/weboperater) · [origin](https://x.com/weboperater/status/2107205655077495085)</sub>
 - [Fondi](https://x.ai/bot/qL920VjKyua3_u89UYnQL) — Reads your company's website and staffs you a leadership bench of bots. <sub>by [Naoufal](https://x.com/naoufal_elh) (@naoufal_elh) · [origin](https://x.com/naoufal_elh/status/2095292060731396277)</sub>
 - [Foreman](https://x.ai/bot/XfQEI2uHGd496SLbjCvGw) — Stands up a public-pack team and waits for YES before creating missing seats. <sub>by [AdventureNLearn](https://x.com/AdventureNLearn)</sub>
 - [Foundry](https://x.ai/bot/ScfBcREQMQex9JUf2Se63) — Interviews you about a new venture and writes the operating files. <sub>by [Gareth](https://x.com/gtOSnz) (@gtOSnz) · [origin](https://x.com/gtOSnz/status/2093633012722512228)</sub>
@@ -121,6 +122,7 @@
 - [Inbox Manager](https://x.ai/bot/s4f048c7b7da9e010c2c3) <sup>official</sup> — Triages the inbox into categories, surfaces urgent and blocked threads, and drafts replies. Every send waits for you. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Internal Communications Manager](https://x.ai/bot/s066a9145d936e74d0c80) <sup>official</sup> — Draft clear, on-voice copy from your real context, matched to each audience and channel. Review-only so it never sends on its own. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [IT Department Lead](https://x.ai/bot/28cjt6-FRq2D69vUX5F9L) — Staffs a bench of IT sub-bots across helpdesk, systems, network and security. <sub>by [DCOL](https://x.com/braytron) (@braytron) · [origin](https://x.com/braytron/status/2103994716685791345)</sub>
+- [Job-Bolt Hiring Assistant](https://x.ai/bot/G9wjoXeBLVmjXb0adlkeU) — Turns a role into a private JobBolt first-round video interview with a job description, questions, and a candidate link. <sub>by [Stefan](https://x.com/stebra_x) · [origin](https://x.com/stebra_x/status/2107093358632149286)</sub>
 - [Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7) — Daily handful of early-stage jobs the big boards miss. <sub>by [Ben](https://x.com/deysourav7091) (@deysourav7091) · [origin](https://x.com/deysourav7091/status/2095719866691133940)</sub>
 - [Kerf](https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ) — An engagement PM that slices sold work into tickets and drives it. <sub>by [Oscar](https://x.com/theoscarvibes) (@theoscarvibes) · [origin](https://x.com/theoscarvibes/status/2093543065055056124)</sub>
 - [Kilo](https://x.ai/bot/KaC99w7qlJ0QTtrKwxqFm) — Trims heavyweight Grok Bot setups by measuring context bloat, rebuilding offenders after approval, and naming weekly candidates. <sub>by [Terry](https://x.com/Tchap248) (@Tchap248) · [origin](https://x.com/Tchap248/status/2102471859413348698)</sub>
@@ -195,6 +197,7 @@
 - [thrift](https://x.ai/bot/3hFbbjddl7VpY2oRACKBB) — Audits a sprawling bot fleet and cuts idle token spend. <sub>by [Mario](https://x.com/kleosrr) (@kleosrr) · [origin](https://x.com/kleosrr/status/2096740273254535396)</sub>
 - [tinkabot](https://x.ai/bot/br5f3C4mc75QCMEHaszXd) — Turns an API into a plugin your other bots can just pick up and use. <sub>by [Lauren](https://x.com/DenisLabelle) (@DenisLabelle) · [origin](https://x.com/DenisLabelle/status/2094886573711970614)</sub>
 - [Training Coordinator](https://x.ai/bot/jH1L_MTl1J1in5dodrxyd) — Makes sure every teammate bot finds field training monthly and files shared takeaways. <sub>by [Carlo](https://x.com/SuperHumanATX) · [origin](https://x.com/SuperHumanATX)</sub>
+- [trimmy](https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa) — Reads the bots you name and proposes context cuts side by side with how much memory each trim wins back, applied only on your approval. <sub>by [Tim](https://x.com/TimDOES) · [origin](https://x.com/TimDOES/status/2107249648582967510)</sub>
 - [Tuner](https://x.ai/bot/3n26nkAkMjk5EZcKJlo9w) — Reads what your other bots have been producing and drafts fixes for the ones drifting. <sub>by [Mert](https://x.com/humanmeteorite) (@humanmeteorite) · [origin](https://x.com/humanmeteorite/status/2094888371147424048)</sub>
 - [Tuong Lu Kim](https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv) — Finds the less expensive route to the same result across your agent stack. <sub>by [Stephen](https://x.com/MadeItHappenX) (@MadeItHappenX) · aka *Cost Optimizer* · [origin](https://x.com/MadeItHappenX/status/2095072492700455159)</sub>
 - [Unmachined](https://x.ai/bot/JugVUSPe_wSZg-in69owM) — A pure router that assigns one owner per job and otherwise stays out of the way. <sub>by [nyk](https://x.com/nykdotdev) (@nykdotdev) · aka *Chief (Router)* · [origin](https://x.com/nykdotdev/status/2093395691452457171)</sub>

@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-269 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+274 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -18,6 +18,7 @@
 - [Alchemist](https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj) — 没文档的问题就拿来做实验，直到摸出一套办法。 <sub>作者 [Aman](https://x.com/2onism) · [出处](https://x.com/2onism/status/2093723713279803515)</sub>
 - [Android / Play Build Engineer](https://x.ai/bot/dHEtlzVrG2zWzLwasCWII) — 把Godot 4游戏应用打到Google Play，默认AAB，调试APK可侧载，版本与渠道节奏写清楚。 <sub>作者 [Vet](https://x.com/VetTVStudios) (@VetTV Studios) · [出处](https://x.com/VetTVStudios/status/2104726624608371066)</sub>
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) — 一句话描述应用，收回一个能跑起来的构建。 <sub>作者 [Wayne](https://x.com/waynesutton) · [出处](https://x.com/waynesutton/status/2093835122231722366)</sub>
+- [Ash](https://x.ai/bot/Bt9VFHIMKmo5Psd039r_0) — 给自建服务器小团队的系统负责人，盯自托管后端和有风险的 PR，负责部署和环境配置，不让密钥出现在聊天里。 <sub>作者 [Will](https://x.com/willebrew) · [出处](https://x.com/willebrew/status/2107239932070900099)</sub>
 - [Ask Avery](https://x.ai/bot/zLVAUrY3p1C7PIx0aMoeR) — 编码与交付助手。 <sub>作者 Andreas (@community)</sub>
 - [Astra Afterburner](https://x.ai/bot/EEQXiBDbM6YJG1eedy8d4) — 编码代理额度用尽时，把积压研究队列交给你闲着的第二套套餐。 <sub>作者 [Drew](https://x.com/SacredFolio) (@SacredFolio) · [出处](https://x.com/SacredFolio/status/2100726625423728900)</sub>
 - [Automation Bot](https://x.ai/bot/zb80V9MKJ5MqPy5Woyqdx) — 编码与交付助手。 <sub>作者 Ezra (@community)</sub>
@@ -36,6 +37,7 @@
 - [Call FAQ Miner](https://x.ai/bot/s297976f738dc390d23df) <sup>官方</sup> — 从真实通话维护问答库：记问题、给答案打时间戳、回链到原始录音。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Camble Eugene](https://x.ai/bot/x5L_1O-3errfwp4yu4v7D) — 计算机工程席，覆盖固件、开板设计与无关厂商的 FPGA。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [CarmackBot](https://x.ai/bot/B5UMQzelNds6Iy2nuFrka) — 第一性原理的游戏引擎和固件专长，给小体量爱好游戏用，只上真正能跑的最小栈。 <sub>作者 Marcus · [出处](https://github.com/doanbactam/awesome-grok-bots)</sub>
+- [CASE](https://x.ai/bot/QnnJBu_7kZzuaR3AP1mFv) — 直接看你正在做的代码或设计本身，安静地指出实现和架构上的薄弱点。 <sub>作者 [Jono](https://x.com/ibuildthings) · [出处](https://x.com/ibuildthings/status/2107243950050324702)</sub>
 - [Change Check](https://x.ai/bot/Mrbh0MGmQOf6oG6DVqntP) — 读变更日志或发布页，给出重测、可等与忽略，从不升级部署或发帖。 <sub>作者 [Aleksander](https://x.com/Aleksander)</sub>
 - [Changelog Stand-down](https://x.ai/bot/T27nv3vIy89yKldqELWbn) — 每周一用白话汇总团队这周真正上线了什么。 <sub>作者 [Andrea](https://x.com/acolombiadev) (@acolombiadev) · [出处](https://x.com/acolombiadev/status/2096015833449349211)</sub>
 - [Chep](https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1) — 在美国比价时把运费与优惠券算进去，找真正最低到手价。 <sub>作者 [Joel](https://x.com/MortMatters) · [出处](https://x.com/MortMatters/status/2100784159924924604)</sub>
@@ -59,6 +61,8 @@
 - [Confidence Gate Code Reviewer](https://x.ai/bot/itRipjD5ztScBqvd8vJIf) — Confidence Gate Code Reviewer 的可导入分享模板，按说明完成首次只读任务后再开写入。 <sub>作者 Vicente (@community)</sub>
 - [Confidence Gate Code Reviewer](https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g) — 用 >80% 置信门槛审计粘贴的 PR diff，APPROVE / WARNING / BLOCK。 <sub>作者 [Vicente](https://x.com/v_burgos_) (@v_burgos_)</sub>
 - [Connect multiple Grok Bot accounts](https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL) — 一次安装连接后，把所有 Grok Bot 席位收在同一屋檐下管理。 <sub>作者 [Paulo](https://x.com/pauloglez90) (@pauloglez90) · [出处](https://x.com/pauloglez90/status/2102631623468765633)</sub>
+- [Creador de tienda online](https://x.ai/bot/AJFbb3Epeafxp7m6jx3aI) — 西班牙语助手，从零开始帮你搭建网店，从平台、商品、域名到支付、物流和第一笔销售。 <sub>作者 [Karina](https://x.com/KarinaGeigner) · [出处](https://x.com/KarinaGeigner/status/2107301381409481127)</sub>
+- [Creador de tienda online](https://x.ai/bot/XD17acz3k6BsZXRsiiJBT) — 不讲行话的西班牙语网店搭建助手，带你走完平台、商品、域名、支付、物流和首单。 <sub>作者 [Karina](https://x.com/KarinaGeigner) · [出处](https://x.com/KarinaGeigner/status/2107298834414288982)</sub>
 - [Critiquito](https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM) — 设计评论家，只看你的界面截图，只给意见。 <sub>作者 [Manuel](https://x.com/mamuso) (@mamuso) · [出处](https://x.com/mamuso/status/2093549356364501338)</sub>
 - [Cursor Agent](https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR) — 在本机跑 cursor-agent 命令行，做实验和现场活。 <sub>作者 [Ryan](https://x.com/ryanthawks) (@ryanthawks) · 社区旧称 *Cursor Agent (Local)* · [出处](https://x.com/ryanthawks/status/2093425622282375169)</sub>
 - [Dale](https://x.ai/bot/EEGUQoXtF1ViyFXzVrRnc) — 游戏建造器，把一行点子变成可粘贴的 Grok Build 开场与迭代提示。 <sub>作者 [Jim](https://x.com/Jim)</sub>
@@ -146,6 +150,7 @@
 - [Korean Public API](https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ) — 按你的想法推荐韩国政府公开数据接口。 <sub>作者 [Moon](https://x.com/reallygood83) (@reallygood83) · [出处](https://x.com/reallygood83/status/2096586211909664899)</sub>
 - [Kun](https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE) — 持续更新的首席工程师助手，汇总 Kun 的帖子视频与开源内容。 <sub>作者 [Kun](https://x.com/kunchenguid) (@kunchenguid) · [出处](https://x.com/kunchenguid/status/2105806675399852090)</sub>
 - [KVOp](https://x.ai/bot/Aii63wFn_TPj5MvF7fDyS) — 站点运营机器人，健康监控、下次会话清单，优先 VPS 自动化。 <sub>作者 [KELVIC-3D](https://x.com/3dKelvic) (@3dKelvic)</sub>
+- [Lauren Tan](https://x.ai/bot/4KAElqS6FCSb73vLXZ14S) — Poteto 风格的工程与智能体工作流思考伙伴，先想透再动手，少写但写好，并证明能跑。 <sub>作者 [Saad](https://x.com/saadkamal) · [出处](https://x.com/saadkamal/status/2107157268278231444)</sub>
 - [lgtm the pr closer](https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo) — 每天早上醒来，把开着的 pull request 清掉。 <sub>作者 [Claire](https://x.com/clairevo) · [出处](https://x.com/clairevo/status/2093496605488083203)</sub>
 - [Life at the Speed of Play](https://x.ai/bot/GkzMzuaxSoJhBCZxSRAkM) — Mark Pincus《Life at the Speed of Play》伴读，谈直觉、点子与交付。 <sub>作者 [Joe](https://x.com/CardCaptain) · [出处](https://x.com/CardCaptain)</sub>
 - [Lighting Specialist](https://x.ai/bot/gmfwVjMBx5wLQZnQ5FiyA) — 剧场与建筑照明设计助手，覆盖灯具、光度、DMX/sACN/Art-Net、图纸与规范向规格。 <sub>作者 [kmkonline](https://x.com/kmkonline) · [出处](https://x.com/kmkonline/status/2101593722433745384)</sub>

@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-344 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+349 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -288,11 +288,13 @@
 - [STEER](https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz) — Mark up the flat, machine-sounding lines in a draft and get them rewritten. <sub>by [Bill](https://x.com/bfrench) (@bfrench) · [origin](https://x.com/bfrench/status/2094591383080403402)</sub>
 - [Stich + Vault](https://x.ai/bot/LySai4iBlM2ylkDRHppag) — Stitches phone clips into one MP4 and fetches media from your Epic Vault locker. <sub>by [Epic](https://x.com/Sm0ken42O) (@Sm0ken42O) · [origin](https://x.com/Sm0ken42O/status/2106123177407422672)</sub>
 - [Studio Assistant](https://x.ai/bot/Z411hW0fpQZunKK8t-8gH) — Art studio assistant for scheduling, outreach, and captions. <sub>by [D](https://x.com/sweetpollybred) (@sweetpollybred)</sub>
+- [Syllabot](https://x.ai/bot/uLaiAPTZzDV7vfptofUov) — Builds and manages your courses inside Kajabi so the platform housekeeping stops eating your week. <sub>by [Dave](https://x.com/gambrill) · [origin](https://x.com/gambrill/status/2107247246077046960)</sub>
 - [Synthesizer](https://x.ai/bot/-FSiZDOogRKS95ErsgNa3) — Turns complex material into clear maps and how-you-serve articulations for invitations. <sub>by [Ben](https://x.com/BinLeenk) (@Ben Link) · [origin](https://x.com/BinLeenk/status/2100201471018946640)</sub>
 - [TaleForge](https://x.ai/bot/5-YiiKg_ws-7xgkR8T8Ko) — Turns a story idea into a finished comic, picture book, or short video with locked characters. <sub>by [Avinash](https://x.com/AvinashPeyyety) · [origin](https://x.com/AvinashPeyyety/status/2104075408819851773)</sub>
 - [Taller](https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp) — Drop design links into a markdown reference library, then ask it what to reuse later. <sub>by [Franco](https://x.com/FrancoE114696) (@Fran Escob) · [origin](https://x.com/FrancoE114696/status/2099646811992424632)</sub>
 - [Tamago](https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO) — Designs high-quality Grok Bots with a faithful Japanese writing bar for people-facing copy. <sub>by [Kamone](https://x.com/knge_rstc) (@knge_rstc) · [origin](https://x.com/knge_rstc/status/2102607543856226457)</sub>
 - [Tcgplayer Repricer](https://x.ai/bot/-OTWWkChA1p8rLYZO_kLV) — A no-fuss ops bot for TCGPlayer sellers. Every morning it reprices your Live inventory from your own formula (or a simple match-market starter), pushes. <sub>by [Connor](https://x.com/Connor)</sub>
+- [Tesla Paint Booth](https://x.ai/bot/0I8SH6XKWmBYc2HynER9i) — Designs custom Tesla wraps in chat from a prompt or image and hands back a preview plus a Paint Shop-ready file. <sub>by [Matthew](https://x.com/Matty_O_D) · [origin](https://x.com/Matty_O_D/status/2107168930859266189)</sub>
 - [Text-cleanup](https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4) — Cleans up writing you already have into one send-ready version. <sub>by [Bill](https://x.com/GrokBotGod) (@GrokBotGod)</sub>
 - [The Director](https://x.ai/bot/yyBdZJpc8kcndrs-e5TKi) — Film-unit director that turns a short brief into a shot list with lenses and T-stops. <sub>by [Ben](https://x.com/ben_pedley) · [origin](https://x.com/ben_pedley)</sub>
 - [The Table](https://x.ai/bot/MCbora5cfpxh0qvCQkABU) — Solo TTRPG with a real party of bots , GM + players who whisper, argue rules, and surprise you. <sub>by [Markus](https://x.com/Markus)</sub>
@@ -307,8 +309,11 @@
 - [VidBoi](https://x.ai/bot/dRpUAWpjMusdTw0oy4re3) — Get a video done fast from a chat, a call, or your channels. Generate with Runway or Higgsfield in chat, review a contact sheet to regen or swap shots,. <sub>by [Connor](https://x.com/connorgrasso_) (@connorgrasso_)</sub>
 - [Video Clip](https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX) — Finds and downloads official video clips, then returns the file plus the source link. <sub>by [dogenorway](https://x.com/DogecoinNorway) (@DogecoinNorway)</sub>
 - [Video Editor](https://x.ai/bot/Oo4vOtwAggO933EwCmKrc) — Turns a talking-head recording into a clean, branded YouTube cut. <sub>by [Ross](https://x.com/ross_zeiger) (@ross_zeiger) · [origin](https://x.com/ross_zeiger/status/2103941921983107481)</sub>
+- [Video Editor](https://x.ai/bot/TUBFpf9exUG-qi7RYKZLs) — AI video editor for creators and small teams. Cuts footage, makes shorts, packages titles and thumbs, builds motion or product videos, delivers MP4s. <sub>by [John](https://x.com/john_a_isaacson) · [origin](https://x.com/john_a_isaacson/status/2107037040445661621)</sub>
 - [Video Field Producer](https://x.ai/bot/Nf0M-LgnNsLDvtvAKnASf) — Plans YouTube shoots, writes SEO titles, checks public uploads, finds Short ideas. <sub>by [Timothy](https://x.com/RetiredYoungNW) (@RetiredYoungNW) · [origin](https://x.com/RetiredYoungNW/status/2104004163999072481)</sub>
 - [Video Transcriber](https://x.ai/bot/wC622hEnAgGY5AHK9z205) — Turns a video link into a clean transcript or subtitle file. <sub>by [habib](https://x.com/reachhabib) (@reachhabib) · [origin](https://x.com/reachhabib/status/2097039920988627403)</sub>
+- [Video Transcript](https://x.ai/bot/Al7SlxN5w6wFUUAxummZP) — Takes a YouTube link, transcribes the audio, and returns a short summary plus a full translation in your language with the original transcript. <sub>by [Kaninomizoshiru](https://x.com/kaninomiz0shiru) · [origin](https://x.com/kaninomiz0shiru/status/2107273864036425840)</sub>
+- [Video Upscale Desk](https://x.ai/bot/iJYZ4GQ775Sts3COWP3aY) — Drop in footage and get a Lanczos upscale to 1080p or 4K with the audio copied bit for bit. <sub>by [Moe](https://x.com/navymikeoif) · [origin](https://x.com/navymikeoif/status/2107144369971314690)</sub>
 - [Videofy](https://x.ai/bot/6_kAMXqIRrlhdolwzF0x-) — Paste an X video link and remake it in Grok Imagine. <sub>by G (@community)</sub>
 - [Vidmoat Bot](https://x.ai/bot/okQ3Ka19Qk1-zsxPyUnuc) — Cuts, previews, and renders videos in Vidmoat over MCP into an editable timeline. <sub>by [Vidmoat](https://x.com/vidmoat) · [origin](https://x.com/vidmoat)</sub>
 - [Virtual Try-On Bot](https://x.ai/bot/8Cc1RovyoLulOn9SLY5UR) — Turns clothes you like into a Grok Imagine video of you wearing them, built from your own Character reference. When you like a look, it sends the item. <sub>by [paranoidream](https://x.com/paranoidream)</sub>

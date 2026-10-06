@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-233 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+238 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -14,6 +14,7 @@
 - [Alpaca](https://x.ai/bot/O9GVEhA_dlBr1uxomyy8L) — 只用模拟盘演练期权与股票决策，不动真金白银。 <sub>作者 [Pinecrest](https://x.com/swartzendruber) (@swartzendruber) · [出处](https://x.com/swartzendruber/status/2100712796950352208)</sub>
 - [Artist COO](https://x.ai/bot/1xERibyRYst3MSlMvqy_F) — 独立艺人从曝光到成交的运营官，所有工位经你拍板，拉起经理与任务机器人并推有机增长。 <sub>作者 [Patrick](https://x.com/PatrickBreen20) (@PatrickBreen20)</sub>
 - [ASIC Fleet](https://x.ai/bot/KLf9yQcaJWOW-6bBT8e6Y) — 管理 Bitaxe/Hex/AxeOS 矿机机队，做库存告警与调参剧本，不自动 PATCH，也不把矿池密码写进聊天。 <sub>作者 [Steve](https://x.com/scgerber) (@scgerber) · [出处](https://x.com/scgerber/status/2105819765742637131)</sub>
+- [Asisten Serba-Bisa](https://x.ai/bot/ek0Lsb90F-soitfmcQUK6) — 面向印尼老板的全能助手，客观讲解科学知识，分析银行流水、损益和单位经济，帮忙写文件并标出风险和把握程度。 <sub>作者 [Haru](https://x.com/HaruLavega) · [出处](https://x.com/HaruLavega/status/2107317538992574971)</sub>
 - [Asistente Contable - Colombia](https://x.ai/bot/roAIOBqaMNIijMjrAaI7C) — 哥伦比亚独立会计师运营助手，盯 DIAN 期限、网盘与 210 表草稿。 <sub>作者 [Katherine](https://x.com/KatheTrivinoG) · [出处](https://x.com/KatheTrivinoG)</sub>
 - [Atlas — FOUR.DESKS Switchboard](https://x.ai/bot/8yW0q8kjOcnbzJZBsWZuc) — 自由职业者 FOUR.DESKS 运营公司的总机，把活分到个人、在营业务、未来工作室与点子桶。 <sub>作者 [Mickey](https://x.com/MickeyDinges) (@MickeyDinges)</sub>
 - [Bill](https://x.ai/bot/Zq7A3Opad78rsoj8eoFay) — 你的AT&T账户代言人，审计账单与用量找省钱点，并起草沟通稿。 <sub>作者 [DJ](https://x.com/congressdj) (@congressdj)</sub>
@@ -60,8 +61,10 @@
 - [Cyber Legend](https://x.ai/bot/GhnmyGIVWQTHLuQO3pZto) — 经 Tailscale 调查真实 SIEM 或 EDR 告警，用短证据说明关掉误报，真阳性按你的 SOP 升级。 <sub>作者 [Vlad](https://x.com/vladydaddy) (@vladydaddy)</sub>
 - [Cye](https://x.ai/bot/kIX3q73v4yn2HgkYZiAac) — 仅防御的网络安全与密码学顾问，硬化本地优先系统。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Dagny](https://x.ai/bot/cbdUpGcKsW9drlkAe9Jd4) — 多店烘焙品牌的组合总经理搭子，看营收缺口与营销下一步。 <sub>作者 [Michael by Michael](https://x.com/Michael) (@Michael)</sub>
+- [Daily Financial Brief](https://x.ai/bot/s2YEW2exxqk-BhcWfGziz) — 每天早上的理财简报，汇总你绑定的账户、市场和板块走势，以及值得一看的科技、能源、美联储和国际新闻。 <sub>[出处](https://x.com/swetha_lochte/status/2107149104761737243)</sub>
 - [Daisy (Travel Rewards Desk)](https://x.ai/bot/QgAFcr09rf_GsGM-nNast) — 为叠里程、酒店身份与信用卡返现的情侣与家庭掌管行程与忠诚运营，建奖励目录并比较现金与积分。 <sub>作者 [Gregory](https://x.com/Gregory44597294) (@Gregory44597294) · [出处](https://x.com/Gregory44597294/status/2099991475165544560)</sub>
 - [Dave Ramsey](https://x.ai/bot/XcmxDFYpD0IBtdFwjnIkJ) — 家庭预算教练，按信用卡账单周期做零基预算，并推你按计划还债。 <sub>作者 [Will](https://x.com/wrowston) (@wrowston)</sub>
+- [DCA Bot](https://x.ai/bot/AV8qLbETDkgCNT8C4HPAf) — 动态定投机器人，价格、成交量和情绪低迷时多买，过热时少买，始终不超过你的月度上限。 <sub>作者 [Ash](https://x.com/Must_be_Ash) · [出处](https://x.com/Must_be_Ash/status/2107224527382118499)</sub>
 - [Deadline Desk](https://x.ai/bot/0lzORVii9A5b6W4ly6pEJ) — 把埋在收件箱里的截止日期提前揪出来。 <sub>作者 [Alex](https://x.com/AlexFCHF) · [出处](https://x.com/AlexFCHF/status/2104372283523367295)</sub>
 - [Deal finder](https://x.ai/bot/F1gmAaLQNmXDj-PH_CEx3) — 盯你关心的商品，只有价格真正跌破基线或出现真折扣才叫你，面向安静的工作日。 <sub>作者 [Brad](https://x.com/bradgarcia) (@bradgarcia)</sub>
 - [Dealer ERP Ops Snapshot](https://x.ai/bot/e1QsUQXvdHmu9xPzpgRwQ) — 经销商 ERP 的工作日只读健康检查，未结服务单、缺失或过期计量等。 <sub>作者 [AdvancedBusinessSyst](https://x.com/abstally) (@abstally)</sub>
@@ -203,8 +206,10 @@
 - [SubCut](https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0) — 翻你的邮箱，揪出在悄悄扣费的订阅，并指名该砍哪些。 <sub>作者 [Finiti](https://x.com/tahaabuilds) (@tahaabuilds) · [出处](https://x.com/tahaabuilds/status/2094199255561089356)</sub>
 - [SumoSign](https://x.ai/bot/Uicr9Dc3FKOmsMfbN_NHB) — 从聊天里把文件送到真人签字。 <sub>作者 [Keith](https://x.com/SumoSign) (@SumoSign) · [出处](https://x.com/SumoSign/status/2094633755004821890)</sub>
 - [Susie the Bookkeeper](https://x.ai/bot/7PSzTwwC3jjNIQANBNsF3) — 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 <sub>作者 [Brandon](https://x.com/Bkchiesa) (@Brandon Chiesa) · [出处](https://x.com/Bkchiesa/status/2104679052237771015)</sub>
+- [Swipe Coach](https://x.ai/bot/FsAu5MGNNzsCynOCrR_zI) — 基于 Grok Finance 的只读刷卡教练，告诉你该刷哪张卡，找出漏拿的奖励，并核算建议实际帮你赚了多少。 <sub>作者 [Bowie](https://x.com/BowieHole) · [出处](https://x.com/BowieHole/status/2107237367824425007)</sub>
 - [t2000](https://x.ai/bot/eXQt5VUovcU0HMj_b-CDY) — t2000.ai 市场运营手，用 USDC 赚钱、雇人、结算和卖货。 <sub>作者 [funkii](https://x.com/funkii) · [出处](https://x.com/funkii)</sub>
 - [Tax Firm OS](https://x.ai/bot/vJqjJphtZRkdBTYBxmWur) — 税务或会计事务所办公助手，盯快回、齐材料、赶在截止日期前做完。 <sub>作者 [Amervim](https://x.com/Amervim) · [出处](https://x.com/Amervim/status/2105949306025128186)</sub>
+- [Tax Firm OS](https://x.ai/bot/vMr8x1Lm8mpo-jKBrdxCh) — 小型税务或会计事务所的前台，帮员工准备草稿和跟进事项，发送、签字和申报都由老板来做。 <sub>作者 [Amervim](https://x.com/Amervim) · [出处](https://x.com/Amervim/status/2107214004238037424)</sub>
 - [Taxx](https://x.ai/bot/-A5GzkqCGxtedkKF_I9CK) — 估算 2025 和 2026 年美国联邦所得税，不当 CPA。 <sub>作者 [GreenbarSystems](https://x.com/RyanGBsystems) (@RyanGBsystems) · [出处](https://x.com/RyanGBsystems/status/2096652030043693103)</sub>
 - [The Cleaner](https://x.ai/bot/Sbu_rKH30FD10OdRYo2UH) — 多 Bot 团队的独立审计员，查角色、指令、记忆和例行任务里的重叠与残留。 <sub>作者 [GreenbarSystems](https://x.com/RyanGBsystems) (@RyanGBsystems) · [出处](https://x.com/RyanGBsystems/status/2097107246815777185)</sub>
 - [Theta Vantage Desk](https://x.ai/bot/YbX8HTAePBjwpwP05CVJS) — 期权简报台：单只标的的 gamma、资金流和波动率。 <sub>作者 [Joe](https://x.com/ThetaVantage) (@ThetaVantage) · [出处](https://x.com/ThetaVantage/status/2094150193042386996)</sub>

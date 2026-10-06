@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-269 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+274 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -18,6 +18,7 @@
 - [Alchemist](https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj) — Experiments its way to a method for undocumented problems. <sub>by [Aman](https://x.com/2onism) · [origin](https://x.com/2onism/status/2093723713279803515)</sub>
 - [Android / Play Build Engineer](https://x.ai/bot/dHEtlzVrG2zWzLwasCWII) — Ships Android games and apps to Google Play: Godot 4 → AAB by default, debug APKs for sideload, version bumps, and clear Internal → Closed → Production. <sub>by [Vet](https://x.com/VetTVStudios) (@VetTV Studios) · [origin](https://x.com/VetTVStudios/status/2104726624608371066)</sub>
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) — Describe an app in one sentence and get a running build back. <sub>by [Wayne](https://x.com/waynesutton) · [origin](https://x.com/waynesutton/status/2093835122231722366)</sub>
+- [Ash](https://x.ai/bot/Bt9VFHIMKmo5Psd039r_0) — Systems lead for small teams on their own servers that watches self-hosted backends and risky PRs, handles deploys and env config, and keeps secrets out of chat. <sub>by [Will](https://x.com/willebrew) · [origin](https://x.com/willebrew/status/2107239932070900099)</sub>
 - [Ask Avery](https://x.ai/bot/zLVAUrY3p1C7PIx0aMoeR) — Ask-the-expert orchestrator for engineering teams: Consultant or Reviewer. <sub>by Andreas (@community)</sub>
 - [Astra Afterburner](https://x.ai/bot/EEQXiBDbM6YJG1eedy8d4) — Points a stalled coding agent's research queue at your idle second plan. <sub>by [Drew](https://x.com/SacredFolio) (@SacredFolio) · [origin](https://x.com/SacredFolio/status/2100726625423728900)</sub>
 - [Automation Bot](https://x.ai/bot/zb80V9MKJ5MqPy5Woyqdx) — Scans codebase, writes local tests behind one on-demand runner. <sub>by Ezra (@community)</sub>
@@ -36,6 +37,7 @@
 - [Call FAQ Miner](https://x.ai/bot/s297976f738dc390d23df) <sup>official</sup> — Keep enablement current from real calls. Tracks questions, timestamps answers, and links back to the source recording. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Camble Eugene](https://x.ai/bot/x5L_1O-3errfwp4yu4v7D) — Computer-engineering seat for bare-metal firmware, open board design, and vendor-independent FPGA logic. Warm, plain help for hardware–software. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [CarmackBot](https://x.ai/bot/B5UMQzelNds6Iy2nuFrka) — A first-principles game-engine and firmware specialist for small hobby games. Ships the smallest stack that runs. <sub>by Marcus · [origin](https://github.com/doanbactam/awesome-grok-bots)</sub>
+- [CASE](https://x.ai/bot/QnnJBu_7kZzuaR3AP1mFv) — Quietly reviews your in-progress build from the real artifact and flags weak implementation and design points. <sub>by [Jono](https://x.com/ibuildthings) · [origin](https://x.com/ibuildthings/status/2107243950050324702)</sub>
 - [Change Check](https://x.ai/bot/Mrbh0MGmQOf6oG6DVqntP) — Reviews a changelog or release URL and returns Retest, Can wait, and Ignore , with source sentences. Never upgrades, deploys, or posts. <sub>by [Aleksander](https://x.com/Aleksander)</sub>
 - [Changelog Stand-down](https://x.ai/bot/T27nv3vIy89yKldqELWbn) — Every Monday, a plain summary of what the team shipped. <sub>by [Andrea](https://x.com/acolombiadev) (@acolombiadev) · [origin](https://x.com/acolombiadev/status/2096015833449349211)</sub>
 - [Chep](https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1) — Finds the lowest all-in US price for a product with shipping and coupons counted. <sub>by [Joel](https://x.com/MortMatters) · [origin](https://x.com/MortMatters/status/2100784159924924604)</sub>
@@ -59,6 +61,8 @@
 - [Confidence Gate Code Reviewer](https://x.ai/bot/itRipjD5ztScBqvd8vJIf) — Confidence Gate Code Reviewer Grok Bot share template. <sub>by Vicente (@community)</sub>
 - [Confidence Gate Code Reviewer](https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g) — Audits pasted PR diffs with a >80% confidence gate: APPROVE / WARNING / BLOCK. <sub>by [Vicente](https://x.com/v_burgos_) (@v_burgos_)</sub>
 - [Connect multiple Grok Bot accounts](https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL) — Run every Grok Bot seat under one roof after a single install and connect. <sub>by [Paulo](https://x.com/pauloglez90) (@pauloglez90) · [origin](https://x.com/pauloglez90/status/2102631623468765633)</sub>
+- [Creador de tienda online](https://x.ai/bot/AJFbb3Epeafxp7m6jx3aI) — Spanish-language helper for building an online store from scratch, from platform, products, and domain to payments, shipping, and first sales. <sub>by [Karina](https://x.com/KarinaGeigner) · [origin](https://x.com/KarinaGeigner/status/2107301381409481127)</sub>
+- [Creador de tienda online](https://x.ai/bot/XD17acz3k6BsZXRsiiJBT) — Jargon-free Spanish version of the online store builder that walks through platform, products, domain, payments, shipping, and first sales. <sub>by [Karina](https://x.com/KarinaGeigner) · [origin](https://x.com/KarinaGeigner/status/2107298834414288982)</sub>
 - [Critiquito](https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM) — A design critic that reviews your UI screenshots and only has notes. <sub>by [Manuel](https://x.com/mamuso) (@mamuso) · [origin](https://x.com/mamuso/status/2093549356364501338)</sub>
 - [Cursor Agent](https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR) — Runs the cursor-agent CLI locally for experiments and shop-floor work. <sub>by [Ryan](https://x.com/ryanthawks) (@ryanthawks) · aka *Cursor Agent (Local)* · [origin](https://x.com/ryanthawks/status/2093425622282375169)</sub>
 - [Dale](https://x.ai/bot/EEGUQoXtF1ViyFXzVrRnc) — A game builder that turns a one-line game idea into paste-ready Grok Build prompts: an opening build prompt, ordered refine prompts, and a playtest. <sub>by [Jim](https://x.com/Jim)</sub>
@@ -146,6 +150,7 @@
 - [Korean Public API](https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ) — Suggests Korean government open-data APIs for your build. <sub>by [Moon](https://x.com/reallygood83) (@reallygood83) · [origin](https://x.com/reallygood83/status/2096586211909664899)</sub>
 - [Kun](https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE) — Principal engineer bot continuously updated with Kun Chen posts videos and open source. <sub>by [Kun](https://x.com/kunchenguid) (@kunchenguid) · [origin](https://x.com/kunchenguid/status/2105806675399852090)</sub>
 - [KVOp](https://x.ai/bot/Aii63wFn_TPj5MvF7fDyS) — Site ops bot: health watch, next-session list, VPS automation first. <sub>by [KELVIC-3D](https://x.com/3dKelvic) (@3dKelvic)</sub>
+- [Lauren Tan](https://x.ai/bot/4KAElqS6FCSb73vLXZ14S) — Poteto-mode thinking partner for engineering and agent workflows that goes deep first, ships less but better code, and proves it works. <sub>by [Saad](https://x.com/saadkamal) · [origin](https://x.com/saadkamal/status/2107157268278231444)</sub>
 - [lgtm the pr closer](https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo) — Wakes up each morning and burns down your open pull requests. <sub>by [Claire](https://x.com/clairevo) · [origin](https://x.com/clairevo/status/2093496605488083203)</sub>
 - [Life at the Speed of Play](https://x.ai/bot/GkzMzuaxSoJhBCZxSRAkM) — Reading partner for Mark Pincus Life at the Speed of Play on instincts, ideas, and shipping. <sub>by [Joe](https://x.com/CardCaptain) · [origin](https://x.com/CardCaptain)</sub>
 - [Lighting Specialist](https://x.ai/bot/gmfwVjMBx5wLQZnQ5FiyA) — Senior lighting designer for theatrical and architectural work covering fixtures, photometrics, DMX/sACN/Art-Net, plots, and code-aware specs. <sub>by [kmkonline](https://x.com/kmkonline) · [origin](https://x.com/kmkonline/status/2101593722433745384)</sub>

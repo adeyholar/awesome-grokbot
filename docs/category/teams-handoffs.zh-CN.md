@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-212 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+215 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -87,6 +87,7 @@
 - [Fixer](https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho) — 真正动手的执行手，计划不对会顶回去。 <sub>作者 [Uzi](https://x.com/UziObi) · [出处](https://x.com/UziObi/status/2093401597048975758)</sub>
 - [Fleet Brain](https://x.ai/bot/kFQ0XpYIwcNSNWtgZ9Xt9) — 维护共享知识库，并检查多 Bot 舰队有没有重叠。 <sub>作者 [Francisco](https://x.com/FranciscoKemeny) (@FranciscoKemeny)</sub>
 - [Fleet Keeper](https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS) — 只读清点机器人与频道，标出重复重叠过期与未分组项，帮你把 Grok Bot 舰队收拾整齐。 <sub>作者 [TheCoderBTW](https://x.com/TheCoderBtw) · [出处](https://x.com/TheCoderBtw/status/2106330061951664444)</sub>
+- [Fleet Review Desk](https://x.ai/bot/KT8Px1yf07UDJOmHESqog) — 每月检查一次你选定的机器人，给出按优先级排好的改进建议，不改动其他机器人也不对外发送。 <sub>作者 [weboperater](https://x.com/weboperater) · [出处](https://x.com/weboperater/status/2107205655077495085)</sub>
 - [Fondi](https://x.ai/bot/qL920VjKyua3_u89UYnQL) — 读你公司网站，再给你配一套领导层机器人。 <sub>作者 [Naoufal](https://x.com/naoufal_elh) (@naoufal_elh) · [出处](https://x.com/naoufal_elh/status/2095292060731396277)</sub>
 - [Foreman](https://x.ai/bot/XfQEI2uHGd496SLbjCvGw) — 搭好一套公开团队编制，缺席位要等你点头才创建。 <sub>作者 [AdventureNLearn](https://x.com/AdventureNLearn)</sub>
 - [Foundry](https://x.ai/bot/ScfBcREQMQex9JUf2Se63) — 访谈你的新生意，再写成运营文件。 <sub>作者 [Gareth](https://x.com/gtOSnz) (@gtOSnz) · [出处](https://x.com/gtOSnz/status/2093633012722512228)</sub>
@@ -121,6 +122,7 @@
 - [Inbox Manager](https://x.ai/bot/s4f048c7b7da9e010c2c3) <sup>官方</sup> — 让邮箱重新可用：分好类、挑出紧急和被卡住的，回复和清理都只给草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Internal Communications Manager](https://x.ai/bot/s066a9145d936e74d0c80) <sup>官方</sup> — 按你的真实语境和各渠道口吻写内部通告，只出草稿，绝不自己发。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [IT Department Lead](https://x.ai/bot/28cjt6-FRq2D69vUX5F9L) — 统筹 IT 子机器人席位，覆盖帮助台、系统、网络与安全。 <sub>作者 [DCOL](https://x.com/braytron) (@braytron) · [出处](https://x.com/braytron/status/2103994716685791345)</sub>
+- [Job-Bolt Hiring Assistant](https://x.ai/bot/G9wjoXeBLVmjXb0adlkeU) — 把一个职位变成 JobBolt 上的私密首轮视频面试，生成职位描述、面试题和候选人链接。 <sub>作者 [Stefan](https://x.com/stebra_x) · [出处](https://x.com/stebra_x/status/2107093358632149286)</sub>
 - [Join a Startup Bot](https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7) — 每天送来几条大板子上看不到的早期岗位。 <sub>作者 [Ben](https://x.com/deysourav7091) (@deysourav7091) · [出处](https://x.com/deysourav7091/status/2095719866691133940)</sub>
 - [Kerf](https://x.ai/bot/3iNSp9IoRCnSjh0Z6MtWZ) — 交付项目经理，把已卖出的活切成工单并往前推。 <sub>作者 [Oscar](https://x.com/theoscarvibes) (@theoscarvibes) · [出处](https://x.com/theoscarvibes/status/2093543065055056124)</sub>
 - [Kilo](https://x.ai/bot/KaC99w7qlJ0QTtrKwxqFm) — 衡量各机器人对话上下文体积，批准后精简臃肿者，并每周点名下一轮瘦身候选。 <sub>作者 [Terry](https://x.com/Tchap248) (@Tchap248) · [出处](https://x.com/Tchap248/status/2102471859413348698)</sub>
@@ -195,6 +197,7 @@
 - [thrift](https://x.ai/bot/3hFbbjddl7VpY2oRACKBB) — 审计你养着的一堆 Bot，砍掉空转的 token 开销。 <sub>作者 [Mario](https://x.com/kleosrr) (@kleosrr) · [出处](https://x.com/kleosrr/status/2096740273254535396)</sub>
 - [tinkabot](https://x.ai/bot/br5f3C4mc75QCMEHaszXd) — 把一个 API 收成其他 Bot 能直接接上的插件。 <sub>作者 [Lauren](https://x.com/DenisLabelle) (@DenisLabelle) · [出处](https://x.com/DenisLabelle/status/2094886573711970614)</sub>
 - [Training Coordinator](https://x.ai/bot/jH1L_MTl1J1in5dodrxyd) — 确保每个队友机器人每月找到实战培训，并归档可共享要点。 <sub>作者 [Carlo](https://x.com/SuperHumanATX) · [出处](https://x.com/SuperHumanATX)</sub>
+- [trimmy](https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa) — 读取你指定的机器人，并排展示可删减的上下文和每处能省下的记忆，你批准后才改。 <sub>作者 [Tim](https://x.com/TimDOES) · [出处](https://x.com/TimDOES/status/2107249648582967510)</sub>
 - [Tuner](https://x.ai/bot/3n26nkAkMjk5EZcKJlo9w) — 读其他 Bot 最近产出，给跑偏的那几个起草修正。 <sub>作者 [Mert](https://x.com/humanmeteorite) (@humanmeteorite) · [出处](https://x.com/humanmeteorite/status/2094888371147424048)</sub>
 - [Tuong Lu Kim](https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv) — 在你的智能体栈里找出同样结果更省钱的路径。 <sub>作者 [Stephen](https://x.com/MadeItHappenX) (@MadeItHappenX) · 社区旧称 *Cost Optimizer* · [出处](https://x.com/MadeItHappenX/status/2095072492700455159)</sub>
 - [Unmachined](https://x.ai/bot/JugVUSPe_wSZg-in69owM) — 纯调度，一件活一个负责人，其余时候不掺和。 <sub>作者 [nyk](https://x.com/nykdotdev) (@nykdotdev) · 社区旧称 *Chief (Router)* · [出处](https://x.com/nykdotdev/status/2093395691452457171)</sub>
