@@ -2,7 +2,7 @@
 
 *分拣邮件、起草回复、守住日历、把工作日节奏跑起来。*
 
-291 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](inbox-calendar.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh)
+293 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](inbox-calendar.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh)
 
 ---
 
@@ -80,6 +80,7 @@
 - [Cosmo](https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf) — 给非程序员 Ultra 用户的生活系统幕僚长，管 Gmail、投资记分、电话桌、出书助产与硬隐私轨。 <sub>作者 [mark](https://x.com/Malthusatraz) (@Malthusatraz)</sub>
 - [Creador de facturas ARCA](https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo) — 阿根廷独立卖家一次配好 ARCA，之后每月自动开 Factura C 并邮件发出。 <sub>作者 [Tomás](https://x.com/tomidelu_) (@tomidelu_) · [出处](https://x.com/tomidelu_/status/2098487670687035412)</sub>
 - [Creator Desk](https://x.ai/bot/dM43J1T44OmcRdAsNHsBf) — 服务原创作者的 X 工作台，策划撰写并安排帖子、短视频与值得回的评论。 <sub>作者 [Stephen](https://x.com/MadeItHappenX) · [出处](https://x.com/MadeItHappenX/status/2104034337771417720)</sub>
+- [CreditCards](https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN) — 把你所有信用卡记成一本账：余额、还款日、权益和优惠，标出疑似重复扣款，把年费和优惠截止日放进日历。 <sub>作者 [Kong](https://x.com/TeslaTranslated) · [出处](https://x.com/TeslaTranslated/status/2107617461218754780)</sub>
 - [CreditGrok](https://x.ai/bot/u2wcsBjv2IBil5fBv37cZ) — 带你走完 AnnualCreditReport.com 免费三局征信报告流程，处理邮箱与手机验证码，并保存 PDF。 <sub>作者 [Jered](https://x.com/jeredtaylor) (@Jered Taylor) · [出处](https://x.com/jeredtaylor/status/2102268858392555527)</sub>
 - [CS BOT](https://x.ai/bot/q7dwPN9SUAIhXUWLhjHN9) — 向中小企业销售 AI 网站聊天机器人的参谋长，走向市场计划、演示组件与跟进。 <sub>作者 [Billy](https://x.com/The_MLM_Hub) (@The_MLM_Hub)</sub>
 - [Customer Service](https://x.ai/bot/zC_-D00Dam5jmHf0t62l_) — 客服桌面，按你的政策语气起草回复。 <sub>[出处](https://x.com/degen4lyfe_/status/2104325538496291020)</sub>
@@ -285,6 +286,7 @@
 - [Webinar Desk](https://x.ai/bot/n0v3TatpnoYff_4ybSWmK) — 按你的赛道找网络研讨会，经批准参加后寄回纪要。 <sub>作者 [Mat](https://x.com/Ispider) (@Ispider) · [出处](https://x.com/Ispider/status/2100694025926029415)</sub>
 - [Weekender](https://x.ai/bot/pFygGG8IU67dM2S7WitaT) — 周末社交活动协调员，把活动真正办成。 <sub>作者 [Jeff](https://x.com/jeffdillehunt) (@jeffdillehunt)</sub>
 - [WhatsApp Inbox Desk](https://x.ai/bot/S07oX1xZqDW7OScY9hEN5) — 把 WhatsApp Web 变成可行动的早间与运营简报，未读分流、待回复标记与决策观察名单，除非你要求否则不发送。 <sub>作者 [Cobus](https://x.com/CobusGreylingZA) (@CobusGreylingZA)</sub>
+- [Wife Bot](https://x.ai/bot/FFhovhcaV2-0eX2uwPiBJ) — 以伴侣口吻出现的家务副驾，扛起家里的琐事清单：日程、礼物、买菜、尿布、账单和预约。 <sub>作者 [Eran](https://x.com/EranHertz) · [出处](https://x.com/EranHertz/status/2107420072692346933)</sub>
 - [Winback Desk](https://x.ai/bot/KBA_4Aap3iYEZEi12_hwW) — 找出近半年流失客户，起草挽回与离因反馈邮件，再把理由收成留存计划，发送仍由你点。 <sub>作者 [Screaming](https://x.com/Screaming_Chkn) (@Don) · [出处](https://x.com/Screaming_Chkn/status/2104737338290995313)</sub>
 - [Winback Desk](https://x.ai/bot/jbZ6e5CtU019W0wvZrhdl) — 找出过去六个月流失的客户，起草挽回和离开反馈邮件等你批准，并把流失原因归纳成留存计划。 <sub>作者 [Screaming](https://x.com/Screaming_Chkn) (@Screaming_Chkn) · [出处](https://x.com/Screaming_Chkn/status/2107233830524620840)</sub>
 - [WMP](https://x.ai/bot/iPOF34o7dtafNEpVhIQRt) — 读取家里共享的日历，把生日、预约和学校活动整理成一份早间简报给忙碌的家长。 <sub>作者 [Caleeeb](https://x.com/gearcaleeeb) · [出处](https://x.com/gearcaleeeb/status/2107244971338178762)</sub>

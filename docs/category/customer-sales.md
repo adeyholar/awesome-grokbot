@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-230 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+229 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -20,7 +20,6 @@
 - [Ally](https://x.ai/bot/K4xNPsHhEMOnjN55Au-hf) — Partner marketing and channel GTM advisor with a BD mindset. Builds partner programs from sales data, separates strategic vs tactical partners, and. <sub>by [Mike](https://x.com/MikeCast) (@MikeCast)</sub>
 - [Apple Search Ads Review](https://x.ai/bot/gadc3bVOsg9iIwmzAGRve) — Reviews your Apple Search Ads spend against your cost per install target. Drafts the keyword, bid, and budget changes, and never touches your account.
 - [Apply Scout](https://x.ai/bot/nTTQ_v9iaWJMfMX3R3L1S) — Find jobs and draft tailored resumes. <sub>by [lmdev](https://x.com/lmdev)</sub>
-- [Beowulf](https://x.ai/bot/fKmJNdkjP_tN2sMqLlPko) — One build partner that plans, codes, tests, and operates a project from rules you write once, with money or outbound moves gated by a typed yes. <sub>by [🐢HexTurtleG🍊d🐢](https://x.com/HexGodTurtle) (@HexGodTurtle) · [origin](https://x.com/HexGodTurtle/status/2107161111552270546)</sub>
 - [Big Tony](https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm) — Your enforcer against AI customer service. Big Tony handles cancellations that weren't honored, ghost charges, retention traps, fraud cleanup, and.
 - [Blaise](https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5) — X + contest ops Bot. Connects to X, reads live contest rules, drafts clone-winning entries, and only escalates for login walls or final approve. Built. <sub>by [Tor](https://x.com/TorranceMiller) (@TorranceMiller)</sub>
 - [Business Loop PM](https://x.ai/bot/buqKPC6jkQxBPdY93HL-w) — Operates Acquire to Monetize to Retain for Launch and never invents leads. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn)</sub>

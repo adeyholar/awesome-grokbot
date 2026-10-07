@@ -2,7 +2,7 @@
 
 *Triage mail, draft replies, defend the calendar, run the weekday rhythm.*
 
-291 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
+293 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
 
 ---
 
@@ -80,6 +80,7 @@
 - [Cosmo](https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf) — Chief of Staff life OS for a non-coder Ultra user. Runs Gmail admin, investing scorekeeping, a phone Desk, book midwifery, hard privacy rails, and. <sub>by [mark](https://x.com/Malthusatraz) (@Malthusatraz)</sub>
 - [Creador de facturas ARCA](https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo) — One-time ARCA setup for Argentine sellers, then monthly Factura C PDFs by email. <sub>by [Tomás](https://x.com/tomidelu_) (@tomidelu_) · [origin](https://x.com/tomidelu_/status/2098487670687035412)</sub>
 - [Creator Desk](https://x.ai/bot/dM43J1T44OmcRdAsNHsBf) — Creator desk for X that plans, writes, and schedules posts, short clips, and reply picks. <sub>by [Stephen](https://x.com/MadeItHappenX) · [origin](https://x.com/MadeItHappenX/status/2104034337771417720)</sub>
+- [CreditCards](https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN) — Keeps one ledger of your cards with balances, due dates, perks, and promos, flags duplicate charges, and puts fee and promo deadlines on your calendar. <sub>by [Kong](https://x.com/TeslaTranslated) · [origin](https://x.com/TeslaTranslated/status/2107617461218754780)</sub>
 - [CreditGrok](https://x.ai/bot/u2wcsBjv2IBil5fBv37cZ) — Walks AnnualCreditReport.com for free Equifax, Experian, and TransUnion reports, handles email and phone OTP, then saves the PDFs. <sub>by [Jered](https://x.com/jeredtaylor) (@Jered Taylor) · [origin](https://x.com/jeredtaylor/status/2102268858392555527)</sub>
 - [CS BOT](https://x.ai/bot/q7dwPN9SUAIhXUWLhjHN9) — Head-of-staff bot for selling AI website chatbots to SMBs: GTM plan, demo widget, bilingual cold outreach, quality-gated sends, and inbox reply watching. <sub>by [Billy](https://x.com/The_MLM_Hub) (@The_MLM_Hub)</sub>
 - [Customer Service](https://x.ai/bot/zC_-D00Dam5jmHf0t62l_) — Customer service desk that drafts replies from your policy voice. <sub>[origin](https://x.com/degen4lyfe_/status/2104325538496291020)</sub>
@@ -285,6 +286,7 @@
 - [Webinar Desk](https://x.ai/bot/n0v3TatpnoYff_4ybSWmK) — Finds webinars in your lanes, attends with approval, and emails a brief. <sub>by [Mat](https://x.com/Ispider) (@Ispider) · [origin](https://x.com/Ispider/status/2100694025926029415)</sub>
 - [Weekender](https://x.ai/bot/pFygGG8IU67dM2S7WitaT) — Social events coordinator for weekends that actually happen. <sub>by [Jeff](https://x.com/jeffdillehunt) (@jeffdillehunt)</sub>
 - [WhatsApp Inbox Desk](https://x.ai/bot/S07oX1xZqDW7OScY9hEN5) — Turns WhatsApp Web into an actionable morning and ops brief: unread triage, reply-needed flags, and decision watch-lists — without sending unless you ask. <sub>by [Cobus](https://x.com/CobusGreylingZA) (@CobusGreylingZA)</sub>
+- [Wife Bot](https://x.ai/bot/FFhovhcaV2-0eX2uwPiBJ) — Partner-persona household copilot that carries the family mental load across calendar, gifts, groceries, diapers, bills, and appointments. <sub>by [Eran](https://x.com/EranHertz) · [origin](https://x.com/EranHertz/status/2107420072692346933)</sub>
 - [Winback Desk](https://x.ai/bot/KBA_4Aap3iYEZEi12_hwW) — Find customers who quit in the last 6 months, draft personal win-back + exit-feedback emails for your approval, then overnight cluster the reasons into. <sub>by [Screaming](https://x.com/Screaming_Chkn) (@Don) · [origin](https://x.com/Screaming_Chkn/status/2104737338290995313)</sub>
 - [Winback Desk](https://x.ai/bot/jbZ6e5CtU019W0wvZrhdl) — Finds customers who quit in the last six months, drafts win-back and exit-feedback emails for approval, and groups their reasons into a retention plan. <sub>by [Screaming](https://x.com/Screaming_Chkn) (@Screaming_Chkn) · [origin](https://x.com/Screaming_Chkn/status/2107233830524620840)</sub>
 - [WMP](https://x.ai/bot/iPOF34o7dtafNEpVhIQRt) — Reads shared family calendars and walks a busy parent through birthdays, appointments, and school events in one morning brief. <sub>by [Caleeeb](https://x.com/gearcaleeeb) · [origin](https://x.com/gearcaleeeb/status/2107244971338178762)</sub>

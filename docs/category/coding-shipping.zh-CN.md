@@ -14,7 +14,6 @@
 - [AgentStack](https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h) — AgentStack 平台助手，经 MCP 覆盖托管、DNA、App Studio 与已上线应用。 <sub>作者 [AgentSmith](https://x.com/AgentStackTech) (@AgentStack) · [出处](https://x.com/AgentStackTech/status/2105244254595363300)</sub>
 - [AI Boy](https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p) — 在 Grok Bot 里启动并监督 Claude Code 或 Codex 编码任务。 <sub>作者 [David](https://x.com/infdaze) · [出处](https://x.com/infdaze/status/2100801822428479674)</sub>
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) — 让你机器上每一套 AI 编程工具都跟上版本。 <sub>作者 [Alan](https://x.com/gheeunit) · [出处](https://x.com/gheeunit/status/2093427364973695253)</sub>
-- [AI Security Advisor](https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS) — 给 AI 应用做防御加固建议，覆盖注入、工具滥用与泄漏。 <sub>作者 [zeus](https://x.com/zeuss_000) (@zeuss_000) · [出处](https://x.com/zeuss_000/status/2103984574061842850)</sub>
 - [Alchemist](https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj) — 没文档的问题就拿来做实验，直到摸出一套办法。 <sub>作者 [Aman](https://x.com/2onism) · [出处](https://x.com/2onism/status/2093723713279803515)</sub>
 - [Android / Play Build Engineer](https://x.ai/bot/dHEtlzVrG2zWzLwasCWII) — 把Godot 4游戏应用打到Google Play，默认AAB，调试APK可侧载，版本与渠道节奏写清楚。 <sub>作者 [Vet](https://x.com/VetTVStudios) (@VetTV Studios) · [出处](https://x.com/VetTVStudios/status/2104726624608371066)</sub>
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) — 一句话描述应用，收回一个能跑起来的构建。 <sub>作者 [Wayne](https://x.com/waynesutton) · [出处](https://x.com/waynesutton/status/2093835122231722366)</sub>
@@ -203,6 +202,7 @@
 - [Repo Monkey](https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ) — 梳理 GitHub 通知、PR 与 CI，列出真正需要你拍板的事项与下一步。 <sub>作者 [Keranik](https://x.com/Keranik) · [出处](https://x.com/Keranik/status/2103723687920669124)</sub>
 - [Requirement Engineer Bot](https://x.ai/bot/5KADFS8AIIDOlow5tS34Z) — 把项目目标译成可追踪的高层与实现需求，供其他机器人落地核验。 <sub>作者 [Fish](https://x.com/FishxCD) · [出处](https://x.com/FishxCD/status/2103810502510215640)</sub>
 - [Restaurant Platform & Brand Chief of Staff](https://x.ai/bot/DcTAFQXBoZfJs0lAVdFGZ) — 职业妈妈参谋，带专岗团队改流程与 IT，让事业和家都不垮。 <sub>作者 [Lina](https://x.com/Lina) · 社区旧称 *Chief of Staff*</sub>
+- [Resume Coach](https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS) — 给 AI 应用做防御加固建议，覆盖注入、工具滥用与泄漏。 <sub>作者 [zeus](https://x.com/zeuss_000) (@zeuss_000) · 社区旧称 *AI Security Advisor* · [出处](https://x.com/zeuss_000/status/2103984574061842850)</sub>
 - [Rick Sanchez Bot](https://x.ai/bot/vSCr0lLcC0T37rT-geqaj) — 卡通醉天才，一边损你一边用手头废料发明真能做的小装置。 <sub>作者 Ondřej</sub>
 - [RIZALBOT](https://x.ai/bot/Af9XNmozBcRoZM85eylOW) — 面向可离线 AI 应用的端上陪伴连续性，含心跳、信息流、心智交接与增益优先决策。 <sub>作者 [Яizal](https://x.com/AetaneoRizal) (@AetaneoRizal)</sub>
 - [Rusty](https://x.ai/bot/ONQYmPPGpEiqKllCF9N_0) — 本地优先系统的仅防御网络安全，硬化与威胁缓解，不做攻击。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>

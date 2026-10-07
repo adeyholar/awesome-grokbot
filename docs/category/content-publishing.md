@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-349 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+352 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -24,6 +24,7 @@
 - [Animated Story Maker](https://x.ai/bot/pwLrxtrOO9o3kwaVQVU3O) — Turns a story idea, theme, or character photos into a short 3D animated story with Grok Imagine prompts per episode. <sub>by [Karata](https://x.com/karatademada) (@karatademada) · [origin](https://x.com/karatademada/status/2105599152528695601)</sub>
 - [Archer](https://x.ai/bot/vOriVfOZkvpZF9yGhfV5w) — Manages a bot crew that keeps an online product catalogue current. <sub>by [Darrell](https://x.com/dukezone) (@dukezone) · [origin](https://x.com/dukezone/status/2100010056108683737)</sub>
 - [Argonaut](https://x.ai/bot/nxO4l1d9JL99Ds9Qixc1A) — Finds sibling #argonaut threads on X and appends one line to a branching multiverse epic. <sub>by [Ben](https://x.com/open_brady) (@BW) · [origin](https://x.com/open_brady/status/2101172562193465411)</sub>
+- [Art Director](https://x.ai/bot/CPsMufoHozETWciYoiqvL) — Art director that runs a brand's Instagram, remixing Pinterest ideas into on-brand images and carousels and handling captions, scheduling, and posting. <sub>by [Carlos](https://x.com/Carlos_Arthurr) · [origin](https://x.com/Carlos_Arthurr/status/2107422079087706174)</sub>
 - [Arthur](https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W) — Writes a full children's picture book from a topic and an age range. <sub>by [GenXer](https://x.com/LatchKeyLegend) (@LatchKeyLegend)</sub>
 - [Article Audio](https://x.ai/bot/S7zd1VQUVp7z6NKpwF5iY) — Paste an X Article link and get the full piece read aloud as a video. <sub>by Wayne (@community)</sub>
 - [Article Audio](https://x.ai/bot/zBuR546KeAs5X0iwlXkxt) — Turns articles into listen-friendly audio outlines. <sub>by harris.dev (@harrisdev)</sub>
@@ -299,6 +300,7 @@
 - [The Director](https://x.ai/bot/yyBdZJpc8kcndrs-e5TKi) — Film-unit director that turns a short brief into a shot list with lenses and T-stops. <sub>by [Ben](https://x.com/ben_pedley) · [origin](https://x.com/ben_pedley)</sub>
 - [The Table](https://x.ai/bot/MCbora5cfpxh0qvCQkABU) — Solo TTRPG with a real party of bots , GM + players who whisper, argue rules, and surprise you. <sub>by [Markus](https://x.com/Markus)</sub>
 - [Toolsmith](https://x.ai/bot/Y4Wgv33AYwUvbYZ5sB-XC) — Forges small reusable scripts and Chrome-free copy packs so listing and automation stay fast and accurate. Prefer a skill over a new bot; after a path. <sub>by [Zye](https://x.com/ZyeAnd1) (@ZyeAnd1) · [origin](https://x.com/ZyeAnd1/status/2099987803228754118)</sub>
+- [Trail Camera Analyst](https://x.ai/bot/25StqpR__kg6k6hCky8wz) — Turns trail-camera photos and video into wildlife reports with species counts, activity timing, keeper shots, and ranch notes, with location stripped. <sub>by [Russell](https://x.com/RussellVargo) · [origin](https://x.com/RussellVargo/status/2107531469140959680)</sub>
 - [Travel Grok](https://x.ai/bot/4YWzzAP8Di9B4DnYd3Uzo) — A wandering pen-pal bot that sends the occasional note and postcard. <sub>by [Tony](https://x.com/coolbat1999) (@coolbat1999) · [origin](https://x.com/coolbat1999/status/2100599548871889340)</sub>
 - [Twitter Automations](https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS) — Three creator automations for X: reply-triggered DMs, follower screening and a watchlist. <sub>by [NM](https://x.com/theadvisorbtc) (@theadvisorbtc) · [origin](https://x.com/theadvisorbtc/status/2094434891622457825)</sub>
 - [Ubersuggest SEO](https://x.ai/bot/KWq0REIfSep3OE5Z9RwGt) — Ubersuggest SEO helper for keyword and content gap notes. <sub>by Faisal</sub>
@@ -310,6 +312,7 @@
 - [Video Clip](https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX) — Finds and downloads official video clips, then returns the file plus the source link. <sub>by [dogenorway](https://x.com/DogecoinNorway) (@DogecoinNorway)</sub>
 - [Video Editor](https://x.ai/bot/Oo4vOtwAggO933EwCmKrc) — Turns a talking-head recording into a clean, branded YouTube cut. <sub>by [Ross](https://x.com/ross_zeiger) (@ross_zeiger) · [origin](https://x.com/ross_zeiger/status/2103941921983107481)</sub>
 - [Video Editor](https://x.ai/bot/TUBFpf9exUG-qi7RYKZLs) — AI video editor for creators and small teams. Cuts footage, makes shorts, packages titles and thumbs, builds motion or product videos, delivers MP4s. <sub>by [John](https://x.com/john_a_isaacson) · [origin](https://x.com/john_a_isaacson/status/2107037040445661621)</sub>
+- [Video Editor](https://x.ai/bot/a6E9Vw1N_L-OIWFZNEX4S) — Edits raw talking-head footage into vertical shorts, picking the best takes and adding captions, B-roll, motion graphics, and music, with every cut checked. <sub>by [Ethan](https://x.com/Ethan_Ng_13) · [origin](https://x.com/Ethan_Ng_13/status/2107552823437369855)</sub>
 - [Video Field Producer](https://x.ai/bot/Nf0M-LgnNsLDvtvAKnASf) — Plans YouTube shoots, writes SEO titles, checks public uploads, finds Short ideas. <sub>by [Timothy](https://x.com/RetiredYoungNW) (@RetiredYoungNW) · [origin](https://x.com/RetiredYoungNW/status/2104004163999072481)</sub>
 - [Video Transcriber](https://x.ai/bot/wC622hEnAgGY5AHK9z205) — Turns a video link into a clean transcript or subtitle file. <sub>by [habib](https://x.com/reachhabib) (@reachhabib) · [origin](https://x.com/reachhabib/status/2097039920988627403)</sub>
 - [Video Transcript](https://x.ai/bot/Al7SlxN5w6wFUUAxummZP) — Takes a YouTube link, transcribes the audio, and returns a short summary plus a full translation in your language with the original transcript. <sub>by [Kaninomizoshiru](https://x.com/kaninomiz0shiru) · [origin](https://x.com/kaninomiz0shiru/status/2107273864036425840)</sub>

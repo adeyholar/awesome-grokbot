@@ -2,7 +2,7 @@
 
 *起草、编辑、设计、视频，以及把它们发出去的队列。*
 
-349 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
+352 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
 
 ---
 
@@ -24,6 +24,7 @@
 - [Animated Story Maker](https://x.ai/bot/pwLrxtrOO9o3kwaVQVU3O) — 把故事点子、主题或角色照片做成短 3D 动画故事，并给出每集可粘贴的 Grok Imagine 提示。 <sub>作者 [Karata](https://x.com/karatademada) (@karatademada) · [出处](https://x.com/karatademada/status/2105599152528695601)</sub>
 - [Archer](https://x.ai/bot/vOriVfOZkvpZF9yGhfV5w) — 管理一队机器人，让在线产品目录保持最新。 <sub>作者 [Darrell](https://x.com/dukezone) (@dukezone) · [出处](https://x.com/dukezone/status/2100010056108683737)</sub>
 - [Argonaut](https://x.ai/bot/nxO4l1d9JL99Ds9Qixc1A) — 在 X 上寻找同题材 Argonaut 线程，为分支式多宇宙史诗续写一行。 <sub>作者 [Ben](https://x.com/open_brady) (@BW) · [出处](https://x.com/open_brady/status/2101172562193465411)</sub>
+- [Art Director](https://x.ai/bot/CPsMufoHozETWciYoiqvL) — 替品牌打理 Instagram 的美术总监，从 Pinterest 找灵感做成符合品牌调性的图片和轮播，并负责文案、排期和发布。 <sub>作者 [Carlos](https://x.com/Carlos_Arthurr) · [出处](https://x.com/Carlos_Arthurr/status/2107422079087706174)</sub>
 - [Arthur](https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W) — 给主题和适读年龄，写出一整本儿童图画书。 <sub>作者 [GenXer](https://x.com/LatchKeyLegend) (@LatchKeyLegend)</sub>
 - [Article Audio](https://x.ai/bot/S7zd1VQUVp7z6NKpwF5iY) — 内容创作与发布助手。 <sub>作者 Wayne (@community)</sub>
 - [Article Audio](https://x.ai/bot/zBuR546KeAs5X0iwlXkxt) — 把文章收成适合听的音频大纲。 <sub>作者 harris.dev (@harrisdev)</sub>
@@ -299,6 +300,7 @@
 - [The Director](https://x.ai/bot/yyBdZJpc8kcndrs-e5TKi) — 影视片场导演，把短简报落成带镜头与 T 档的分镜表。 <sub>作者 [Ben](https://x.com/ben_pedley) · [出处](https://x.com/ben_pedley)</sub>
 - [The Table](https://x.ai/bot/MCbora5cfpxh0qvCQkABU) — 单人跑团，真有 GM 与玩家机器人会咬耳朵、吵规则并给你惊喜。 <sub>作者 [Markus](https://x.com/Markus)</sub>
 - [Toolsmith](https://x.ai/bot/Y4Wgv33AYwUvbYZ5sB-XC) — 锻造可复用的小脚本与免 Chrome 复制包，让上架与自动化保持快速。 <sub>作者 [Zye](https://x.com/ZyeAnd1) (@ZyeAnd1) · [出处](https://x.com/ZyeAnd1/status/2099987803228754118)</sub>
+- [Trail Camera Analyst](https://x.ai/bot/25StqpR__kg6k6hCky8wz) — 把红外相机的照片和视频整理成野生动物报告：物种计数、活动时间、值得留的镜头和牧场笔记，并去掉位置信息。 <sub>作者 [Russell](https://x.com/RussellVargo) · [出处](https://x.com/RussellVargo/status/2107531469140959680)</sub>
 - [Travel Grok](https://x.ai/bot/4YWzzAP8Di9B4DnYd3Uzo) — 会自己出门晃荡的笔友机器人，偶尔寄回短讯与明信片。 <sub>作者 [Tony](https://x.com/coolbat1999) (@coolbat1999) · [出处](https://x.com/coolbat1999/status/2100599548871889340)</sub>
 - [Twitter Automations](https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS) — X 上的三套创作者自动化：回复触发私信、粉丝筛查、关注清单。 <sub>作者 [NM](https://x.com/theadvisorbtc) (@theadvisorbtc) · [出处](https://x.com/theadvisorbtc/status/2094434891622457825)</sub>
 - [Ubersuggest SEO](https://x.ai/bot/KWq0REIfSep3OE5Z9RwGt) — Ubersuggest SEO 助手，整理关键词与内容缺口。 <sub>作者 Faisal</sub>
@@ -310,6 +312,7 @@
 - [Video Clip](https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX) — 找到并下载官方视频片段，把文件和源链接一起交回。 <sub>作者 [dogenorway](https://x.com/DogecoinNorway) (@DogecoinNorway)</sub>
 - [Video Editor](https://x.ai/bot/Oo4vOtwAggO933EwCmKrc) — 把单机位口述录像剪成带品牌感的 YouTube 成片。 <sub>作者 [Ross](https://x.com/ross_zeiger) (@ross_zeiger) · [出处](https://x.com/ross_zeiger/status/2103941921983107481)</sub>
 - [Video Editor](https://x.ai/bot/TUBFpf9exUG-qi7RYKZLs) — 面向创作者和小团队的 AI 剪辑助手，剪素材、做短视频、配标题和封面，做动效与产品视频并交付 MP4。 <sub>作者 [John](https://x.com/john_a_isaacson) · [出处](https://x.com/john_a_isaacson/status/2107037040445661621)</sub>
+- [Video Editor](https://x.ai/bot/a6E9Vw1N_L-OIWFZNEX4S) — 把口播原始素材剪成竖屏短视频，挑最好的镜头，加字幕、B-roll、动态图形和音乐，每一刀都检查过。 <sub>作者 [Ethan](https://x.com/Ethan_Ng_13) · [出处](https://x.com/Ethan_Ng_13/status/2107552823437369855)</sub>
 - [Video Field Producer](https://x.ai/bot/Nf0M-LgnNsLDvtvAKnASf) — 规划 YouTube 拍摄、写 SEO 标题并检查公开上传与 Shorts。 <sub>作者 [Timothy](https://x.com/RetiredYoungNW) (@RetiredYoungNW) · [出处](https://x.com/RetiredYoungNW/status/2104004163999072481)</sub>
 - [Video Transcriber](https://x.ai/bot/wC622hEnAgGY5AHK9z205) — 把视频链接转成干净的文稿或字幕文件。 <sub>作者 [habib](https://x.com/reachhabib) (@reachhabib) · [出处](https://x.com/reachhabib/status/2097039920988627403)</sub>
 - [Video Transcript](https://x.ai/bot/Al7SlxN5w6wFUUAxummZP) — 贴一个 YouTube 链接，它下载音频转成文字，返回简短摘要、你的语言的完整译文和原文逐字稿。 <sub>作者 [Kaninomizoshiru](https://x.com/kaninomiz0shiru) · [出处](https://x.com/kaninomiz0shiru/status/2107273864036425840)</sub>

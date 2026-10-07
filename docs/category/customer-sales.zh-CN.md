@@ -2,7 +2,7 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-230 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+229 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
@@ -20,7 +20,6 @@
 - [Ally](https://x.ai/bot/K4xNPsHhEMOnjN55Au-hf) — 伙伴营销与渠道GTM顾问，用销售数据搭伙伴计划并推动渠道落地。 <sub>作者 [Mike](https://x.com/MikeCast) (@MikeCast)</sub>
 - [Apple Search Ads Review](https://x.ai/bot/gadc3bVOsg9iIwmzAGRve) — 按目标安装成本审 Apple Search Ads 花费，起草关键词、出价与预算改动，不动账户。
 - [Apply Scout](https://x.ai/bot/nTTQ_v9iaWJMfMX3R3L1S) — 找工作并起草量身简历。 <sub>作者 [lmdev](https://x.com/lmdev)</sub>
-- [Beowulf](https://x.ai/bot/fKmJNdkjP_tN2sMqLlPko) — 一个从规划、写代码、测试到运维全包的搭档，按你写好的规则干活，花钱或对外发送前要你打字确认。 <sub>作者 [🐢HexTurtleG🍊d🐢](https://x.com/HexGodTurtle) (@HexGodTurtle) · [出处](https://x.com/HexGodTurtle/status/2107161111552270546)</sub>
 - [Big Tony](https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm) — 对付 AI 客服的强硬代理人，帮你取消、退款与索赔。
 - [Blaise](https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5) — X 与竞赛运营机器人，连接 X、读现场竞赛规则、起草克隆向内容。 <sub>作者 [Tor](https://x.com/TorranceMiller) (@TorranceMiller)</sub>
 - [Business Loop PM](https://x.ai/bot/buqKPC6jkQxBPdY93HL-w) — 按获取、变现、留存跑 Launch 商务环，绝不编造线索。 <sub>作者 [Ash](https://x.com/ashvinn) (@ashvinn)</sub>

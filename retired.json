@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-10-03",
+  "checked": "2026-10-07",
   "entries": [
     {
       "slug": "bot-creator",
@@ -246,6 +246,118 @@
       "link_status": 404,
       "license": "CC-BY-4.0",
       "aka": "Ad Aether"
+    },
+    {
+      "slug": "beowulf",
+      "name": "Beowulf",
+      "author": {
+        "name": "🐢HexTurtleG🍊d🐢",
+        "handle": "HexGodTurtle",
+        "url": "https://x.com/HexGodTurtle"
+      },
+      "summary": "One build partner that plans, codes, tests, and operates a project from rules you write once, with money or outbound moves gated by a typed yes",
+      "summary_zh": "一个从规划、写代码、测试到运维全包的搭档，按你写好的规则干活，花钱或对外发送前要你打字确认",
+      "official_summary": "A steady standup ally: one AI assistant that plans, builds, checks, researches, creates, and operates, with you as author and it as clerk. It walks new...",
+      "import": "https://x.ai/bot/fKmJNdkjP_tN2sMqLlPko",
+      "bot_id": "fKmJNdkjP_tN2sMqLlPko",
+      "category": "customer-sales",
+      "tags": [
+        "builder",
+        "planning",
+        "automation",
+        "approvals"
+      ],
+      "origin": "https://x.com/HexGodTurtle/status/2107161111552270546",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-10-06",
+      "checked": "2026-10-07",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "gb-live",
+      "name": "gb-live",
+      "author": {
+        "name": "アスラ",
+        "handle": "asura25ai",
+        "url": "https://x.com/asura25ai"
+      },
+      "summary": "Watches an X live stream and digests whatever actually changed",
+      "summary_zh": "盯一场 X 直播，只摘要真正变过的内容",
+      "official_summary": "Xのライブ配信を監視し、画面変化のスクショと日本語要約を溜め、変化があったときだけ毎時ダイジェストをオーナーへ送るボット。公開・投稿はしない。",
+      "import": "https://x.ai/bot/AUfHSwBuDsxZlTZRC2Olf",
+      "bot_id": "AUfHSwBuDsxZlTZRC2Olf",
+      "category": "research-briefings",
+      "tags": [
+        "personal",
+        "monitoring",
+        "social-media",
+        "scheduled"
+      ],
+      "origin": "https://x.com/asura25ai/status/2100007176840601901",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-17",
+      "checked": "2026-10-07",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "sunlight",
+      "name": "Sunlight",
+      "author": {
+        "name": "Developer",
+        "handle": "community"
+      },
+      "summary": "Expose media untruths and funding with primary-source hard gate",
+      "summary_zh": "围绕「Sunlight」的工作流助手，按说明完成首次只读任务后再开写入",
+      "official_summary": "Finds the money and the primary source behind a media claim, then holds it until you say it can go public. Every post is one small card with a floating...",
+      "import": "https://x.ai/bot/zfDZyngnaxStUF6RtoD-7",
+      "bot_id": "zfDZyngnaxStUF6RtoD-7",
+      "category": "research-briefings",
+      "tags": [
+        "research"
+      ],
+      "origin": "https://x.com/acornsoftai/status/2104717018217783354",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-10-02",
+      "checked": "2026-10-07",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
     }
   ]
 }
